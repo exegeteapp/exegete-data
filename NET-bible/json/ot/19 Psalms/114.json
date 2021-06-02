@@ -1,0 +1,50 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\">When <st data-num=\"03478\" class=\"\">Israel</st> <st data-num=\"03318\" class=\"\">left</st> <st data-num=\"04714\" class=\"\">Egypt</st>,<p class=\"poetry\">when the <st data-num=\"01004\" class=\"\">family</st> of <st data-num=\"03290\" class=\"\">Jacob</st> left a <st data-num=\"03937\" class=\"\">foreign</st> <st data-num=\"05971\" class=\"\">nation</st> behind,<n id=\"1\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\"><st data-num=\"03063\" class=\"\">Judah</st> <st data-num=\"01961\" class=\"\">became</st> his <st data-num=\"06944\" class=\"\">sanctuary</st>,<p class=\"poetry\"><st data-num=\"03478\" class=\"\">Israel</st> his <st data-num=\"04475\" class=\"\">kingdom</st>. </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\">The <st data-num=\"03220\" class=\"\">sea</st> <st data-num=\"07200\" class=\"\">looked</st> and <st data-num=\"05127\" class=\"\">fled</st>;<n id=\"1\" /> <p class=\"poetry\">the <st data-num=\"03383\" class=\"\">Jordan</st> River<n id=\"2\" /> <st data-num=\"05437\" class=\"\">turned</st> <st data-num=\"0268\" class=\"\">back</st>.<n id=\"3\" /> </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\">The <st data-num=\"02022\" class=\"\">mountains</st> <st data-num=\"07540\" class=\"\">skipped</st> like <st data-num=\"0352\" class=\"\">rams</st>,<p class=\"poetry\">the <st data-num=\"01389\" class=\"\">hills</st> like <st data-num=\"01121 06629\">lambs</st>.<n id=\"1\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\"><st data-num=\"04100\" class=\"\">Why</st> do you <st data-num=\"03588 05127\">flee</st>, O <st data-num=\"03220\" class=\"\">sea</st>?<p class=\"poetry\">Why do you <st data-num=\"05437\" class=\"\">turn</st> <st data-num=\"0268\" class=\"\">back</st>, O <st data-num=\"03383\" class=\"\">Jordan</st> River? </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\">Why do you <st data-num=\"07540\" class=\"\">skip</st> like <st data-num=\"0352\" class=\"\">rams</st>, O <st data-num=\"02022\" class=\"\">mountains</st>,<p class=\"poetry\">like <st data-num=\"01121 06629\">lambs</st>, O <st data-num=\"01389\" class=\"\">hills</st>? </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\"><st data-num=\"02342\" class=\"\">Tremble</st>, O <st data-num=\"0776\" class=\"\">earth</st>, <st data-num=\"06440\" class=\"\">before</st> the <st data-num=\"0113\" class=\"\">Lord</st>\u2014<p class=\"poetry\"><st data-num=\"06440\" class=\"\">before</st> the <st data-num=\"0433\" class=\"\">God</st> of <st data-num=\"03290\" class=\"\">Jacob</st>, </p>",
+    "verse": "7"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "114",
+    "text": "<p class=\"poetry\">who <st data-num=\"02015\" class=\"\">turned</st> a <st data-num=\"06697\" class=\"\">rock</st> into a <st data-num=\"098\" class=\"\">pool</st> of <st data-num=\"04325\" class=\"\">water</st>,<p class=\"poetry\">a <st data-num=\"02496\" class=\"\">hard rock</st> into <st data-num=\"04599\" class=\"\">springs</st> of <st data-num=\"04325\" class=\"\">water</st>.<n id=\"1\" /> </p>",
+    "verse": "8"
+  }
+]

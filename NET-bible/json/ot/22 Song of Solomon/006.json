@@ -1,0 +1,80 @@
+[
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"sosspeaker\"><b><i>The Maidens to the Beloved:</i></b><p class=\"poetry\"><st data-num=\"0575\" class=\"\">Where</st> has your <st data-num=\"01730\" class=\"\">beloved</st> <st data-num=\"01980\" class=\"\">gone</st>,<p class=\"poetry\">O most <st data-num=\"03303\" class=\"\">beautiful</st> among <st data-num=\"0802\" class=\"\">women</st>?<p class=\"poetry\"><st data-num=\"0575\" class=\"\">Where</st> has your <st data-num=\"01730\" class=\"\">beloved</st> <st data-num=\"06437\" class=\"\">turned</st>?<p class=\"poetry\">Tell us,<n id=\"1\" /> that we may <st data-num=\"01245\" class=\"\">seek</st> him <st data-num=\"05973\" class=\"\">with</st> you.<n id=\"2\" /></p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"sosspeaker\"><b><i>The Beloved to the Maidens:</i></b><p class=\"poetry\">My <st data-num=\"01730\" class=\"\">beloved</st> has <st data-num=\"03381\" class=\"\">gone down</st> to his <st data-num=\"01588\" class=\"\">garden</st>,<n id=\"1\" /> <p class=\"poetry\">to the <st data-num=\"06170\" class=\"\">flowerbeds</st> of <st data-num=\"01314\" class=\"\">balsam spices</st>,<n id=\"2\" /> <p class=\"poetry\">to <st data-num=\"07462\" class=\"\">graze</st><n id=\"3\" /> in the <st data-num=\"01588\" class=\"\">gardens</st>,<p class=\"poetry\">and to <st data-num=\"03950\" class=\"\">gather</st> <st data-num=\"07799\" class=\"\">lilies</st>.<n id=\"4\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"sosspeaker\"><b><i>The Beloved about Her Lover:</i></b><p class=\"poetry\"><st data-num=\"0589\" class=\"\">I</st> am my <st data-num=\"01730\" class=\"\">lover\u2019s</st>,<n id=\"1\" /> and my <st data-num=\"01730\" class=\"\">lover</st> is mine;<n id=\"2\" /> <p class=\"poetry\">he <st data-num=\"07462\" class=\"\">grazes</st> among the <st data-num=\"07799\" class=\"\">lilies</st>. </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"sosspeaker\"><b><i>The Lover to His Beloved:</i></b><p class=\"poetry\">My <st data-num=\"07474\" class=\"\">darling</st>, <st data-num=\"0859\" class=\"\">you</st> are as <st data-num=\"03303\" class=\"\">beautiful</st> as <st data-num=\"08656\" class=\"\">Tirzah</st>,<n id=\"1\" /> <p class=\"poetry\">as <st data-num=\"05000\" class=\"\">lovely</st> as <st data-num=\"03389\" class=\"\">Jerusalem</st>,<n id=\"2\" /> <p class=\"poetry\">as <st data-num=\"0366\" class=\"\">awe-inspiring</st><n id=\"3\" /> as <st data-num=\"01713\" class=\"\">bannered armies</st>.</p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"poetry\"><st data-num=\"05437\" class=\"\">Turn</st> your <st data-num=\"05869\" class=\"\">eyes</st> <st data-num=\"05437\" class=\"\">away</st> <st data-num=\"05048\" class=\"\">from</st> me\u2014<p class=\"poetry\"><st data-num=\"01992\" class=\"\">they</st> <st data-num=\"07292\" class=\"\">overwhelm</st><n id=\"1\" /> me!<p class=\"poetry\">Your <st data-num=\"08181\" class=\"\">hair</st> is like a <st data-num=\"05739\" class=\"\">flock</st> of <st data-num=\"05795\" class=\"\">goats</st><p class=\"poetry\"><st data-num=\"01570\" class=\"\">descending</st> <st data-num=\"04480\" class=\"\">from</st> Mount <st data-num=\"01568\" class=\"\">Gilead</st>. </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"poetry\">Your <st data-num=\"08127\" class=\"\">teeth</st> are like a <st data-num=\"05739\" class=\"\">flock</st> of <st data-num=\"07353\" class=\"\">sheep</st><p class=\"poetry\"><st data-num=\"05927\" class=\"\">coming up</st> <st data-num=\"04480\" class=\"\">from</st> the <st data-num=\"07367\" class=\"\">washing</st>;<p class=\"poetry\"><st data-num=\"03605\" class=\"\">each</st> <st data-num=\"08382\" class=\"\">has</st> its <st data-num=\"08382\" class=\"\">twin</st>;<p class=\"poetry\"><st data-num=\"0369\" class=\"\">not</st> one of them <st data-num=\"0369\" class=\"\">is</st> <st data-num=\"07909\" class=\"\">missing</st>. </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"poetry\">Like a <st data-num=\"06400\" class=\"\">slice</st> of <st data-num=\"07416\" class=\"\">pomegranate</st><p class=\"poetry\">is your <st data-num=\"07541\" class=\"\">forehead</st><n id=\"1\" /> <st data-num=\"01157\" class=\"\">behind</st> your <st data-num=\"06777\" class=\"\">veil</st>. </p>",
+    "verse": "7"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"poetry\"><st data-num=\"01992\" class=\"\">There</st> may be <st data-num=\"08346\" class=\"\">sixty</st><n id=\"1\" /> <st data-num=\"04436\" class=\"\">queens</st>,<p class=\"poetry\">and <st data-num=\"08084\" class=\"\">eighty</st> <st data-num=\"06370\" class=\"\">concubines</st>,<p class=\"poetry\">and <st data-num=\"05959\" class=\"\">young women</st><n id=\"2\" /> <st data-num=\"0369\" class=\"\">without</st> <st data-num=\"04557\" class=\"\">number</st>. </p>",
+    "verse": "8"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"poetry\">But <st data-num=\"01931\" class=\"\">she</st> is <st data-num=\"0259\" class=\"\">unique</st>,<n id=\"1\" /> <p class=\"poetry\">my <st data-num=\"03123\" class=\"\">dove</st>, my <st data-num=\"08535\" class=\"\">perfect one</st>!<p class=\"poetry\"><st data-num=\"01931\" class=\"\">She</st> is the <st data-num=\"0259\" class=\"\">special daughter</st><n id=\"2\" /> of her <st data-num=\"0517\" class=\"\">mother</st>;<p class=\"poetry\"><st data-num=\"01931\" class=\"\">she</st> is the <st data-num=\"01249\" class=\"\">favorite</st><n id=\"3\" /> of the one who <st data-num=\"03205\" class=\"\">bore</st> her.<p class=\"poetry\">The <st data-num=\"01323\" class=\"\">maidens</st><n id=\"4\" /> <st data-num=\"07200\" class=\"\">saw</st> her and <st data-num=\"0833\" class=\"\">complimented</st> her;<n id=\"5\" /> <p class=\"poetry\">the <st data-num=\"04436\" class=\"\">queens</st> and <st data-num=\"06370\" class=\"\">concubines</st> <st data-num=\"01984\" class=\"\">praised</st> her:</p>",
+    "verse": "9"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"poetry\">\u201c<st data-num=\"04310\" class=\"\">Who</st><n id=\"1\" /> is <st data-num=\"02063\" class=\"\">this</st> who <st data-num=\"08259\" class=\"\">appears</st><n id=\"2\" /> <st data-num=\"03644\" class=\"\">like</st> the <st data-num=\"07837\" class=\"\">dawn</st>?<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"03303\" class=\"\">Beautiful</st> as the <st data-num=\"03842\" class=\"\">moon</st>,<n id=\"4\" /> <st data-num=\"01249\" class=\"\">bright</st><n id=\"5\" /> as the <st data-num=\"02535\" class=\"\">sun</st>,<p class=\"poetry\"><st data-num=\"0366\" class=\"\">awe-inspiring</st><n id=\"6\" /> as the <st data-num=\"01713\" class=\"\">stars in procession</st>?\u201d<n id=\"7\" /> </p>",
+    "verse": "10"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"sosspeaker\"><b><i>The Lover to His Beloved:</i></b><n id=\"1\" /> <p class=\"poetry\">I <st data-num=\"03381\" class=\"\">went down</st> <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"01594\" class=\"\">orchard</st> of <st data-num=\"093\" class=\"\">walnut trees</st>,<n id=\"2\" /> <p class=\"poetry\">to <st data-num=\"07200\" class=\"\">look</st> for the <st data-num=\"03\" class=\"\">blossoms</st> of the <st data-num=\"05158\" class=\"\">valley</st>,<n id=\"3\" /> <p class=\"poetry\">to <st data-num=\"07200\" class=\"\">see</st> if the <st data-num=\"01612\" class=\"\">vines</st> had <st data-num=\"06524\" class=\"\">budded</st><p class=\"poetry\">or if the <st data-num=\"07416\" class=\"\">pomegranates</st> <st data-num=\"05132\" class=\"\">were in bloom</st>. </p>",
+    "verse": "11"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"poetry\"><n id=\"1\" /> <st data-num=\"05315\" class=\"\">I</st> <st data-num=\"03045\" class=\"\">was</st> <st data-num=\"03808\" class=\"\">beside</st> myself with joy!<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"08033\" class=\"\">There</st> please <st data-num=\"05414\" class=\"\">give</st> me your <st data-num=\"04753\" class=\"\">myrrh</st>,<n id=\"3\" /> <p class=\"poetry\">O <st data-num=\"01323\" class=\"\">daughter</st> of my <st data-num=\"05081\" class=\"\">princely</st> <st data-num=\"05971\" class=\"\">people</st>.<n id=\"4\" /> </p>",
+    "verse": "12"
+  },
+  {
+    "bookname": "The Song of Songs",
+    "chapter": "6",
+    "text": "<p class=\"sosspeaker\"><b><i>The Lover to His Beloved:</i></b><p class=\"poetry\">(7:1)<n id=\"1\" /> <st data-num=\"07725\" class=\"\">Turn</st>,<n id=\"2\" /> <st data-num=\"07725\" class=\"\">turn</st>, O<n id=\"3\" /> <st data-num=\"07759\" class=\"\">Perfect One</st>!<n id=\"4\" /> <p class=\"poetry\"><st data-num=\"07725\" class=\"\">Turn</st>, <st data-num=\"07725\" class=\"\">turn</st>, that I<n id=\"5\" /> may <st data-num=\"02372\" class=\"\">stare</st> at you!<p class=\"sosspeaker\"><b><i>The Beloved to Her Lover:</i></b><p class=\"poetry\"><st data-num=\"04100\" class=\"\">Why</st><n id=\"6\" /> do you <st data-num=\"02372\" class=\"\">gaze</st> upon the <st data-num=\"07759\" class=\"\">Perfect One</st><p class=\"poetry\">like the <st data-num=\"04246\" class=\"\">dance</st> of the <st data-num=\"04264\" class=\"\">Mahanaim</st>?<n id=\"7\" /> </p>",
+    "verse": "13"
+  }
+]

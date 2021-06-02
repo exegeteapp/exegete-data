@@ -1,0 +1,38 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "53",
+    "text": "<p class=\"psasuper\">For the <st data-num=\"05329\" class=\"\">music director</st>, <st data-num=\"05921\" class=\"\">according to</st> the <st data-num=\"04257\" class=\"\"><i>machalath</i></st> style;<n id=\"1\" /> a <st data-num=\"04905\" class=\"\">well-written song</st><n id=\"2\" /> by <st data-num=\"01732\" class=\"\">David</st>.<p class=\"poetry\"><st data-num=\"05036\" class=\"\">Fools</st> <st data-num=\"0559\" class=\"\">say</st> to <st data-num=\"03820\" class=\"\">themselves</st>,<n id=\"3\" /> \u201c<st data-num=\"0369\" class=\"\">There is no</st> <st data-num=\"0430\" class=\"\">God</st>.\u201d<n id=\"4\" /> <p class=\"poetry\">They <st data-num=\"07843\" class=\"\">sin</st> and <st data-num=\"08581\" class=\"\">commit</st> <st data-num=\"05766\" class=\"\">evil deeds</st>;<n id=\"5\" /> <p class=\"poetry\"><st data-num=\"0369\" class=\"\">none</st> of them <st data-num=\"06213\" class=\"\">does</st> <st data-num=\"02896\" class=\"\">what is right</st>.<n id=\"6\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "53",
+    "text": "<p class=\"poetry\"><st data-num=\"0430\" class=\"\">God</st> <st data-num=\"08259\" class=\"\">looks down</st> from <st data-num=\"08064\" class=\"\">heaven</st><n id=\"1\" /> <st data-num=\"05921\" class=\"\">at</st> the <st data-num=\"01121 0120\">human race</st>,<n id=\"2\" /> <p class=\"poetry\">to <st data-num=\"07200\" class=\"\">see</st> if <st data-num=\"03426\" class=\"\">there is</st> anyone who is <st data-num=\"07919\" class=\"\">wise</st><n id=\"3\" /> and <st data-num=\"01875\" class=\"\">seeks</st> <st data-num=\"0430\" class=\"\">God</st>.<n id=\"4\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "53",
+    "text": "<p class=\"poetry\"><st data-num=\"03605\" class=\"\">Everyone</st> <st data-num=\"05472\" class=\"\">rejects</st> God;<n id=\"1\" /> <p class=\"poetry\">they are <st data-num=\"03162\" class=\"\">all</st> <st data-num=\"0444\" class=\"\">morally corrupt</st>.<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"0369\" class=\"\">None</st> of them <st data-num=\"06213\" class=\"\">does</st> <st data-num=\"02896\" class=\"\">what is right</st>,<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"0369\" class=\"\">not</st> <st data-num=\"01571\" class=\"\">even</st> <st data-num=\"0259\" class=\"\">one</st>! </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "53",
+    "text": "<p class=\"poetry\"><st data-num=\"03605\">All</st> those who <st data-num=\"06466\" class=\"\">behave</st> <st data-num=\"0205\" class=\"\">wickedly</st><n id=\"1\" /> do <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"03045\" class=\"\">understand</st><n id=\"2\" />\u2014<p class=\"poetry\">those who <st data-num=\"0398\" class=\"\">devour</st> my <st data-num=\"05971\" class=\"\">people</st> as if they were <st data-num=\"0398\" class=\"\">eating</st> <st data-num=\"03899\" class=\"\">bread</st><p class=\"poetry\">and do <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"07121\" class=\"\">call out to</st> <st data-num=\"0430\" class=\"\">God</st>. </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "53",
+    "text": "<p class=\"poetry\">They <st data-num=\"08033 06342\">are</st> <st data-num=\"06343\" class=\"\">absolutely</st> <st data-num=\"08033 06342\">terrified</st>,<n id=\"1\" /> <p class=\"poetry\">even by <st data-num=\"06343\" class=\"\">things that</st> <st data-num=\"01961\" class=\"\">do</st> <st data-num=\"03808\" class=\"\">not</st> normally <st data-num=\"06343\" class=\"\">cause fear</st>.<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> <st data-num=\"0430\" class=\"\">God</st> <st data-num=\"06340 06106\">annihilates</st><n id=\"3\" /> those who <st data-num=\"02583\" class=\"\">attack</st> you.<n id=\"4\" /> <p class=\"poetry\">You are able to <st data-num=\"0954\" class=\"\">humiliate</st> them <st data-num=\"03588\" class=\"\">because</st> <st data-num=\"0430\" class=\"\">God</st> has <st data-num=\"03988\" class=\"\">rejected</st> them.<n id=\"5\" /></p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "53",
+    "text": "<p class=\"poetry\"><st data-num=\"04310\" class=\"\">I</st> <st data-num=\"05414\" class=\"\">wish</st> the <st data-num=\"03444\" class=\"\">deliverance</st><n id=\"1\" /> of <st data-num=\"03478\" class=\"\">Israel</st> would come from <st data-num=\"06726\" class=\"\">Zion</st>!<p class=\"poetry\">When <st data-num=\"0430\" class=\"\">God</st> <st data-num=\"07725\" class=\"\">restores</st> the <st data-num=\"07622\" class=\"\">well-being</st> of his <st data-num=\"05971\" class=\"\">people</st>,<n id=\"2\" /> <p class=\"poetry\">may <st data-num=\"03290\" class=\"\">Jacob</st> <st data-num=\"01523\" class=\"\">rejoice</st>,<n id=\"3\" /> <p class=\"poetry\">may <st data-num=\"03478\" class=\"\">Israel</st> <st data-num=\"08055\" class=\"\">be happy</st>!<n id=\"4\" /> </p>",
+    "verse": "6"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "142",
+    "text": "<p class=\"psasuper\">A <st data-num=\"04905\" class=\"\">well-written song</st><n id=\"1\" /> by <st data-num=\"01732\" class=\"\">David</st>, when he <st data-num=\"01961\" class=\"\">was</st> in the <st data-num=\"04631\" class=\"\">cave</st>;<n id=\"2\" /> a <st data-num=\"08605\" class=\"\">prayer</st>.<p class=\"poetry\"><st data-num=\"0413\" class=\"\">To</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"06963\" class=\"\">I</st> <st data-num=\"02199\" class=\"\">cry out</st>;<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"0413\" class=\"\">to</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"06963\" class=\"\">I</st> <st data-num=\"02603\" class=\"\">plead for mercy</st>.<n id=\"4\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "142",
+    "text": "<p class=\"poetry\">I <st data-num=\"08210\" class=\"\">pour out</st> my <st data-num=\"07879\" class=\"\">lament</st> <st data-num=\"06440\" class=\"\">before</st> him;<p class=\"poetry\">I <st data-num=\"06440 05046\">tell</st> him about<n id=\"1\" /> my <st data-num=\"06869\" class=\"\">troubles</st>. </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "142",
+    "text": "<p class=\"poetry\">Even when my <st data-num=\"07307\" class=\"\">strength</st> <st data-num=\"05848 05921\">leaves</st> me,<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"0859\" class=\"\">you</st> <st data-num=\"03045\" class=\"\">watch</st> my <st data-num=\"05410\" class=\"\">footsteps</st>.<n id=\"2\" /> <p class=\"poetry\">In the <st data-num=\"0734\" class=\"\">path</st> <st data-num=\"02098\" class=\"\">where</st> I <st data-num=\"01980\" class=\"\">walk</st><p class=\"poetry\">they have <st data-num=\"02934\" class=\"\">hidden</st> a <st data-num=\"06341\" class=\"\">trap</st> for me.</p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "142",
+    "text": "<p class=\"poetry\"><st data-num=\"05027\" class=\"\">Look</st> to the <st data-num=\"03225\" class=\"\">right</st> and <st data-num=\"07200\" class=\"\">see</st>.<p class=\"poetry\"><st data-num=\"0369\" class=\"\">No</st> one <st data-num=\"05234\" class=\"\">cares about</st> me.<n id=\"1\" /> <p class=\"poetry\">I have <st data-num=\"06 04480\">nowhere</st> to <st data-num=\"04498\" class=\"\">run</st>;<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"0369\" class=\"\">no</st> one is <st data-num=\"01875\" class=\"\">concerned about</st> my <st data-num=\"05315\" class=\"\">life</st>.<n id=\"3\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "142",
+    "text": "<p class=\"poetry\">I <st data-num=\"02199\" class=\"\">cry out</st> <st data-num=\"0413\" class=\"\">to</st> you, O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>;<p class=\"poetry\">I <st data-num=\"0559\" class=\"\">say</st>, \u201c<st data-num=\"0859\" class=\"\">You</st> are my <st data-num=\"04268\" class=\"\">shelter</st>,<p class=\"poetry\">my <st data-num=\"02506\" class=\"\">security</st><n id=\"1\" /> in the <st data-num=\"0776\" class=\"\">land</st> of the <st data-num=\"02416\" class=\"\">living</st>.\u201d </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "142",
+    "text": "<p class=\"poetry\"><st data-num=\"07181\" class=\"\">Listen</st> <st data-num=\"0413\" class=\"\">to</st> my <st data-num=\"07440\" class=\"\">cry for help</st>,<p class=\"poetry\"><st data-num=\"03588\" class=\"\">for</st> I <st data-num=\"01809\" class=\"\">am in</st> <st data-num=\"03966\" class=\"\">serious</st> <st data-num=\"01809\" class=\"\">trouble</st>.<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"05337\" class=\"\">Rescue</st> me from those who <st data-num=\"07291\" class=\"\">chase</st> me,<p class=\"poetry\"><st data-num=\"03588\" class=\"\">for</st> they <st data-num=\"0553\" class=\"\">are stronger</st> <st data-num=\"04480\" class=\"\">than</st> I am.</p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "142",
+    "text": "<p class=\"poetry\"><st data-num=\"03318\" class=\"\">Free</st> <st data-num=\"05315\" class=\"\">me</st><n id=\"1\" /> from <st data-num=\"04525\" class=\"\">prison</st><p class=\"poetry\">that I may <st data-num=\"03034\" class=\"\">give thanks</st> to your <st data-num=\"08034\" class=\"\">name</st>.<p class=\"poetry\">Because of me the <st data-num=\"06662\" class=\"\">godly</st> will <st data-num=\"03803\" class=\"\">assemble</st>,<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">for</st> you will <st data-num=\"01580 05921\">vindicate</st> me.<n id=\"3\" /></p>",
+    "verse": "7"
+  }
+]

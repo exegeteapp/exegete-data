@@ -1,0 +1,32 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "15",
+    "text": "<p class=\"psasuper\">A <st data-num=\"04210\" class=\"\">psalm</st> of <st data-num=\"01732\" class=\"\">David</st>.<p class=\"poetry\"><span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"04310\" class=\"\">who</st> may <st data-num=\"01481\">be a guest</st> in your <st data-num=\"0168\" class=\"\">home</st>?<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"04310\" class=\"\">Who</st> may <st data-num=\"07931\" class=\"\">live</st> on your <st data-num=\"06944\" class=\"\">holy</st> <st data-num=\"02022\" class=\"\">hill</st>?<n id=\"2\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "15",
+    "text": "<p class=\"poetry\">Whoever <st data-num=\"01980\" class=\"\">lives</st> a <st data-num=\"08549\" class=\"\">blameless life</st>,<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"06466\" class=\"\">does</st> <st data-num=\"06664\" class=\"\">what is right</st>,<p class=\"poetry\">and <st data-num=\"01696\" class=\"\">speaks</st> <st data-num=\"0571 03824\">honestly</st>.<n id=\"2\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "15",
+    "text": "<p class=\"poetry\">He<n id=\"1\" /> does <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"07270 05921 03956\">slander</st>,<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"03808\" class=\"\">or</st> <st data-num=\"06213\" class=\"\">do</st> <st data-num=\"07451\" class=\"\">harm</st> to <st data-num=\"07453\" class=\"\">others</st>,<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"03808\" class=\"\">or</st> <st data-num=\"02781 05375 05921\">insult</st> his <st data-num=\"07138\" class=\"\">neighbor</st>.<n id=\"4\" /> </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "15",
+    "text": "<p class=\"poetry\"><st data-num=\"05869\" class=\"\">He</st> <st data-num=\"0959\" class=\"\">despises</st> a <st data-num=\"03988\" class=\"\">reprobate</st>,<n id=\"1\" /> <p class=\"poetry\">but <st data-num=\"03513\" class=\"\">honors</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>\u2019s <st data-num=\"03373\" class=\"\">loyal followers</st>.<n id=\"2\" /> <p class=\"poetry\">He <st data-num=\"07650\" class=\"\">makes</st> <st data-num=\"07489\" class=\"\">firm</st> <st data-num=\"07650\" class=\"\">commitments</st> and does <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"04171\" class=\"\">renege on</st> his <st data-num=\"04171\" class=\"\">promise</st>.<n id=\"3\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "15",
+    "text": "<p class=\"poetry\">He does <st data-num=\"03808\" class=\"\">not</st> charge <st data-num=\"05392\" class=\"\">interest</st> when he <st data-num=\"05414\" class=\"\">lends</st> his <st data-num=\"03701\" class=\"\">money</st>.<n id=\"1\" /> <p class=\"poetry\">He does <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"03947\" class=\"\">take</st> <st data-num=\"07810\" class=\"\">bribes</st> to testify <st data-num=\"05921\" class=\"\">against</st> the <st data-num=\"05355\" class=\"\">innocent</st>.<n id=\"2\" /> <p class=\"poetry\">The one who <st data-num=\"06213\" class=\"\">lives</st> like <st data-num=\"0428\" class=\"\">this</st><n id=\"3\" /> will <st data-num=\"03808 05769\">never</st> be <st data-num=\"04131\" class=\"\">shaken</st>. </p>",
+    "verse": "5"
+  }
+]

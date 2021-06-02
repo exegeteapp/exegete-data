@@ -1,0 +1,32 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "70",
+    "text": "<p class=\"psasuper\">For the <st data-num=\"05329\" class=\"\">music director</st>, by <st data-num=\"01732\" class=\"\">David</st>; written to <st data-num=\"02142\" class=\"\">get</st> God\u2019s <st data-num=\"02142\" class=\"\">attention</st>.<n id=\"1\" /> <p class=\"poetry\">O <st data-num=\"0430\" class=\"\">God</st>, please <st data-num=\"07521\">be willing</st> to <st data-num=\"05337\" class=\"\">rescue</st> me.<n id=\"2\" /> <p class=\"poetry\">O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"02363\" class=\"\">hurry</st> and <st data-num=\"05833\" class=\"\">help</st> me.<n id=\"3\" /></p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "70",
+    "text": "<p class=\"poetry\">May those who are <st data-num=\"01245\" class=\"\">trying to take</st> my <st data-num=\"05315\" class=\"\">life</st><p class=\"poetry\"><st data-num=\"0954 02659\">be</st> <st data-num=\"0954\" class=\"\">embarrassed</st> and <st data-num=\"02659\" class=\"\">ashamed</st>.<n id=\"1\" /> <p class=\"poetry\">May those who <st data-num=\"02655\" class=\"\">want</st> to <st data-num=\"07451\" class=\"\">harm</st> me<p class=\"poetry\">be <st data-num=\"05472\" class=\"\">turned</st> <st data-num=\"0268\" class=\"\">back</st> and <st data-num=\"03637\" class=\"\">ashamed</st>.<n id=\"2\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "70",
+    "text": "<p class=\"poetry\">May those who <st data-num=\"0559\" class=\"\">say</st>, \u201c<st data-num=\"01889\" class=\"\">Aha</st>! <st data-num=\"01889\" class=\"\">Aha</st>!\u201d<p class=\"poetry\">be <st data-num=\"07725\" class=\"\">driven back</st><n id=\"1\" /> <st data-num=\"05921 06118\">and</st> <st data-num=\"01322\" class=\"\">disgraced</st>.<n id=\"2\" /></p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "70",
+    "text": "<p class=\"poetry\">May <st data-num=\"03605\" class=\"\">all</st> those who <st data-num=\"01245\" class=\"\">seek</st> you <st data-num=\"07797\" class=\"\">be happy</st> and <st data-num=\"08055\" class=\"\">rejoice</st> in you.<p class=\"poetry\">May those who <st data-num=\"0157\" class=\"\">love</st> to experience<n id=\"1\" /> your <st data-num=\"03444\" class=\"\">deliverance</st> <st data-num=\"0559\" class=\"\">say</st> <st data-num=\"08548\" class=\"\">continually</st>,<n id=\"2\" /> <p class=\"poetry\">\u201cMay <st data-num=\"0430\" class=\"\">God</st><n id=\"3\" /> be <st data-num=\"01431\">praised</st>!\u201d<n id=\"4\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "70",
+    "text": "<p class=\"poetry\"><st data-num=\"0589\" class=\"\">I</st> am <st data-num=\"06041\" class=\"\">oppressed</st> and <st data-num=\"034\" class=\"\">needy</st>.<n id=\"1\" /> <p class=\"poetry\">O <st data-num=\"0430\" class=\"\">God</st>, <st data-num=\"02363\" class=\"\">hurry</st> to me.<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"0859\" class=\"\">You</st> are my <st data-num=\"05828\" class=\"\">helper</st> and my <st data-num=\"06403\" class=\"\">deliverer</st>.<p class=\"poetry\">O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>,<n id=\"3\" /> do <st data-num=\"0408\" class=\"\">not</st> <st data-num=\"0309\" class=\"\">delay</st>. </p>",
+    "verse": "5"
+  }
+]

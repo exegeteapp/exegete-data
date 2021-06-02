@@ -1,0 +1,38 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "13",
+    "text": "<p class=\"psasuper\">For the <st data-num=\"05329\" class=\"\">music director</st>, a <st data-num=\"04210\" class=\"\">psalm</st> of <st data-num=\"01732\">David</st>.<p class=\"poetry\"><st data-num=\"05704\" class=\"\">How</st> <st data-num=\"0575\" class=\"\">long</st>, <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, will you <st data-num=\"05331\" class=\"\">continue</st> to <st data-num=\"07911\" class=\"\">ignore</st> me?<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"05704\">How</st> <st data-num=\"0575\">long</st> will you <st data-num=\"05641 06440\">pay no attention</st> <st data-num=\"04480\" class=\"\">to</st> me?<n id=\"2\" /></p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "13",
+    "text": "<p class=\"poetry\"><st data-num=\"05704\" class=\"\">How</st> <st data-num=\"0575\">long</st> must I <st data-num=\"07896 06098 05315\">worry</st>,<n id=\"1\" /> <p class=\"poetry\">and <st data-num=\"03015 03824\">suffer</st> in <st data-num=\"03119\" class=\"\">broad daylight</st>?<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"05704 0575\">How long</st> will my <st data-num=\"0341\" class=\"\">enemy</st> <st data-num=\"07311\" class=\"\">gloat</st> <st data-num=\"05921\" class=\"\">over</st> me?<n id=\"3\" /></p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "13",
+    "text": "<p class=\"poetry\"><st data-num=\"05027\" class=\"\">Look at</st> me!<n id=\"1\" /> <st data-num=\"06030\" class=\"\">Answer</st> me, O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> my <st data-num=\"0430\" class=\"\">God</st>!<p class=\"poetry\"><st data-num=\"0215 05869\">Revive</st> me,<n id=\"2\" /> <st data-num=\"06435\" class=\"\">or else</st> I will <st data-num=\"03462 04194\">die</st>.<n id=\"3\" /> </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "13",
+    "text": "<p class=\"poetry\"><st data-num=\"06435\" class=\"\">Then</st><n id=\"1\" /> my <st data-num=\"0341\" class=\"\">enemy</st> will <st data-num=\"0559\" class=\"\">say</st>, \u201cI have <st data-num=\"03201\" class=\"\">defeated</st> him.\u201d<p class=\"poetry\">Then<n id=\"2\" /> my <st data-num=\"06862\" class=\"\">foes</st> will <st data-num=\"01523\" class=\"\">rejoice</st> <st data-num=\"03588\" class=\"\">because</st> I am <st data-num=\"04131\" class=\"\">shaken</st>. </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "13",
+    "text": "<p class=\"poetry\">But <st data-num=\"0589\" class=\"\">I</st><n id=\"1\" /> <st data-num=\"0982\" class=\"\">trust</st> in your <st data-num=\"02617\" class=\"\">faithfulness</st>.<p class=\"poetry\">May <st data-num=\"03820\" class=\"\">I</st> <st data-num=\"01523\" class=\"\">rejoice</st> because of your <st data-num=\"03444\" class=\"\">deliverance</st>.<n id=\"2\" /> </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "13",
+    "text": "<p class=\"poetry\">I will <st data-num=\"07891\">sing praises</st><n id=\"1\" /> to the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><p class=\"poetry\"><st data-num=\"03588\" class=\"\">when</st> he <st data-num=\"01580 05921\">vindicates</st> me.<n id=\"2\" /></p>",
+    "verse": "6"
+  }
+]

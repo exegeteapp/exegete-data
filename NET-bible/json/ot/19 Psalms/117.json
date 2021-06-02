@@ -1,0 +1,14 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "117",
+    "text": "<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"03605\" class=\"\">all</st> you <st data-num=\"01471\" class=\"\">nations</st>.<p class=\"poetry\"><st data-num=\"07623\" class=\"\">Applaud</st> him, <st data-num=\"03605\" class=\"\">all</st> you <st data-num=\"0523\" class=\"\">foreigners</st>.<n id=\"1\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "117",
+    "text": "<p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> his <st data-num=\"02617\" class=\"\">loyal love</st> <st data-num=\"01396\" class=\"\">towers</st><n id=\"1\" /> <st data-num=\"05921\" class=\"\">over</st> us,<p class=\"poetry\">and the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>\u2019s <st data-num=\"0571\" class=\"\">faithfulness</st> <st data-num=\"05769\" class=\"\">endures</st>.<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> the <st data-num=\"03050\" class=\"\"><span class=\"smcaps\">Lord</span></st>. </p>",
+    "verse": "2"
+  }
+]

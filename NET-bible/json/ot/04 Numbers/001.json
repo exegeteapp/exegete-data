@@ -1,0 +1,326 @@
+[
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><n id=\"1\" /> Now the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><n id=\"2\" /> <st data-num=\"01696\" class=\"\">spoke</st><n id=\"3\" /> <st data-num=\"0413\" class=\"\">to</st> <st data-num=\"04872\" class=\"\">Moses</st> in the <st data-num=\"0168\" class=\"\">tent</st> of <st data-num=\"04150\" class=\"\">meeting</st><n id=\"4\" /> in the <st data-num=\"04057\" class=\"\">desert</st><n id=\"5\" /> of <st data-num=\"05514\" class=\"\">Sinai</st><n id=\"6\" /> on the <st data-num=\"0259\" class=\"\">first</st> day of the <st data-num=\"08145\" class=\"\">second</st> <st data-num=\"02320\" class=\"\">month</st> of the <st data-num=\"08145\" class=\"\">second</st> <st data-num=\"08141\" class=\"\">year</st> after<n id=\"7\" /> the Israelites<n id=\"8\" /> <st data-num=\"03318\" class=\"\">departed</st> from the <st data-num=\"0776\" class=\"\">land</st> of <st data-num=\"04714\" class=\"\">Egypt</st>.<n id=\"9\" /> He <st data-num=\"0559\" class=\"\">said</st>:<n id=\"10\" /> ",
+    "verse": "1"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "\u201c<st data-num=\"05375\" class=\"\">Take</st> a <st data-num=\"07218\" class=\"\">census</st><n id=\"1\" /> of the <st data-num=\"03605\" class=\"\">entire</st><n id=\"2\" /> <st data-num=\"01121 03478\">Israelite</st> <st data-num=\"05712\" class=\"\">community</st><n id=\"3\" /> by their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>,<n id=\"4\" /> <st data-num=\"04557\" class=\"\">counting</st> the <st data-num=\"08034\" class=\"\">name</st> of <st data-num=\"03605\" class=\"\">every</st> <st data-num=\"01538\" class=\"\">individual</st> <st data-num=\"02145\" class=\"\">male</st>.<n id=\"5\" /> ",
+    "verse": "2"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<st data-num=\"0859\" class=\"\">You</st> and <st data-num=\"0175\" class=\"\">Aaron</st> are to <st data-num=\"06485\" class=\"\">number</st><n id=\"1\" /> <st data-num=\"03605\" class=\"\">all</st> in <st data-num=\"03478\" class=\"\">Israel</st> who can <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st>,<n id=\"2\" /> those who are<n id=\"3\" /> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years</st> <st data-num=\"01121\" class=\"\">old</st> or <st data-num=\"04605\" class=\"\">older</st>,<n id=\"4\" /> by their <st data-num=\"06635\" class=\"\">divisions</st>.<n id=\"5\" /> ",
+    "verse": "3"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "And <st data-num=\"0854\" class=\"\">to help</st> you<n id=\"1\" /> there is to <st data-num=\"01961\" class=\"\">be</st> a <st data-num=\"0376\" class=\"\">man</st> from <st data-num=\"0376\" class=\"\">each</st><n id=\"2\" /> <st data-num=\"04294\" class=\"\">tribe</st>, <st data-num=\"0376\" class=\"\">each man</st><n id=\"3\" /> the <st data-num=\"07218\" class=\"\">head</st><n id=\"4\" /> of his <st data-num=\"01004 01\">family</st>.<n id=\"5\" /> ",
+    "verse": "4"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Now <st data-num=\"0428\" class=\"\">these</st> are the <st data-num=\"08034\" class=\"\">names</st> of the <st data-num=\"0376\" class=\"\">men</st> <st data-num=\"0834\" class=\"\">who</st> are to <st data-num=\"05975\" class=\"\">help</st><n id=\"1\" /> you:<p class=\"poetry\">from<n id=\"2\" /> <st data-num=\"07205\" class=\"\">Reuben</st>, <st data-num=\"0468\" class=\"\">Elizur</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"07707\" class=\"\">Shedeur</st>; </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"08095\" class=\"\">Simeon</st>, <st data-num=\"08017\" class=\"\">Shelumiel</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"06701\" class=\"\">Zurishaddai</st>;<n id=\"1\" /> </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"03063\" class=\"\">Judah</st>, <st data-num=\"05177\" class=\"\">Nahshon</st><n id=\"1\" /> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"05992\" class=\"\">Amminadab</st>; </p>",
+    "verse": "7"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"03485\" class=\"\">Issachar</st>, <st data-num=\"05417\" class=\"\">Nethanel</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"06686\" class=\"\">Zuar</st>; </p>",
+    "verse": "8"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"02074\" class=\"\">Zebulun</st>, <st data-num=\"0446\" class=\"\">Eliab</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"02497\" class=\"\">Helon</st>; </p>",
+    "verse": "9"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from the <st data-num=\"01121\" class=\"\">sons</st> of <st data-num=\"03130\" class=\"\">Joseph</st>:<p class=\"poetry\">from <st data-num=\"0669\" class=\"\">Ephraim</st>, <st data-num=\"0476\" class=\"\">Elishama</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"05989\" class=\"\">Ammihud</st>;<p class=\"poetry\">from <st data-num=\"04519\" class=\"\">Manasseh</st>, <st data-num=\"01583\" class=\"\">Gamaliel</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"06301\" class=\"\">Pedahzur</st>; </p>",
+    "verse": "10"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"01144\" class=\"\">Benjamin</st>, <st data-num=\"027\" class=\"\">Abidan</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"01441\" class=\"\">Gideoni</st>; </p>",
+    "verse": "11"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"01835\" class=\"\">Dan</st>, <st data-num=\"0295\" class=\"\">Ahiezer</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"05996\" class=\"\">Ammishaddai</st>; </p>",
+    "verse": "12"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"0836\" class=\"\">Asher</st>, <st data-num=\"06295\" class=\"\">Pagiel</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"05918\" class=\"\">Ocran</st>; </p>",
+    "verse": "13"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"01410\" class=\"\">Gad</st>, <st data-num=\"0460\" class=\"\">Eliasaph</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"01845\" class=\"\">Deuel</st>;<n id=\"1\" /> </p>",
+    "verse": "14"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">from <st data-num=\"05321\" class=\"\">Naphtali</st>, <st data-num=\"0299\" class=\"\">Ahira</st> <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"05881\" class=\"\">Enan</st>.\u201d </p>",
+    "verse": "15"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"0428\" class=\"\">These</st> were the ones <st data-num=\"07121\">chosen</st><n id=\"1\" /> from the <st data-num=\"05712\" class=\"\">community</st>, <st data-num=\"05387\" class=\"\">leaders</st><n id=\"2\" /> of their <st data-num=\"01\" class=\"\">ancestral</st> <st data-num=\"04294\" class=\"\">tribes</st>.<n id=\"3\" /> <st data-num=\"01992\" class=\"\">They</st> were the <st data-num=\"07218\" class=\"\">heads</st> of the <st data-num=\"0505\" class=\"\">thousands</st><n id=\"4\" /> of <st data-num=\"03478\" class=\"\">Israel</st>. </p>",
+    "verse": "16"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">So <st data-num=\"04872\" class=\"\">Moses</st> and <st data-num=\"0175\" class=\"\">Aaron</st> <st data-num=\"03947\" class=\"\">took</st> <st data-num=\"0428\" class=\"\">these</st> <st data-num=\"0582\" class=\"\">men</st> <st data-num=\"0834\" class=\"\">who</st> had been <st data-num=\"05344\" class=\"\">mentioned specifically</st> by <st data-num=\"08034\" class=\"\">name</st>, ",
+    "verse": "17"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "and they <st data-num=\"06950\" class=\"\">assembled</st> the <st data-num=\"03605\" class=\"\">entire</st> <st data-num=\"05712\" class=\"\">community</st> <st data-num=\"06950\" class=\"\">together</st> on the <st data-num=\"0259\" class=\"\">first</st> day of the <st data-num=\"08145\" class=\"\">second</st> <st data-num=\"02320\" class=\"\">month</st>.<n id=\"1\" /> Then the people <st data-num=\"03205\" class=\"\">recorded their ancestry</st><n id=\"2\" /> <st data-num=\"05921\" class=\"\">by</st> their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, and the <st data-num=\"01121\" class=\"\">men</st> who were <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years</st> old or <st data-num=\"04605\" class=\"\">older</st> were <st data-num=\"04557\" class=\"\">listed</st><n id=\"3\" /> by <st data-num=\"08034\" class=\"\">name</st> <st data-num=\"01538\" class=\"\">individually</st>, ",
+    "verse": "18"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "just <st data-num=\"0834\" class=\"\">as</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> had <st data-num=\"06680\" class=\"\">commanded</st> <st data-num=\"04872\" class=\"\">Moses</st>. And so he <st data-num=\"06485\" class=\"\">numbered</st> them in the <st data-num=\"04057\" class=\"\">desert</st> of <st data-num=\"05514\" class=\"\">Sinai</st>. </p>",
+    "verse": "19"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">And they <st data-num=\"01961\" class=\"\">were</st> as follows:<p class=\"bodytext\">The <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"07205\" class=\"\">Reuben</st>, the <st data-num=\"01060\" class=\"\">firstborn son</st> of <st data-num=\"03478\" class=\"\">Israel</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"02145\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years</st> <st data-num=\"01121\" class=\"\">old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st> <st data-num=\"01538\" class=\"\">individually</st>. ",
+    "verse": "20"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st><n id=\"1\" /> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"07205\" class=\"\">Reuben</st> were <st data-num=\"08337 0705 0505 02568 03967\">46,500</st>.</p>",
+    "verse": "21"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"08095\" class=\"\">Simeon</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"02145\" class=\"\">males</st> <st data-num=\"06485\" class=\"\">numbered</st> of them<n id=\"1\" /> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years</st> <st data-num=\"01121\" class=\"\">old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st> <st data-num=\"01538\" class=\"\">individually</st>. ",
+    "verse": "22"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"08095\" class=\"\">Simeon</st> were <st data-num=\"08672 02572 0505 07969 03967\">59,300</st>.</p>",
+    "verse": "23"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><n id=\"1\" /> From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"01410\" class=\"\">Gad</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "24"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"01410\" class=\"\">Gad</st> were <st data-num=\"02568 0705 0505 08337 03967 02572\">45,650</st>.</p>",
+    "verse": "25"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"03063\" class=\"\">Judah:</st> According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "26"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"03063\" class=\"\">Judah</st> were <st data-num=\"0702 07657 0505 08337 03967\">74,600</st>.</p>",
+    "verse": "27"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"03485\" class=\"\">Issachar</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "28"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"03485\" class=\"\">Issachar</st> were <st data-num=\"0702 02572 0505 0702 03967\">54,400</st>.</p>",
+    "verse": "29"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"02074\" class=\"\">Zebulun</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "30"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"02074\" class=\"\">Zebulun</st> were <st data-num=\"07651 02572 0505 0702 03967\">57,400</st>.</p>",
+    "verse": "31"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">sons</st> of <st data-num=\"03130\" class=\"\">Joseph</st>: <p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"0669\" class=\"\">Ephraim</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "32"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"0669\" class=\"\">Ephraim</st> were <st data-num=\"0705 0505 02568 03967\">40,500</st>.",
+    "verse": "33"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"04519\" class=\"\">Manasseh</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "34"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"04519\" class=\"\">Manasseh</st> were <st data-num=\"08147 07970 0505 03967\">32,200</st>.</p>",
+    "verse": "35"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"01144\" class=\"\">Benjamin</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "36"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"01144\" class=\"\">Benjamin</st> were <st data-num=\"02568 07970 0505 0702 03967\">35,400</st>.</p>",
+    "verse": "37"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"01835\" class=\"\">Dan</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "38"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"01835\" class=\"\">Dan</st> were <st data-num=\"08147 08346 0505 07651 03967\">62,700</st>.</p>",
+    "verse": "39"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"0836\" class=\"\">Asher</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "40"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"0836\" class=\"\">Asher</st> were <st data-num=\"0259 0705 0505 02568 03967\">41,500</st>.</p>",
+    "verse": "41"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">From<n id=\"1\" /> the <st data-num=\"01121\" class=\"\">descendants</st> of <st data-num=\"05321\" class=\"\">Naphtali</st>: According to the <st data-num=\"08435\" class=\"\">records</st> of their <st data-num=\"04940\" class=\"\">clans</st> and <st data-num=\"01004 01\">families</st>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"01121\" class=\"\">males</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years old</st> or <st data-num=\"04605\" class=\"\">older</st> who could <st data-num=\"03318\" class=\"\">serve</st> in the <st data-num=\"06635\" class=\"\">army</st> were <st data-num=\"04557\" class=\"\">listed</st> by <st data-num=\"08034\" class=\"\">name</st>. ",
+    "verse": "42"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Those of them who were <st data-num=\"06485\" class=\"\">numbered</st> from the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"05321\" class=\"\">Naphtali</st> were <st data-num=\"07969 02572 0505 0702 03967\">53,400</st>.</p>",
+    "verse": "43"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"0428\" class=\"\">These</st> were the men <st data-num=\"0834\" class=\"\">whom</st> <st data-num=\"04872\" class=\"\">Moses</st> and <st data-num=\"0175\" class=\"\">Aaron</st> <st data-num=\"06485\" class=\"\">numbered</st><n id=\"1\" /> along with the <st data-num=\"08147 06240 0376\">twelve</st> <st data-num=\"05387\" class=\"\">leaders</st> of <st data-num=\"03478\" class=\"\">Israel</st>, <st data-num=\"0259\" class=\"\">each</st> <st data-num=\"0376\" class=\"\">of whom</st><n id=\"2\" /> <st data-num=\"01961\" class=\"\">was</st> from his own <st data-num=\"01004 01\">family</st>. ",
+    "verse": "44"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<st data-num=\"03605\" class=\"\">All</st> the <st data-num=\"01121 03478\">Israelites</st> who <st data-num=\"01961\" class=\"\">were</st> <st data-num=\"06242\" class=\"\">twenty</st> <st data-num=\"08141\" class=\"\">years</st> <st data-num=\"01121\" class=\"\">old</st> or <st data-num=\"04605\" class=\"\">older</st>, who could <st data-num=\"03318\" class=\"\">serve</st> in <st data-num=\"03478\" class=\"\">Israel\u2019s</st> <st data-num=\"06635\" class=\"\">army</st>, were <st data-num=\"06485\" class=\"\">numbered</st><n id=\"1\" /> according to their <st data-num=\"01004 01\">families</st>. ",
+    "verse": "45"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "And <st data-num=\"03605\" class=\"\">all</st> those <st data-num=\"06485\" class=\"\">numbered</st> <st data-num=\"01961\" class=\"\">totaled</st> <st data-num=\"08337 03967 0505 07969 0505 02568 03967 02572\">603,550</st>.</p>",
+    "verse": "46"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">But<n id=\"1\" /> the <st data-num=\"03881\" class=\"\">Levites</st>, according to the <st data-num=\"04294\" class=\"\">tribe</st> of their <st data-num=\"01\" class=\"\">fathers</st>,<n id=\"2\" /> were <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06485\" class=\"\">numbered</st><n id=\"3\" /> <st data-num=\"08432\" class=\"\">among</st> them.",
+    "verse": "47"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "The <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> had <st data-num=\"01696\" class=\"\">said</st> <st data-num=\"0413\" class=\"\">to</st> <st data-num=\"04872\" class=\"\">Moses</st>,<n id=\"1\" /> ",
+    "verse": "48"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "\u201c<st data-num=\"0389\" class=\"\">Only</st> the <st data-num=\"04294\" class=\"\">tribe</st> of <st data-num=\"03881\" class=\"\">Levi</st><n id=\"1\" /> you must <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06485\" class=\"\">number</st><n id=\"2\" /> or <st data-num=\"07218 05375\">count</st><n id=\"3\" /> <st data-num=\"08432\" class=\"\">with</st><n id=\"4\" /> the other <st data-num=\"01121 03478\">Israelites</st>. ",
+    "verse": "49"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<st data-num=\"0859\" class=\"\">But</st> <st data-num=\"06485\" class=\"\">appoint</st><n id=\"1\" /> the <st data-num=\"03881\" class=\"\">Levites</st> <st data-num=\"05921\" class=\"\">over</st> the <st data-num=\"04908\" class=\"\">tabernacle</st> of the <st data-num=\"05715\" class=\"\">testimony</st>,<n id=\"2\" /> <st data-num=\"05921\" class=\"\">over</st> <st data-num=\"03605\" class=\"\">all</st> its <st data-num=\"03627\" class=\"\">furnishings</st> and <st data-num=\"05921\" class=\"\">over</st> <st data-num=\"03605\" class=\"\">everything</st> in it. <st data-num=\"01992\" class=\"\">They</st> must <st data-num=\"05375\" class=\"\">carry</st><n id=\"3\" /> the <st data-num=\"04908\" class=\"\">tabernacle</st> and <st data-num=\"03605\" class=\"\">all</st> its <st data-num=\"03627\" class=\"\">furnishings</st>; and <st data-num=\"01992\" class=\"\">they</st><n id=\"4\" /> must <st data-num=\"08334\">attend to</st> it and <st data-num=\"02583\" class=\"\">camp</st> <st data-num=\"05439\" class=\"\">around</st> <st data-num=\"04908\" class=\"\">it</st>.<n id=\"5\" /> ",
+    "verse": "50"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "Whenever the <st data-num=\"04908\" class=\"\">tabernacle</st> is to <st data-num=\"05265\" class=\"\">move</st>,<n id=\"1\" /> the <st data-num=\"03881\" class=\"\">Levites</st> must <st data-num=\"03381\" class=\"\">take</st> it <st data-num=\"03381\" class=\"\">down</st>, and whenever the <st data-num=\"04908\" class=\"\">tabernacle</st> is to be <st data-num=\"02583\" class=\"\">reassembled</st>,<n id=\"2\" /> the <st data-num=\"03881\" class=\"\">Levites</st> must <st data-num=\"06965\" class=\"\">set</st> it <st data-num=\"06965\" class=\"\">up</st>.<n id=\"3\" /> Any <st data-num=\"02114\" class=\"\">unauthorized person</st><n id=\"4\" /> who <st data-num=\"07126\" class=\"\">approaches</st> it must be <st data-num=\"04191\" class=\"\">killed</st>. </p>",
+    "verse": "51"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">\u201cThe <st data-num=\"01121 03478\">Israelites</st> will <st data-num=\"02583\" class=\"\">camp</st> according to their <st data-num=\"06635\" class=\"\">divisions</st>, <st data-num=\"0376\" class=\"\">each man</st> <st data-num=\"05921\" class=\"\">in</st> his <st data-num=\"04264\" class=\"\">camp</st>, and <st data-num=\"0376\" class=\"\">each man</st> <st data-num=\"05921\" class=\"\">by</st> his <st data-num=\"01714\" class=\"\">standard</st>. ",
+    "verse": "52"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "But the <st data-num=\"03881\" class=\"\">Levites</st> must <st data-num=\"02583\" class=\"\">camp</st> <st data-num=\"05439\" class=\"\">around</st> the <st data-num=\"04908\" class=\"\">tabernacle</st> of the <st data-num=\"05715\" class=\"\">testimony</st>, so that the <span class=\"smcaps\">Lord</span>\u2019s <st data-num=\"07110\" class=\"\">anger</st><n id=\"1\" /> will <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"01961\" class=\"\">fall</st> <st data-num=\"05921\" class=\"\">on</st> the <st data-num=\"01121 03478\">Israelite</st> <st data-num=\"05712\" class=\"\">community</st>. The <st data-num=\"03881\" class=\"\">Levites</st> <st data-num=\"08104\" class=\"\">are responsible for</st> the <st data-num=\"04931\" class=\"\">care</st><n id=\"2\" /> of the <st data-num=\"04908\" class=\"\">tabernacle</st> of the <st data-num=\"05715\" class=\"\">testimony</st>.\u201d </p>",
+    "verse": "53"
+  },
+  {
+    "bookname": "Numbers",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">The <st data-num=\"01121 03478\">Israelites</st> <st data-num=\"06213\" class=\"\">did</st> according to <st data-num=\"03605\" class=\"\">all</st> <st data-num=\"0834\" class=\"\">that</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"06680\" class=\"\">commanded</st> <st data-num=\"04872\" class=\"\">Moses</st><n id=\"1\" />\u2014<st data-num=\"03651\" class=\"\">that is what</st> they <st data-num=\"06213\" class=\"\">did</st>. </p>",
+    "verse": "54"
+  }
+]

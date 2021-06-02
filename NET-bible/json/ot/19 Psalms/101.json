@@ -1,0 +1,50 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"psasuper\">A <st data-num=\"04210\" class=\"\">psalm</st> of <st data-num=\"01732\" class=\"\">David</st>.<p class=\"poetry\">I will <st data-num=\"07891\" class=\"\">sing</st> about <st data-num=\"02617\" class=\"\">loyalty</st> and <st data-num=\"04941\" class=\"\">justice</st>.<p class=\"poetry\">To you, O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, I will <st data-num=\"02167\" class=\"\">sing praises</st>. </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"poetry\">I will <st data-num=\"07919\" class=\"\">walk</st><n id=\"1\" />in the <st data-num=\"01870\" class=\"\">way</st> of <st data-num=\"08549\" class=\"\">integrity</st>.<p class=\"poetry\"><st data-num=\"04970\" class=\"\">When</st> will you <st data-num=\"0935\" class=\"\">come</st> <st data-num=\"0413\" class=\"\">to</st> me?<p class=\"poetry\">I will <st data-num=\"01980\" class=\"\">conduct</st> my <st data-num=\"01980\" class=\"\">business</st> with <st data-num=\"08537 03824\">integrity</st> in the <st data-num=\"07130\" class=\"\">midst</st> of my <st data-num=\"01004\" class=\"\">palace</st>.<n id=\"2\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"poetry\">I will <st data-num=\"03808\" class=\"\">not</st> even <st data-num=\"07896 05048 05869\">consider</st> doing <st data-num=\"01697\" class=\"\">what</st> is <st data-num=\"01100\" class=\"\">dishonest</st>.<n id=\"1\" /> <p class=\"poetry\">I <st data-num=\"08130\" class=\"\">hate</st> <st data-num=\"06213\" class=\"\">doing</st> <st data-num=\"07750\" class=\"\">evil</st>;<n id=\"2\" /> <p class=\"poetry\">I will <st data-num=\"01692\" class=\"\">have</st> <st data-num=\"03808\" class=\"\">no</st> <st data-num=\"01692\" class=\"\">part of</st> it.<n id=\"3\" /></p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"poetry\">I will <st data-num=\"05493 04480\">have nothing to do with</st> a <st data-num=\"06141\" class=\"\">perverse</st> <st data-num=\"03824\" class=\"\">person</st>;<n id=\"1\" /> <p class=\"poetry\">I will <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"03045\" class=\"\">permit</st><n id=\"2\" /> <st data-num=\"07451\" class=\"\">evil</st>. </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"poetry\">I will <st data-num=\"06789\" class=\"\">destroy</st> anyone who <st data-num=\"03960\" class=\"\">slanders</st> his <st data-num=\"07453\" class=\"\">neighbor</st> in <st data-num=\"05643\" class=\"\">secret</st>.<p class=\"poetry\">I will <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"03201\" class=\"\">tolerate</st> anyone who has a <st data-num=\"01362\" class=\"\">haughty</st> <st data-num=\"05869\" class=\"\">demeanor</st> and an <st data-num=\"07342\" class=\"\">arrogant</st> <st data-num=\"03824\" class=\"\">attitude</st>.<n id=\"1\" /> </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"poetry\">I will <st data-num=\"05869\" class=\"\">favor</st> the <st data-num=\"0539\" class=\"\">honest people</st> of the <st data-num=\"0776\" class=\"\">land</st><n id=\"1\" /> <p class=\"poetry\">and allow them to <st data-num=\"03427\" class=\"\">live</st> <st data-num=\"05978\" class=\"\">with</st> me.<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"01931\" class=\"\">Those</st> who <st data-num=\"01980\" class=\"\">walk</st> in the <st data-num=\"01870\" class=\"\">way</st> of <st data-num=\"08549\" class=\"\">integrity</st> will <st data-num=\"08334\" class=\"\">attend</st> me.<n id=\"3\" /> </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"poetry\"><st data-num=\"07423\" class=\"\">Deceitful</st> <st data-num=\"06213\" class=\"\">people</st> will <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"03427\" class=\"\">live</st> <st data-num=\"07130\" class=\"\">in</st> my <st data-num=\"01004\" class=\"\">palace</st>.<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"01696 08267\">Liars</st> will <st data-num=\"03808\" class=\"\">not</st> be <st data-num=\"03559\" class=\"\">welcome</st> <st data-num=\"05048\" class=\"\">in</st> my <st data-num=\"05869\" class=\"\">presence</st>.<n id=\"2\" /> </p>",
+    "verse": "7"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "101",
+    "text": "<p class=\"poetry\">Each <st data-num=\"01242\" class=\"\">morning</st> I will <st data-num=\"06789\" class=\"\">destroy</st> <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"07563\" class=\"\">wicked people</st> in the <st data-num=\"0776\" class=\"\">land</st><p class=\"poetry\">and <st data-num=\"03772\" class=\"\">remove</st> <st data-num=\"03605\" class=\"\">all</st> <st data-num=\"06466 0205\">evildoers</st> from the <st data-num=\"05892\" class=\"\">city</st> of the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>. </p>",
+    "verse": "8"
+  }
+]

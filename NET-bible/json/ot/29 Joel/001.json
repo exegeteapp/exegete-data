@@ -1,0 +1,122 @@
+[
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">This<n id=\"1\" /> is the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>\u2019s <st data-num=\"01697\" class=\"\">message</st> <st data-num=\"0834\" class=\"\">that</st> <st data-num=\"01961\" class=\"\">came</st> <st data-num=\"0413\" class=\"\">to</st> <st data-num=\"03100\" class=\"\">Joel</st><n id=\"2\" /> the <st data-num=\"01121\" class=\"\">son</st> of <st data-num=\"06602\" class=\"\">Pethuel</st>: </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"08085\" class=\"\">Listen to</st> <st data-num=\"02063\" class=\"\">this</st>, you <st data-num=\"02205\" class=\"\">elders</st>;<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"0238\" class=\"\">pay attention</st>,<n id=\"2\" /> <st data-num=\"03605\" class=\"\">all</st> <st data-num=\"03427\" class=\"\">inhabitants</st> of the <st data-num=\"0776\" class=\"\">land</st>.<p class=\"poetry\">Has anything like <st data-num=\"02063\" class=\"\">this</st> ever <st data-num=\"01961\" class=\"\">happened</st> in your <st data-num=\"03117\" class=\"\">whole life</st><n id=\"3\" /> <p class=\"poetry\"><st data-num=\"0518\" class=\"\">or</st> in the <st data-num=\"03117\" class=\"\">lifetime</st><n id=\"4\" /> of your <st data-num=\"01\" class=\"\">ancestors</st>?<n id=\"5\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"05608\" class=\"\">Tell</st> your <st data-num=\"01121\" class=\"\">children</st><n id=\"1\" /> <st data-num=\"05921\" class=\"\">about</st> it;<p class=\"poetry\">have your <st data-num=\"01121\" class=\"\">children</st> tell their <st data-num=\"01121\" class=\"\">children</st>,<p class=\"poetry\">and their <st data-num=\"01121\" class=\"\">children</st> the <st data-num=\"0312\" class=\"\">following</st> <st data-num=\"01755\" class=\"\">generation</st>.<n id=\"2\" /> </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"03499\" class=\"\">What</st> the <i><st data-num=\"01501\" class=\"\">gazam</st></i>-locust <st data-num=\"03499\" class=\"\">left</st> the <i><st data-num=\"0697\" class=\"\">\u2018arbeh</st></i>-locust <st data-num=\"0398\" class=\"\">consumed</st>;<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03499\" class=\"\">what</st> the <i><st data-num=\"0697\" class=\"\">\u2018arbeh</st></i>-locust <st data-num=\"03499\" class=\"\">left</st> the <i><st data-num=\"03218\" class=\"\">yeleq</st></i>-locust <st data-num=\"0398\" class=\"\">consumed</st>,<p class=\"poetry\">and <st data-num=\"03499\" class=\"\">what</st> the <i><st data-num=\"03218\" class=\"\">yeleq</st></i>-locust <st data-num=\"03499\" class=\"\">left</st> the <i><st data-num=\"02625\" class=\"\">hasil</st></i>-locust <st data-num=\"0398\" class=\"\">consumed</st>.<n id=\"2\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetrybreak\"><st data-num=\"06974\" class=\"\">Wake up</st>, you <st data-num=\"07910\" class=\"\">drunkards</st>,<n id=\"1\" /> and <st data-num=\"01058\" class=\"\">weep</st>!<p class=\"poetry\"><st data-num=\"03213\" class=\"\">Wail</st>, <st data-num=\"03605\" class=\"\">all</st> you <st data-num=\"03196\" class=\"\">wine</st> <st data-num=\"08354\" class=\"\">drinkers</st>,<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"05921 03588\">because</st> the <st data-num=\"06071\" class=\"\">sweet wine</st><n id=\"3\" /> has been <st data-num=\"03772\" class=\"\">taken away</st><n id=\"4\" /> <st data-num=\"06310\" class=\"\">from</st> you.<n id=\"5\" /></p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> a <st data-num=\"01471\" class=\"\">nation</st><n id=\"1\" /> has <st data-num=\"05927 05921\">invaded</st><n id=\"2\" /> my <st data-num=\"0776\" class=\"\">land</st>,<p class=\"poetry\"><st data-num=\"06099\" class=\"\">mighty</st> and <st data-num=\"0369\" class=\"\">without</st> <st data-num=\"04557\" class=\"\">number</st>.<p class=\"poetry\">Their <st data-num=\"08127\" class=\"\">teeth</st> are <st data-num=\"0738\" class=\"\">lion\u2019s</st> <st data-num=\"08127\" class=\"\">teeth</st>;<p class=\"poetry\">they have the <st data-num=\"04973\" class=\"\">fangs</st> of a <st data-num=\"03833\" class=\"\">lioness</st>.<n id=\"3\" /> </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">They<n id=\"1\" /> have <st data-num=\"07760 08047\">destroyed</st> my <st data-num=\"01612\" class=\"\">vines</st>;<n id=\"2\" /> <p class=\"poetry\">they have turned my <st data-num=\"08384\" class=\"\">fig trees</st> into mere <st data-num=\"07111\" class=\"\">splinters</st>.<p class=\"poetry\">They have <st data-num=\"02834\" class=\"\">completely</st> <st data-num=\"02834\" class=\"\">stripped off</st> the bark<n id=\"3\" /> and <st data-num=\"07993\" class=\"\">thrown</st> it <st data-num=\"07993\" class=\"\">aside</st>;<p class=\"poetry\">the <st data-num=\"08299\" class=\"\">twigs</st> are <st data-num=\"03835\" class=\"\">stripped bare</st>.<n id=\"4\" /> </p>",
+    "verse": "7"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"0421\" class=\"\">Wail</st><n id=\"1\" /> like a <st data-num=\"01330\" class=\"\">young virgin</st><n id=\"2\" /> <st data-num=\"02296\" class=\"\">clothed</st> in <st data-num=\"08242\" class=\"\">sackcloth</st>,<p class=\"poetry\"><st data-num=\"05921\" class=\"\">lamenting the death of</st><n id=\"3\" /> her <st data-num=\"01167\" class=\"\">husband</st> <st data-num=\"05271\" class=\"\">to be</st>.<n id=\"4\" /> </p>",
+    "verse": "8"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"03772\" class=\"\">No one brings</st> <st data-num=\"04503\" class=\"\">grain offerings</st> or <st data-num=\"05262\" class=\"\">drink offerings</st> <p class=\"poetry\">to the <st data-num=\"01004\" class=\"\">temple</st><n id=\"1\" /> of the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"03772\" class=\"\">anymore</st>.<n id=\"2\" /> <p class=\"poetry\">So the <st data-num=\"03548\" class=\"\">priests</st>, those who <st data-num=\"08334\" class=\"\">serve</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"056\" class=\"\">are in mourning</st>. </p>",
+    "verse": "9"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">The crops of the <st data-num=\"07704\" class=\"\">fields</st><n id=\"1\" /> have been <st data-num=\"07703\" class=\"\">destroyed</st>.<n id=\"2\" /> <p class=\"poetry\">The <st data-num=\"0127\" class=\"\">ground</st> <st data-num=\"056\" class=\"\">is in mourning</st> <st data-num=\"03588\" class=\"\">because</st> the <st data-num=\"01715\" class=\"\">grain</st> has <st data-num=\"07703\" class=\"\">perished</st>.<p class=\"poetry\">The <st data-num=\"08492\" class=\"\">fresh wine</st> has <st data-num=\"03001\" class=\"\">dried up</st>;<p class=\"poetry\">the <st data-num=\"03323\" class=\"\">olive oil</st> <st data-num=\"0536\" class=\"\">languishes</st>. </p>",
+    "verse": "10"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"0954\" class=\"\">Be distressed</st>,<n id=\"1\" /> <st data-num=\"0406\" class=\"\">farmers</st>;<p class=\"poetry\"><st data-num=\"03213\" class=\"\">wail</st>, <st data-num=\"03755\" class=\"\">vinedressers</st>, <st data-num=\"05921\" class=\"\">over</st> the <st data-num=\"02406\" class=\"\">wheat</st> and the <st data-num=\"08184\" class=\"\">barley</st>.<p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> the <st data-num=\"07105\" class=\"\">harvest</st> of the <st data-num=\"07704\" class=\"\">field</st> has <st data-num=\"06\" class=\"\">perished</st>. </p>",
+    "verse": "11"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">The <st data-num=\"01612\" class=\"\">vine</st> has <st data-num=\"03001\" class=\"\">dried up</st>;<p class=\"poetry\">the <st data-num=\"08384\" class=\"\">fig tree</st> <st data-num=\"0535\" class=\"\">languishes</st>\u2014<p class=\"poetry\">the <st data-num=\"07416\" class=\"\">pomegranate</st>, <st data-num=\"08558\" class=\"\">date</st>, and <st data-num=\"08598\" class=\"\">apple</st><n id=\"1\" /> <st data-num=\"01571\" class=\"\">as well</st>. <p class=\"poetry\">In fact,<n id=\"2\" /> <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"06086\" class=\"\">trees</st> of the <st data-num=\"07704\" class=\"\">field</st> have <st data-num=\"03001\" class=\"\">dried up</st>.<p class=\"poetry\"><st data-num=\"03588\" class=\"\">Indeed</st>, the <st data-num=\"08342\" class=\"\">joy</st> <st data-num=\"04480\" class=\"\">of</st> the <st data-num=\"01121 0120\">people</st><n id=\"3\" /> has <st data-num=\"03001\" class=\"\">dried up</st>! </p>",
+    "verse": "12"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetrybreak\"><st data-num=\"02296\" class=\"\">Get dressed</st><n id=\"1\" /> and <st data-num=\"05594\" class=\"\">lament</st>, you <st data-num=\"03548\" class=\"\">priests</st>.<p class=\"poetry\"><st data-num=\"03213\" class=\"\">Wail</st>, you who <st data-num=\"08334\" class=\"\">minister</st> at the <st data-num=\"04196\" class=\"\">altar</st>.<p class=\"poetry\"><st data-num=\"0935\" class=\"\">Come</st>, <st data-num=\"03885\" class=\"\">spend the night</st> in <st data-num=\"08242\" class=\"\">sackcloth</st>, you <st data-num=\"08334\" class=\"\">servants</st> of my <st data-num=\"0430\" class=\"\">God</st>,<p class=\"poetry\"><st data-num=\"03588\" class=\"\">because</st> <st data-num=\"04513\" class=\"\">no one brings</st> <st data-num=\"04503\" class=\"\">grain offerings</st> or <st data-num=\"05262\" class=\"\">drink offerings</st> <p class=\"poetry\">to the <st data-num=\"01004\" class=\"\">temple</st> of your <st data-num=\"0430\" class=\"\">God</st> <st data-num=\"04513\" class=\"\">anymore</st>.<n id=\"2\" /> </p>",
+    "verse": "13"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"06942\" class=\"\">Announce a holy</st> <st data-num=\"06685\" class=\"\">fast</st>;<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"07121\" class=\"\">proclaim</st> a <st data-num=\"06116\" class=\"\">sacred assembly</st>.<p class=\"poetry\"><st data-num=\"0622\" class=\"\">Gather</st> the <st data-num=\"02205\" class=\"\">elders</st> and<n id=\"2\" /> <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"03427\" class=\"\">inhabitants</st> of the <st data-num=\"0776\" class=\"\">land</st><p class=\"poetry\">to the <st data-num=\"01004\" class=\"\">temple</st> of the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> your <st data-num=\"0430\" class=\"\">God</st>,<p class=\"poetry\">and <st data-num=\"02199\" class=\"\">cry out</st> <st data-num=\"0413\" class=\"\">to</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>. </p>",
+    "verse": "14"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"0162\" class=\"\">How awful</st> that <st data-num=\"03117\" class=\"\">day</st> will be!<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03588\">For</st> the <st data-num=\"03117\" class=\"\">day</st> of the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> is <st data-num=\"07138\" class=\"\">near</st>;<p class=\"poetry\">it will <st data-num=\"0935\" class=\"\">come</st> as <st data-num=\"07701\" class=\"\">destruction</st> from the <st data-num=\"07706\" class=\"\">Divine Destroyer</st>.<n id=\"2\" /> </p>",
+    "verse": "15"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">Our <st data-num=\"0400\" class=\"\">food</st> has been <st data-num=\"03772\" class=\"\">cut off</st> <st data-num=\"03808\" class=\"\">right</st> <st data-num=\"05048\" class=\"\">before</st> our <st data-num=\"05869\" class=\"\">eyes</st>!<n id=\"1\" /> <p class=\"poetry\">There is no longer any <st data-num=\"08057\" class=\"\">joy</st> or <st data-num=\"01524\" class=\"\">gladness</st> in the <st data-num=\"01004\" class=\"\">temple</st> of our <st data-num=\"0430\" class=\"\">God</st>.<n id=\"2\" /> </p>",
+    "verse": "16"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">The <st data-num=\"06507\" class=\"\">grains of seed</st><n id=\"1\" /> have <st data-num=\"05685\" class=\"\">shriveled</st> <st data-num=\"08478\" class=\"\">beneath</st> their <st data-num=\"04053\" class=\"\">shovels</st>.<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"0214\" class=\"\">Storehouses</st> have been <st data-num=\"08074\" class=\"\">decimated</st>,<p class=\"poetry\">and <st data-num=\"04460\" class=\"\">granaries</st> have been <st data-num=\"02040\" class=\"\">torn down</st> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">because</st> the <st data-num=\"01715\" class=\"\">grain</st> has <st data-num=\"03001\">dried up</st>.</p>",
+    "verse": "17"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"04100\" class=\"\">Listen to</st> the <st data-num=\"0929\" class=\"\">cattle</st> <st data-num=\"0584\" class=\"\">groan</st>!<n id=\"1\" /> <p class=\"poetry\">The <st data-num=\"05739\" class=\"\">herds</st> of <st data-num=\"01241\" class=\"\">livestock</st> <st data-num=\"0943\" class=\"\">wander around in confusion</st><n id=\"2\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">because</st> <st data-num=\"01992\" class=\"\">they</st> have <st data-num=\"0369\" class=\"\">no</st> <st data-num=\"04829\" class=\"\">pasture</st>.<p class=\"poetry\"><st data-num=\"01571\" class=\"\">Even</st> the <st data-num=\"05739\" class=\"\">flocks</st> of <st data-num=\"06629\" class=\"\">sheep</st> are <st data-num=\"0816\" class=\"\">suffering</st>. </p>",
+    "verse": "18"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetrybreak\"><st data-num=\"0413\" class=\"\">To</st> you, O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, I <st data-num=\"07121\" class=\"\">call out</st> for help,<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">for</st> <st data-num=\"0784\" class=\"\">fire</st><n id=\"2\" /> has <st data-num=\"0398\" class=\"\">burned up</st><n id=\"3\" /> the <st data-num=\"04999\" class=\"\">pastures</st> of the <st data-num=\"04057\" class=\"\">wilderness</st>,<p class=\"poetry\"><st data-num=\"03852\" class=\"\">flames</st> have <st data-num=\"03857\" class=\"\">razed</st><n id=\"4\" /> <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"06086\" class=\"\">trees</st> in the <st data-num=\"07704\" class=\"\">fields</st>. </p>",
+    "verse": "19"
+  },
+  {
+    "bookname": "Joel",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"01571\" class=\"\">Even</st> the <st data-num=\"07704\" class=\"\">wild</st> <st data-num=\"0929\" class=\"\">animals</st><n id=\"1\" /> <st data-num=\"06165\" class=\"\">cry out</st> <st data-num=\"0413\" class=\"\">to</st> you,<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">for</st> the <st data-num=\"04325\" class=\"\">river</st> <st data-num=\"0650\" class=\"\">beds</st><n id=\"3\" /> have <st data-num=\"03001\" class=\"\">dried up</st>;<p class=\"poetry\"><st data-num=\"0784\" class=\"\">fire</st> has <st data-num=\"0398\" class=\"\">destroyed</st><n id=\"4\" /> the <st data-num=\"04999\" class=\"\">pastures</st> of the <st data-num=\"04057\" class=\"\">wilderness</st>.<n id=\"5\" /></p>",
+    "verse": "20"
+  }
+]

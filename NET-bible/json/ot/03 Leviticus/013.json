@@ -1,0 +1,356 @@
+[
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">The <span class=\"smcaps\"><st data-num=\"03068\">Lord</st></span> <st data-num=\"01696\" class=\"\">spoke</st> <st data-num=\"0413\" class=\"\">to</st> <st data-num=\"04872\" class=\"\">Moses</st> and <st data-num=\"0175\" class=\"\">Aaron</st>: ",
+    "verse": "1"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "\u201c<st data-num=\"03588\" class=\"\">When</st> <st data-num=\"0120\" class=\"\">someone</st> <st data-num=\"01961\" class=\"\">has</st><n id=\"1\" /> a <st data-num=\"07613\" class=\"\">swelling</st><n id=\"2\" /> <st data-num=\"0176\" class=\"\">or</st> a <st data-num=\"05597\" class=\"\">scab</st><n id=\"3\" /> <st data-num=\"0176\" class=\"\">or</st> a <st data-num=\"0934\" class=\"\">bright spot</st><n id=\"4\" /> on the <st data-num=\"05785\" class=\"\">skin</st> of his <st data-num=\"01320\" class=\"\">body</st><n id=\"5\" /> that may <st data-num=\"01961\" class=\"\">become</st> a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st>,<n id=\"6\" /> he must be <st data-num=\"0935\" class=\"\">brought</st> <st data-num=\"0413\" class=\"\">to</st> <st data-num=\"0175\" class=\"\">Aaron</st> the <st data-num=\"03548\" class=\"\">priest</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"0259\" class=\"\">one</st> of his <st data-num=\"01121\" class=\"\">sons</st>, the <st data-num=\"03548\" class=\"\">priests</st>.<n id=\"7\" /> ",
+    "verse": "2"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> the <st data-num=\"05061\" class=\"\">infection</st><n id=\"1\" /> on the <st data-num=\"05785\" class=\"\">skin</st> of the <st data-num=\"01320\" class=\"\">body</st>, and if the <st data-num=\"08181\" class=\"\">hair</st><n id=\"2\" /> in the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"02015\" class=\"\">turned</st> <st data-num=\"03836\" class=\"\">white</st> and the <st data-num=\"05061\" class=\"\">infection</st> <st data-num=\"04758\" class=\"\">appears</st> to be <st data-num=\"06013\" class=\"\">deeper</st> than the <st data-num=\"05785\" class=\"\">skin</st> of the <st data-num=\"01320\" class=\"\">body</st>,<n id=\"3\" /> then <st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st>,<n id=\"4\" /> so when the <st data-num=\"03548\" class=\"\">priest</st> <st data-num=\"07200\" class=\"\">examines</st> it,<n id=\"5\" /> he must <st data-num=\"02930\" class=\"\">pronounce</st> the person <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"6\" /> </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"0518\" class=\"\">If</st><n id=\"1\" /> <st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"0934\" class=\"\">bright spot</st> on the <st data-num=\"05785\" class=\"\">skin</st> of his <st data-num=\"01320\" class=\"\">body</st>, but it does <st data-num=\"0369\" class=\"\">not</st> <st data-num=\"04758\" class=\"\">appear</st> to <st data-num=\"0369\" class=\"\">be</st> <st data-num=\"06013\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"2\" /> and the <st data-num=\"08181\" class=\"\">hair</st> has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"02015\" class=\"\">turned</st> <st data-num=\"03836\" class=\"\">white</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"05462\" class=\"\">quarantine</st> the person with the <st data-num=\"05061\" class=\"\">infection</st> for <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"3\" /> ",
+    "verse": "4"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> it on the <st data-num=\"07637\" class=\"\">seventh</st> <st data-num=\"03117\" class=\"\">day</st>, and <st data-num=\"02009\" class=\"\">if</st>,<n id=\"1\" /> as far as he can <st data-num=\"05869\" class=\"\">see</st>, the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"05975\" class=\"\">stayed the same</st><n id=\"2\" /> and has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st> on the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"3\" /> then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"05462\" class=\"\">quarantine</st> the person for <st data-num=\"08145\" class=\"\">another</st> <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"4\" /> ",
+    "verse": "5"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> it <st data-num=\"08145\" class=\"\">again</st> on the <st data-num=\"07637\" class=\"\">seventh</st> <st data-num=\"03117\" class=\"\">day</st>,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"03544\" class=\"\">faded</st> and has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st> on the <st data-num=\"05785\" class=\"\">skin</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02891\" class=\"\">pronounce</st> the person <st data-num=\"02891\" class=\"\">clean</st>.<n id=\"3\" /> <st data-num=\"01931\" class=\"\">It</st> is a <st data-num=\"04556\" class=\"\">scab</st>,<n id=\"4\" /> so he must <st data-num=\"03526\" class=\"\">wash</st> his <st data-num=\"0899\" class=\"\">clothes</st><n id=\"5\" /> and <st data-num=\"02891\" class=\"\">be clean</st>. ",
+    "verse": "6"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st>, however, the <st data-num=\"04556\" class=\"\">scab</st> is <st data-num=\"06581\" class=\"\">spreading</st> <st data-num=\"06581\" class=\"\">further</st><n id=\"1\" /> on the <st data-num=\"05785\" class=\"\">skin</st> <st data-num=\"0310\" class=\"\">after</st> he has <st data-num=\"07200\" class=\"\">shown</st> himself <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"03548\" class=\"\">priest</st> for his <st data-num=\"02893\" class=\"\">purification</st>, then he must <st data-num=\"07200\" class=\"\">show</st> himself <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"03548\" class=\"\">priest</st> a <st data-num=\"08145\" class=\"\">second time</st>.",
+    "verse": "7"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"02009\" class=\"\">examine</st> it,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> the <st data-num=\"04556\" class=\"\">scab</st> has <st data-num=\"06581\" class=\"\">spread</st> on the <st data-num=\"05785\" class=\"\">skin</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02930\" class=\"\">pronounce</st> the person <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"3\" /> <st data-num=\"01931\" class=\"\">It</st> is a <st data-num=\"06883\" class=\"\">disease</st>. </p>",
+    "verse": "8"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"03588\" class=\"\">When</st> <st data-num=\"0120\" class=\"\">someone</st> <st data-num=\"01961\" class=\"\">has</st> a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st>,<n id=\"1\" /> he must be <st data-num=\"0935\" class=\"\">brought</st> <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"03548\" class=\"\">priest</st>. ",
+    "verse": "9"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> will then <st data-num=\"07200\" class=\"\">examine</st> it,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> a <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"07613\" class=\"\">swelling</st> is on the <st data-num=\"05785\" class=\"\">skin</st>, <st data-num=\"01931\" class=\"\">it</st> has <st data-num=\"02015\" class=\"\">turned</st> the <st data-num=\"08181\" class=\"\">hair</st> <st data-num=\"03836\" class=\"\">white</st>, and there is <st data-num=\"04241 02416\">raw</st> <st data-num=\"01320\" class=\"\">flesh</st> in the <st data-num=\"07613\" class=\"\">swelling</st>,<n id=\"3\" /> ",
+    "verse": "10"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"03462\" class=\"\">chronic</st><n id=\"1\" /> <st data-num=\"06883\" class=\"\">disease</st> on the <st data-num=\"05785\" class=\"\">skin</st> of his <st data-num=\"01320\" class=\"\">body</st>,<n id=\"2\" /> so the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02930\" class=\"\">pronounce</st> him <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"3\" /> The priest<n id=\"4\" /> must <st data-num=\"03808\" class=\"\">not</st> merely <st data-num=\"05462\" class=\"\">quarantine</st> him, <st data-num=\"03588\" class=\"\">for</st> <st data-num=\"01931\" class=\"\">he</st> is <st data-num=\"02931\" class=\"\">unclean</st>.<n id=\"5\" /> ",
+    "verse": "11"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st>, however, the <st data-num=\"06883\" class=\"\">disease</st> <st data-num=\"06524\" class=\"\">breaks</st> <st data-num=\"06524\" class=\"\">out</st><n id=\"1\" /> on the <st data-num=\"05785\" class=\"\">skin</st> so that the <st data-num=\"06883\" class=\"\">disease</st> <st data-num=\"03680\" class=\"\">covers</st> <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"05785\" class=\"\">skin</st> of the person with the <st data-num=\"05061\" class=\"\">infection</st><n id=\"2\" /> from his <st data-num=\"07218\" class=\"\">head</st> <st data-num=\"05704\" class=\"\">to</st> his <st data-num=\"07272\" class=\"\">feet</st>, <st data-num=\"03605 04758\">as far as</st> the <st data-num=\"03548\" class=\"\">priest</st> can <st data-num=\"05869\" class=\"\">see</st>,<n id=\"3\" /> ",
+    "verse": "12"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "the <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> it,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> the <st data-num=\"06883\" class=\"\">disease</st> <st data-num=\"03680\" class=\"\">covers</st> his <st data-num=\"03605\" class=\"\">whole</st> <st data-num=\"01320\" class=\"\">body</st>, he is to <st data-num=\"02891\" class=\"\">pronounce</st> the person with the <st data-num=\"05061\" class=\"\">infection</st> <st data-num=\"02891\" class=\"\">clean</st>.<n id=\"3\" /> He has <st data-num=\"02015\" class=\"\">turned</st> <st data-num=\"03605\" class=\"\">all</st> <st data-num=\"03836\" class=\"\">white</st>, so <st data-num=\"01931\" class=\"\">he</st> is <st data-num=\"02889\" class=\"\">clean</st>.<n id=\"4\" /> ",
+    "verse": "13"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But <st data-num=\"03117\" class=\"\">whenever</st> <st data-num=\"02416\" class=\"\">raw</st> <st data-num=\"01320\" class=\"\">flesh</st> <st data-num=\"07200\" class=\"\">appears</st> in it,<n id=\"1\" /> he will <st data-num=\"02930\">be unclean</st>, ",
+    "verse": "14"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "so the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"07200\" class=\"\">examine</st> the <st data-num=\"02416\" class=\"\">raw</st> <st data-num=\"01320\" class=\"\">flesh</st><n id=\"1\" /> and <st data-num=\"02930\" class=\"\">pronounce</st> him <st data-num=\"02930\" class=\"\">unclean</st><n id=\"2\" />\u2014<st data-num=\"01931\" class=\"\">it</st> is <st data-num=\"06883\" class=\"\">diseased</st>. ",
+    "verse": "15"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"03588\" class=\"\">If</st>, <st data-num=\"0176\" class=\"\">however</st>,<n id=\"1\" /> the <st data-num=\"02416\" class=\"\">raw</st> <st data-num=\"01320\" class=\"\">flesh</st> <st data-num=\"07725\" class=\"\">once again</st> <st data-num=\"02015\" class=\"\">turns</st> <st data-num=\"03836\" class=\"\">white</st>,<n id=\"2\" /> then he must <st data-num=\"0935\" class=\"\">come</st> <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"03548\" class=\"\">priest</st>. ",
+    "verse": "16"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> will then <st data-num=\"07200\" class=\"\">examine</st> it,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"02015\" class=\"\">turned</st> <st data-num=\"03836\" class=\"\">white</st>, the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02891\" class=\"\">pronounce</st> the person with the <st data-num=\"05061\" class=\"\">infection</st> <st data-num=\"02891\" class=\"\">clean</st><n id=\"3\" />\u2014<st data-num=\"01931\" class=\"\">he</st> is <st data-num=\"02891\" class=\"\">clean</st>. </p>",
+    "verse": "17"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"03588\" class=\"\">When</st> someone\u2019s <st data-num=\"01320\" class=\"\">body</st> <st data-num=\"01961\" class=\"\">has</st> a <st data-num=\"07822\" class=\"\">boil</st> on its <st data-num=\"05785\" class=\"\">skin</st><n id=\"1\" /> and it <st data-num=\"07495\" class=\"\">heals</st>, ",
+    "verse": "18"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "and in the <st data-num=\"04725\" class=\"\">place</st> of the <st data-num=\"07822\" class=\"\">boil</st> there <st data-num=\"01961\" class=\"\">is</st> a <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"07613\" class=\"\">swelling</st> <st data-num=\"0176\" class=\"\">or</st> a <st data-num=\"0125\" class=\"\">reddish</st> <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"0934\" class=\"\">bright spot</st>, he must <st data-num=\"07200\" class=\"\">show</st> himself <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"03548\" class=\"\">priest</st>.<n id=\"1\" /> ",
+    "verse": "19"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> will then <st data-num=\"02009\" class=\"\">examine</st> it,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> it <st data-num=\"04758\" class=\"\">appears</st> to be <st data-num=\"08217\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st><n id=\"3\" /> and its <st data-num=\"08181\" class=\"\">hair</st> has <st data-num=\"02015\" class=\"\">turned</st> <st data-num=\"03836\" class=\"\">white</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02930\" class=\"\">pronounce</st> the person <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"4\" /> <st data-num=\"01931\" class=\"\">It</st> is a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st> that has <st data-num=\"06524\" class=\"\">broken out</st> in the <st data-num=\"07822\" class=\"\">boil</st>.<n id=\"5\" /> ",
+    "verse": "20"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st>, however,<n id=\"1\" /> the <st data-num=\"03548\" class=\"\">priest</st> <st data-num=\"07200\" class=\"\">examines</st> it, and<n id=\"2\" /> <st data-num=\"0369\" class=\"\">there is no</st> <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"08181\" class=\"\">hair</st> in it, <st data-num=\"0369\" class=\"\">it is not</st> <st data-num=\"08217\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st>, and <st data-num=\"01931\" class=\"\">it</st> has <st data-num=\"03544\" class=\"\">faded</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"05462\" class=\"\">quarantine</st> him for <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"3\" /> ",
+    "verse": "21"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st><n id=\"1\" /> it is <st data-num=\"06581\" class=\"\">spreading</st> <st data-num=\"06581\" class=\"\">farther</st><n id=\"2\" /> on the <st data-num=\"05785\" class=\"\">skin</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02930\" class=\"\">pronounce</st> him <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"3\" /> <st data-num=\"01931\" class=\"\">It</st> is an <st data-num=\"05061\" class=\"\">infection</st>. ",
+    "verse": "22"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But <st data-num=\"0518\" class=\"\">if</st> the <st data-num=\"0934\" class=\"\">bright spot</st> <st data-num=\"05975\" class=\"\">stays</st> <st data-num=\"08478\" class=\"\">in</st> its <st data-num=\"08478\" class=\"\">place</st> and has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st>,<n id=\"1\" /> <st data-num=\"01931\" class=\"\">it</st> is the <st data-num=\"06867\" class=\"\">scar</st> of the <st data-num=\"07822\" class=\"\">boil</st>, so the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02891\" class=\"\">pronounce</st> him <st data-num=\"02891\" class=\"\">clean</st>.<n id=\"2\" /> </p>",
+    "verse": "23"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"03588\" class=\"\">When</st> a <st data-num=\"01320\" class=\"\">body</st> <st data-num=\"01961\" class=\"\">has</st> a <st data-num=\"04348 0784\">burn</st> on its <st data-num=\"05785\" class=\"\">skin</st><n id=\"1\" /> and the <st data-num=\"04241\" class=\"\">raw area</st> of the <st data-num=\"04348\" class=\"\">burn</st> <st data-num=\"01961\" class=\"\">becomes</st> a <st data-num=\"0125\" class=\"\">reddish</st> <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"0934\" class=\"\">bright spot</st>, ",
+    "verse": "24"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "the <st data-num=\"03548\" class=\"\">priest</st> must <st data-num=\"07200\" class=\"\">examine</st> it,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> the <st data-num=\"08181\" class=\"\">hair</st> has <st data-num=\"02015\" class=\"\">turned</st> <st data-num=\"03836\" class=\"\">white</st> in the <st data-num=\"0934\" class=\"\">bright spot</st> and it <st data-num=\"04758\" class=\"\">appears</st> to be <st data-num=\"06013\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"3\" /> <st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"06883\" class=\"\">disease</st> that has <st data-num=\"06524\" class=\"\">broken out</st> in the <st data-num=\"04348\" class=\"\">burn</st>.<n id=\"4\" /> The <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02930\" class=\"\">pronounce</st> the person <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"5\" /> <st data-num=\"01931\" class=\"\">It</st> is a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st>.<n id=\"6\" /> ",
+    "verse": "25"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st>, however,<n id=\"1\" /> the <st data-num=\"03548\" class=\"\">priest</st> <st data-num=\"07200\" class=\"\">examines</st> it and<n id=\"2\" /> <st data-num=\"0369\" class=\"\">there is no</st> <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"08181\" class=\"\">hair</st> in the <st data-num=\"0934\" class=\"\">bright spot</st>, <st data-num=\"0369\" class=\"\">it is not</st> <st data-num=\"08217\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"3\" /> and <st data-num=\"01931\" class=\"\">it</st> has <st data-num=\"03544\" class=\"\">faded</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"05462\" class=\"\">quarantine</st> him for <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"4\" /> ",
+    "verse": "26"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> it on the <st data-num=\"07637\" class=\"\">seventh</st> <st data-num=\"03117\" class=\"\">day</st>, and <st data-num=\"0518\" class=\"\">if</st> it is <st data-num=\"06581\" class=\"\">spreading</st> <st data-num=\"06581\" class=\"\">further</st><n id=\"1\" /> on the <st data-num=\"05785\" class=\"\">skin</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02930\" class=\"\">pronounce</st> him <st data-num=\"02930\" class=\"\">unclean</st>. <st data-num=\"01931\" class=\"\">It</st> is a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st>.<n id=\"2\" /> ",
+    "verse": "27"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But <st data-num=\"0518\" class=\"\">if</st> the <st data-num=\"0934\" class=\"\">bright spot</st> <st data-num=\"05975\" class=\"\">stays</st> <st data-num=\"08478\" class=\"\">in</st> its <st data-num=\"08478\" class=\"\">place</st>, has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st> on the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"1\" /> and <st data-num=\"01931\" class=\"\">it</st> has <st data-num=\"03544\" class=\"\">faded</st>, then <st data-num=\"01931\" class=\"\">it</st> is the <st data-num=\"07613\" class=\"\">swelling</st> of the <st data-num=\"04348\" class=\"\">burn</st>, so the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02891\" class=\"\">pronounce</st> him <st data-num=\"02891\" class=\"\">clean</st>,<n id=\"2\" /> <st data-num=\"03588\" class=\"\">because</st> <st data-num=\"01931\" class=\"\">it</st> is the <st data-num=\"06867\" class=\"\">scar</st> of the <st data-num=\"04348\" class=\"\">burn</st>. </p>",
+    "verse": "28"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"03588\" class=\"\">When</st> a <st data-num=\"0376\" class=\"\">man</st> <st data-num=\"0176\" class=\"\">or</st> a <st data-num=\"0802\" class=\"\">woman</st> <st data-num=\"01961\" class=\"\">has</st> an <st data-num=\"05061\" class=\"\">infection</st> on the <st data-num=\"07218\" class=\"\">head</st> <st data-num=\"0176\" class=\"\">or</st> in the <st data-num=\"02206\" class=\"\">beard</st>,<n id=\"1\" /> ",
+    "verse": "29"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"07200\" class=\"\">examine</st> the <st data-num=\"05061\" class=\"\">infection</st>,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> it <st data-num=\"04758\" class=\"\">appears</st> to be <st data-num=\"06013\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st><n id=\"3\" /> and the <st data-num=\"08181\" class=\"\">hair</st> in it is <st data-num=\"06669\" class=\"\">reddish yellow</st> and <st data-num=\"01851\" class=\"\">thin</st>, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02930\" class=\"\">pronounce</st> the person <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"4\" /> <st data-num=\"01931\" class=\"\">It</st> is <st data-num=\"05424\" class=\"\">scall</st>,<n id=\"5\" /> a <st data-num=\"06883\" class=\"\">disease</st> of the <st data-num=\"07218\" class=\"\">head</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"02206\" class=\"\">beard</st>.<n id=\"6\" /> ",
+    "verse": "30"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But <st data-num=\"03588\" class=\"\">if</st> the <st data-num=\"03548\" class=\"\">priest</st> <st data-num=\"07200\" class=\"\">examines</st> the <st data-num=\"05424\" class=\"\">scall</st> <st data-num=\"05061\" class=\"\">infection</st> and it does <st data-num=\"0369\" class=\"\">not</st> <st data-num=\"04758\" class=\"\">appear</st> to be <st data-num=\"06013\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"1\" /> and <st data-num=\"0369\" class=\"\">there is no</st> <st data-num=\"07838\" class=\"\">black</st> <st data-num=\"08181\" class=\"\">hair</st> in it, then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"05462\" class=\"\">quarantine</st> the person with the <st data-num=\"05424\" class=\"\">scall</st> <st data-num=\"05061\" class=\"\">infection</st> for <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"2\" /> ",
+    "verse": "31"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> the <st data-num=\"05061\" class=\"\">infection</st> on the <st data-num=\"07637\" class=\"\">seventh</st> <st data-num=\"03117\" class=\"\">day</st>, and <st data-num=\"02009\" class=\"\">if</st><n id=\"1\" /> the <st data-num=\"05424\" class=\"\">scall</st> has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st>, there <st data-num=\"01961\" class=\"\">is</st> <st data-num=\"03808\" class=\"\">no</st> <st data-num=\"06669\" class=\"\">reddish yellow</st> <st data-num=\"08181\" class=\"\">hair</st> in it, and the <st data-num=\"05424\" class=\"\">scall</st> does <st data-num=\"0369\" class=\"\">not</st> <st data-num=\"04758\" class=\"\">appear</st> to be <st data-num=\"06013\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"2\" /> ",
+    "verse": "32"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "then the individual is to <st data-num=\"01548\" class=\"\">shave</st> himself,<n id=\"1\" /> but he must <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"01548\" class=\"\">shave</st> the area affected by the <st data-num=\"05424\" class=\"\">scall</st>,<n id=\"2\" /> and the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"05462\" class=\"\">quarantine</st> the person with the <st data-num=\"05424\" class=\"\">scall</st> for <st data-num=\"08145\" class=\"\">another</st> <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"3\" /> ",
+    "verse": "33"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> the <st data-num=\"05424\" class=\"\">scall</st> on the <st data-num=\"07637\" class=\"\">seventh</st> <st data-num=\"03117\" class=\"\">day</st>, and <st data-num=\"02009\" class=\"\">if</st><n id=\"1\" /> the <st data-num=\"05424\" class=\"\">scall</st> has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st> on the <st data-num=\"05785\" class=\"\">skin</st> and it does <st data-num=\"0369\" class=\"\">not</st> <st data-num=\"04758\" class=\"\">appear</st> to be <st data-num=\"06013\" class=\"\">deeper</st> <st data-num=\"04480\" class=\"\">than</st> the <st data-num=\"05785\" class=\"\">skin</st>,<n id=\"2\" /> then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02891\" class=\"\">pronounce</st> him <st data-num=\"02891\" class=\"\">clean</st>.<n id=\"3\" /> So he is to <st data-num=\"03526\" class=\"\">wash</st> his <st data-num=\"0899\" class=\"\">clothes</st> and <st data-num=\"02891\" class=\"\">be clean</st>. ",
+    "verse": "34"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st>, however, the <st data-num=\"05424\" class=\"\">scall</st> <st data-num=\"06581\" class=\"\">spreads</st> <st data-num=\"06581\" class=\"\">further</st><n id=\"1\" /> on the <st data-num=\"05785\" class=\"\">skin</st> <st data-num=\"0310\" class=\"\">after</st> his <st data-num=\"02893\" class=\"\">purification</st>, ",
+    "verse": "35"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "then the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"07200\" class=\"\">examine</st> it, and <st data-num=\"02009\" class=\"\">if</st><n id=\"1\" /> the <st data-num=\"05424\" class=\"\">scall</st> has <st data-num=\"06581\" class=\"\">spread</st> on the <st data-num=\"05785\" class=\"\">skin</st>, the <st data-num=\"03548\" class=\"\">priest</st> is <st data-num=\"03808\" class=\"\">not</st> to <st data-num=\"01239\" class=\"\">search</st> further for <st data-num=\"06669\" class=\"\">reddish yellow</st> <st data-num=\"08181\" class=\"\">hair</st>.<n id=\"2\" /> The <st data-num=\"01931\" class=\"\">person</st><n id=\"3\" /> is <st data-num=\"02931\" class=\"\">unclean</st>. ",
+    "verse": "36"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st>, as far as the priest can <st data-num=\"05869\" class=\"\">see</st>, the <st data-num=\"05424\" class=\"\">scall</st> has <st data-num=\"05975\" class=\"\">stayed the same</st><n id=\"1\" /> and <st data-num=\"07838\" class=\"\">black</st> <st data-num=\"08181\" class=\"\">hair</st> has <st data-num=\"06779\" class=\"\">sprouted</st> in it, the <st data-num=\"05424\" class=\"\">scall</st> has been <st data-num=\"07495\" class=\"\">healed</st>; the <st data-num=\"01931\" class=\"\">person</st> is <st data-num=\"02889\" class=\"\">clean</st>. So the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"02891\" class=\"\">pronounce</st> him <st data-num=\"02891\" class=\"\">clean</st>.<n id=\"2\" /> </p>",
+    "verse": "37"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"03588\" class=\"\">When</st> a <st data-num=\"0376\" class=\"\">man</st> <st data-num=\"0176\" class=\"\">or</st> a <st data-num=\"0802\" class=\"\">woman</st> <st data-num=\"01961\" class=\"\">has</st> <st data-num=\"0934\" class=\"\">bright spots</st>\u2014<st data-num=\"03836\" class=\"\">white</st> <st data-num=\"0934\" class=\"\">bright spots</st>\u2014on the <st data-num=\"05785\" class=\"\">skin</st> of their <st data-num=\"01320\" class=\"\">body</st>, ",
+    "verse": "38"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"07200\" class=\"\">examine</st> them,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> the <st data-num=\"0934\" class=\"\">bright spots</st> on the <st data-num=\"05785\" class=\"\">skin</st> of their <st data-num=\"01320\" class=\"\">body</st> are <st data-num=\"03544\" class=\"\">faded</st> <st data-num=\"03836\" class=\"\">white</st>, <st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"0933\" class=\"\">harmless rash</st> that has <st data-num=\"06524\" class=\"\">broken out</st> on the <st data-num=\"05785\" class=\"\">skin</st>. The <st data-num=\"01931\" class=\"\">person</st> is <st data-num=\"02889\" class=\"\">clean</st>.<n id=\"3\" /> </p>",
+    "verse": "39"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"03588\" class=\"\">When</st> a <st data-num=\"0376\" class=\"\">man\u2019s</st> <st data-num=\"07218\" class=\"\">head</st> <st data-num=\"04803\" class=\"\">is bare</st> so that <st data-num=\"01931\" class=\"\">he</st> is <st data-num=\"07142\">balding in back</st>,<n id=\"1\" /> <st data-num=\"01931\" class=\"\">he</st> is <st data-num=\"02889\" class=\"\">clean</st>. ",
+    "verse": "40"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0518\" class=\"\">If</st> his <st data-num=\"07218\" class=\"\">head</st> <st data-num=\"04803\" class=\"\">is bare</st> on the <st data-num=\"06285 06440\">forehead</st><n id=\"1\" /> so that <st data-num=\"01931\" class=\"\">he</st> is <st data-num=\"01371\" class=\"\">balding in front</st>,<n id=\"2\" /> <st data-num=\"01931\" class=\"\">he</st> is <st data-num=\"02889\" class=\"\">clean</st>. ",
+    "verse": "41"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But <st data-num=\"03588\" class=\"\">if</st> there <st data-num=\"01961\" class=\"\">is</st> a <st data-num=\"0125\" class=\"\">reddish</st> <st data-num=\"03836\" class=\"\">white</st> <st data-num=\"05061\" class=\"\">infection</st> in the <st data-num=\"07146\" class=\"\">back</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"01372\" class=\"\">front</st> bald area, <st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"06883\" class=\"\">disease</st> <st data-num=\"06524\" class=\"\">breaking out</st> in his <st data-num=\"07146\" class=\"\">back</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"01372\">front</st> bald area.",
+    "verse": "42"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"07200\" class=\"\">examine</st> it,<n id=\"1\" /> and <st data-num=\"02009\" class=\"\">if</st><n id=\"2\" /> the <st data-num=\"07613\" class=\"\">swelling</st> of the <st data-num=\"05061\" class=\"\">infection</st> is <st data-num=\"0125\" class=\"\">reddish</st> <st data-num=\"03836\" class=\"\">white</st> in the <st data-num=\"07146\" class=\"\">back</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"01372\" class=\"\">front</st> bald area like the <st data-num=\"04758\" class=\"\">appearance</st> of a <st data-num=\"06883\" class=\"\">disease</st> on the <st data-num=\"05785\" class=\"\">skin</st> of the <st data-num=\"01320\" class=\"\">body</st>,<n id=\"3\" /> ",
+    "verse": "43"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"01931\" class=\"\">he</st> is a <st data-num=\"06879\" class=\"\">diseased</st> <st data-num=\"0376\" class=\"\">man</st>. <st data-num=\"01931\" class=\"\">He</st> is <st data-num=\"02931\" class=\"\">unclean</st>. The <st data-num=\"03548\" class=\"\">priest</st> must <st data-num=\"02930\" class=\"\">surely</st> <st data-num=\"02930\">pronounce</st> him <st data-num=\"02930\" class=\"\">unclean</st> because of his <st data-num=\"05061\" class=\"\">infection</st> on his <st data-num=\"07218\" class=\"\">head</st>.<n id=\"1\" /> </p>",
+    "verse": "44"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201cAs for the <st data-num=\"06879\" class=\"\">diseased person</st> <st data-num=\"0834\" class=\"\">who</st> has the <st data-num=\"05061\" class=\"\">infection</st>,<n id=\"1\" /> his <st data-num=\"0899\" class=\"\">clothes</st> must <st data-num=\"01961\" class=\"\">be</st> <st data-num=\"06533\" class=\"\">torn</st>, the hair of his <st data-num=\"07218\" class=\"\">head</st> must <st data-num=\"01961\">be</st> <st data-num=\"06544\">unbound</st>, he must <st data-num=\"05844\" class=\"\">cover</st> his <st data-num=\"08222\" class=\"\">mustache</st>,<n id=\"2\" /> and he must <st data-num=\"07121\" class=\"\">call out</st> <st data-num=\"02931\" class=\"\">\u2018Unclean</st>! <st data-num=\"02931\" class=\"\">Unclean</st>!\u2019 ",
+    "verse": "45"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03605\" class=\"\">whole</st> <st data-num=\"03117\" class=\"\">time</st> he has the <st data-num=\"05061\" class=\"\">infection</st><n id=\"1\" /> he will <st data-num=\"02930\" class=\"\">be</st> continually <st data-num=\"02930\" class=\"\">unclean</st>. He must <st data-num=\"03427\" class=\"\">live</st> <st data-num=\"0909\" class=\"\">in isolation</st>, and his <st data-num=\"04186\" class=\"\">place of residence</st> must be <st data-num=\"02351\" class=\"\">outside</st> the <st data-num=\"04264\" class=\"\">camp</st>. </p>",
+    "verse": "46"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\">\u201c<st data-num=\"03588\" class=\"\">When</st> a <st data-num=\"0899\" class=\"\">garment</st> <st data-num=\"01961\" class=\"\">has</st> a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st> in it,<n id=\"1\" /> whether a <st data-num=\"06785\" class=\"\">wool</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"06593\" class=\"\">linen</st> <st data-num=\"0899\" class=\"\">garment</st>,<n id=\"2\" /> ",
+    "verse": "47"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<st data-num=\"0176\" class=\"\">or</st> in the <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"06154\" class=\"\">woof</st><n id=\"1\" /> of the <st data-num=\"06593\" class=\"\">linen</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"06785\" class=\"\">wool</st>, <st data-num=\"0176\" class=\"\">or</st> in <st data-num=\"05785\" class=\"\">leather</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"03605\" class=\"\">anything</st> <st data-num=\"04399\" class=\"\">made</st> of <st data-num=\"05785\" class=\"\">leather</st>,<n id=\"2\" /> ",
+    "verse": "48"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "if the <st data-num=\"05061\" class=\"\">infection</st><n id=\"1\" /> in the <st data-num=\"0899\" class=\"\">garment</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"05785\" class=\"\">leather</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"06154\" class=\"\">woof</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"03605\" class=\"\">any</st> <st data-num=\"03627\" class=\"\">article</st> of <st data-num=\"05785\" class=\"\">leather</st> <st data-num=\"01961\" class=\"\">is</st> <st data-num=\"03422\" class=\"\">yellowish green</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"0125\" class=\"\">reddish</st>, <st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st>, and it must be <st data-num=\"07200\" class=\"\">shown</st> to the <st data-num=\"03548\" class=\"\">priest</st>. ",
+    "verse": "49"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"07200\" class=\"\">examine</st> and then <st data-num=\"05462\" class=\"\">quarantine</st> the article with the <st data-num=\"05061\" class=\"\">infection</st> for <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"1\" /> ",
+    "verse": "50"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "He must then <st data-num=\"07200\" class=\"\">examine</st> the <st data-num=\"05061\" class=\"\">infection</st> on the <st data-num=\"07637\" class=\"\">seventh</st> <st data-num=\"03117\" class=\"\">day</st>. <st data-num=\"03588\" class=\"\">If</st> the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"06581\" class=\"\">spread</st> in the <st data-num=\"0899\" class=\"\">garment</st>, <st data-num=\"0176\" class=\"\">or</st> in the <st data-num=\"08359\" class=\"\">warp</st>, <st data-num=\"0176\" class=\"\">or</st> in the <st data-num=\"06154\" class=\"\">woof</st>, <st data-num=\"0176\" class=\"\">or</st> in the <st data-num=\"05785\" class=\"\">leather</st>\u2014<st data-num=\"03605\" class=\"\">whatever</st> the <st data-num=\"04399\" class=\"\">article</st> into <st data-num=\"0834\" class=\"\">which</st> the <st data-num=\"05785\" class=\"\">leather</st> was <st data-num=\"06213\" class=\"\">made</st><n id=\"1\" />\u2014the <st data-num=\"05061\" class=\"\">infection</st> is a <st data-num=\"03992\" class=\"\">malignant</st> <st data-num=\"06883\" class=\"\">disease</st>. <st data-num=\"01931\" class=\"\">It</st> is <st data-num=\"02931\" class=\"\">unclean</st>. ",
+    "verse": "51"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "He must <st data-num=\"08313\" class=\"\">burn</st> the <st data-num=\"0899\" class=\"\">garment</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"06154\" class=\"\">woof</st>, whether <st data-num=\"06785\" class=\"\">wool</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"06593\" class=\"\">linen</st>, <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"03605\" class=\"\">any</st> <st data-num=\"03627\" class=\"\">article</st> of <st data-num=\"05785\" class=\"\">leather</st> <st data-num=\"0834\" class=\"\">which</st> <st data-num=\"01961\" class=\"\">has</st> the <st data-num=\"05061\" class=\"\">infection</st> in it. <st data-num=\"03588\" class=\"\">Because</st> <st data-num=\"01931\" class=\"\">it</st> is a <st data-num=\"03992\" class=\"\">malignant</st> <st data-num=\"06883\" class=\"\">disease</st> it must be <st data-num=\"08313\" class=\"\">burned up</st> in the <st data-num=\"0784\" class=\"\">fire</st>. ",
+    "verse": "52"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But <st data-num=\"0518\" class=\"\">if</st> the <st data-num=\"03548\" class=\"\">priest</st> <st data-num=\"07200\" class=\"\">examines</st> it and<n id=\"1\" /> the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st> in the <st data-num=\"0899\" class=\"\">garment</st> <st data-num=\"0176\" class=\"\">or</st> in the <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> in the <st data-num=\"06154\" class=\"\">woof</st> <st data-num=\"0176\" class=\"\">or</st> in <st data-num=\"03605\" class=\"\">any</st> <st data-num=\"03627\" class=\"\">article</st> of <st data-num=\"05785\" class=\"\">leather</st>, ",
+    "verse": "53"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "the <st data-num=\"03548\" class=\"\">priest</st> is to <st data-num=\"06680\" class=\"\">command</st> that they <st data-num=\"03526\" class=\"\">wash</st> <st data-num=\"0834\" class=\"\">whatever</st> has the <st data-num=\"05061\" class=\"\">infection</st> and <st data-num=\"05462\" class=\"\">quarantine</st> it for <st data-num=\"08145\" class=\"\">another</st> <st data-num=\"07651\" class=\"\">seven</st> <st data-num=\"03117\" class=\"\">days</st>.<n id=\"1\" /> ",
+    "verse": "54"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "The <st data-num=\"03548\" class=\"\">priest</st> must then <st data-num=\"07200\" class=\"\">examine</st> it <st data-num=\"0310\" class=\"\">after</st> the <st data-num=\"05061\" class=\"\">infection</st> has been <st data-num=\"03526\" class=\"\">washed out</st>, and <st data-num=\"02009\" class=\"\">if</st><n id=\"1\" /> the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"02015\" class=\"\">changed</st> its <st data-num=\"05869\" class=\"\">appearance</st><n id=\"2\" /> even though the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"06581\" class=\"\">spread</st>, <st data-num=\"01931\" class=\"\">it</st> is <st data-num=\"02931\" class=\"\">unclean</st>. You must <st data-num=\"08313\" class=\"\">burn</st> it <st data-num=\"08313\" class=\"\">up</st> in the <st data-num=\"0784\" class=\"\">fire</st>. <st data-num=\"01931\" class=\"\">It</st> is a <st data-num=\"06356\" class=\"\">fungus</st>, whether on the <st data-num=\"07146\" class=\"\">back side</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"01372\" class=\"\">front side</st> of the article.<n id=\"3\" />",
+    "verse": "55"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But <st data-num=\"0518\" class=\"\">if</st> the <st data-num=\"03548\" class=\"\">priest</st> has <st data-num=\"07200\" class=\"\">examined</st> it and<n id=\"1\" /> the <st data-num=\"05061\" class=\"\">infection</st> has <st data-num=\"03544\" class=\"\">faded</st> <st data-num=\"0310\" class=\"\">after</st> it has been <st data-num=\"03526\" class=\"\">washed</st>, he is to <st data-num=\"07167\" class=\"\">tear</st> it <st data-num=\"07167\" class=\"\">out</st> <st data-num=\"04480\" class=\"\">of</st><n id=\"2\" /> the <st data-num=\"0899\" class=\"\">garment</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"05785\" class=\"\">leather</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"06154\" class=\"\">woof</st>. ",
+    "verse": "56"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "Then <st data-num=\"0518\" class=\"\">if</st><n id=\"1\" /> it still <st data-num=\"07200\" class=\"\">appears</st> <st data-num=\"05750\" class=\"\">again</st> in the <st data-num=\"0899\" class=\"\">garment</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"06154\" class=\"\">woof</st>, <st data-num=\"0176\" class=\"\">or</st> in <st data-num=\"03605\" class=\"\">any</st> <st data-num=\"03627\" class=\"\">article</st> of <st data-num=\"05785\" class=\"\">leather</st>, <st data-num=\"01931\" class=\"\">it</st> is an <st data-num=\"06524\" class=\"\">outbreak</st>. <st data-num=\"0834\" class=\"\">Whatever</st> has the <st data-num=\"05061\" class=\"\">infection</st> in it you must <st data-num=\"08313\" class=\"\">burn up</st> in the <st data-num=\"0784\" class=\"\">fire</st>. ",
+    "verse": "57"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "But the <st data-num=\"0899\" class=\"\">garment</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"06154\" class=\"\">woof</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"03605\" class=\"\">any</st> <st data-num=\"03627\" class=\"\">article</st> of <st data-num=\"05785\" class=\"\">leather</st> <st data-num=\"0834\" class=\"\">which</st> you <st data-num=\"03526\" class=\"\">wash</st> and <st data-num=\"05061\" class=\"\">infection</st> <st data-num=\"05493\" class=\"\">disappears</st> from <st data-num=\"01992\" class=\"\">it</st><n id=\"1\" /> is to be <st data-num=\"03526\" class=\"\">washed</st> a <st data-num=\"08145\" class=\"\">second time</st>, and it will <st data-num=\"02891\" class=\"\">be clean</st>.\u201d </p>",
+    "verse": "58"
+  },
+  {
+    "bookname": "Leviticus",
+    "chapter": "13",
+    "text": "<p class=\"bodytext\"><st data-num=\"02063\" class=\"\">This</st> is the <st data-num=\"08451\" class=\"\">law</st><n id=\"1\" /> of the <st data-num=\"06883\" class=\"\">diseased</st> <st data-num=\"05061\" class=\"\">infection</st> in the <st data-num=\"0899\" class=\"\">garment</st> of <st data-num=\"06785\" class=\"\">wool</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"06593\" class=\"\">linen</st>, <st data-num=\"0176\" class=\"\">or</st> the <st data-num=\"08359\" class=\"\">warp</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"06154\" class=\"\">woof</st>, <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"03605\" class=\"\">any</st> <st data-num=\"03627\" class=\"\">article</st> of <st data-num=\"05785\" class=\"\">leather</st>, for pronouncing it <st data-num=\"02891\" class=\"\">clean</st> <st data-num=\"0176\" class=\"\">or</st> <st data-num=\"02930\" class=\"\">unclean</st>.<n id=\"2\" /> </p>",
+    "verse": "59"
+  }
+]

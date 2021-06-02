@@ -1,0 +1,194 @@
+[
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"04912\" class=\"\">proverbs</st> of <st data-num=\"08010\" class=\"\">Solomon</st>:<p class=\"poetrybreak\">A <st data-num=\"02450\" class=\"\">wise</st> <st data-num=\"01121\" class=\"\">child</st><n id=\"1\" /> <st data-num=\"08055\" class=\"\">makes</st> a <st data-num=\"01\" class=\"\">father</st> <st data-num=\"08055\" class=\"\">rejoice</st>,<n id=\"2\" /> <p class=\"poetry\">but a <st data-num=\"03684\" class=\"\">foolish</st> <st data-num=\"01121\" class=\"\">child</st><n id=\"3\" /> is a <st data-num=\"08424\" class=\"\">grief</st> to his <st data-num=\"0517\" class=\"\">mother</st>.<n id=\"4\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"0214\" class=\"\">Treasures</st> gained by <st data-num=\"07562\" class=\"\">wickedness</st><n id=\"1\" /> do <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"03276\" class=\"\">profit</st>,<p class=\"poetry\">but <st data-num=\"06666\" class=\"\">righteousness</st><n id=\"2\" /> <st data-num=\"05337\" class=\"\">delivers</st> from <st data-num=\"04194\" class=\"\">death</st>.<n id=\"3\" /></p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"03808 07456\">satisfies</st><n id=\"1\" /> the <st data-num=\"05315\" class=\"\">appetite</st><n id=\"2\" /> of the <st data-num=\"06662\" class=\"\">righteous</st>,<p class=\"poetry\">but he <st data-num=\"01920\" class=\"\">thwarts</st><n id=\"3\" /> the <st data-num=\"01942\" class=\"\">craving</st><n id=\"4\" /> of the <st data-num=\"07563\" class=\"\">wicked</st>. </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The one who <st data-num=\"06213\" class=\"\">is</st> <st data-num=\"03709 07423\">lazy</st><n id=\"1\" /> <st data-num=\"07326\" class=\"\">becomes poor</st>,<n id=\"2\" /> <p class=\"poetry\">but the <st data-num=\"03027\" class=\"\">one</st> who <st data-num=\"02742\" class=\"\">works diligently</st><n id=\"3\" /> <st data-num=\"06238\" class=\"\">becomes wealthy</st>.<n id=\"4\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The one who <st data-num=\"0103\">gathers</st> crops<n id=\"1\" /> in the <st data-num=\"07019\" class=\"\">summer</st> is a <st data-num=\"07919\" class=\"\">wise</st><n id=\"2\" /> <st data-num=\"01121\" class=\"\">son</st>,<p class=\"poetry\">but the one who <st data-num=\"07290\" class=\"\">sleeps</st><n id=\"3\" /> during <st data-num=\"07105\" class=\"\">harvest</st> is a <st data-num=\"0954\" class=\"\">shameful</st> <st data-num=\"01121\" class=\"\">son</st>.<n id=\"4\" /> </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"01293\" class=\"\">Blessings</st><n id=\"1\" /> are on the <st data-num=\"07218\" class=\"\">head</st> of the <st data-num=\"06662\" class=\"\">righteous</st>,<p class=\"poetry\">but the <st data-num=\"06310\" class=\"\">speech</st><n id=\"2\" /> of the <st data-num=\"07563\" class=\"\">wicked</st> <st data-num=\"03680\" class=\"\">conceals</st><n id=\"3\" /> <st data-num=\"02555\" class=\"\">violence</st>.<n id=\"4\" /> </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"02143\" class=\"\">memory</st><n id=\"1\" /> of the <st data-num=\"06662\" class=\"\">righteous</st> is a <st data-num=\"01293\" class=\"\">blessing</st>,<p class=\"poetry\">but the <st data-num=\"08034\" class=\"\">reputation</st><n id=\"2\" /> of the <st data-num=\"07563\" class=\"\">wicked</st> will <st data-num=\"07537\" class=\"\">rot</st>.<n id=\"3\" /> </p>",
+    "verse": "7"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"02450\" class=\"\">wise</st> <st data-num=\"03820\" class=\"\">person</st><n id=\"1\" /> <st data-num=\"03947\" class=\"\">accepts</st> <st data-num=\"04687\" class=\"\">instructions</st>,<n id=\"2\" /> <p class=\"poetry\">but the one who <st data-num=\"08193\" class=\"\">speaks</st> <st data-num=\"0191\" class=\"\">foolishness</st><n id=\"3\" /> will <st data-num=\"03832\" class=\"\">come to ruin</st>.<n id=\"4\" /> </p>",
+    "verse": "8"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The one who <st data-num=\"01980\" class=\"\">conducts</st> himself<n id=\"1\" /> in <st data-num=\"08537\" class=\"\">integrity</st><n id=\"2\" /> will <st data-num=\"01980\" class=\"\">live</st><n id=\"3\" /> <st data-num=\"0983\" class=\"\">securely</st>,<p class=\"poetry\">but the one who <st data-num=\"01870\" class=\"\">behaves</st> <st data-num=\"06140\" class=\"\">perversely</st><n id=\"4\" /> will be <st data-num=\"03045\" class=\"\">found out</st>. </p>",
+    "verse": "9"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The one who <st data-num=\"07169\" class=\"\">winks</st><n id=\"1\" /> his<n id=\"2\" /> <st data-num=\"05869\" class=\"\">eye</st><n id=\"3\" /> <st data-num=\"05414\" class=\"\">causes</st><n id=\"4\" /> <st data-num=\"06094\" class=\"\">trouble</st>,<p class=\"poetry\">and the one who <st data-num=\"08193\" class=\"\">speaks</st> <st data-num=\"0191\" class=\"\">foolishness</st><n id=\"5\" /> will <st data-num=\"03832\" class=\"\">come to ruin</st>. </p>",
+    "verse": "10"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"06310\" class=\"\">speech</st><n id=\"1\" /> of the <st data-num=\"06662\" class=\"\">righteous</st> is a <st data-num=\"04726\" class=\"\">fountain</st> of <st data-num=\"02416\" class=\"\">life</st>,<n id=\"2\" /> <p class=\"poetry\">but the <st data-num=\"06310\" class=\"\">speech</st><n id=\"3\" /> of the <st data-num=\"07563\" class=\"\">wicked</st> <st data-num=\"03680\" class=\"\">conceals</st><n id=\"4\" /> <st data-num=\"02555\" class=\"\">violence</st>.<n id=\"5\" /> </p>",
+    "verse": "11"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"08135\" class=\"\">Hatred</st><n id=\"1\" /> <st data-num=\"05782\" class=\"\">stirs up</st> <st data-num=\"04090\" class=\"\">dissension</st>,<p class=\"poetry\">but <st data-num=\"0160\" class=\"\">love</st> <st data-num=\"05921 03680\">covers</st> <st data-num=\"03605\" class=\"\">all</st> <st data-num=\"06588\" class=\"\">transgressions</st>.<n id=\"2\" /> </p>",
+    "verse": "12"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"02451\" class=\"\">Wisdom</st> is <st data-num=\"04672\" class=\"\">found</st> in the <st data-num=\"08193\" class=\"\">words</st><n id=\"1\" /> of the <st data-num=\"0995\" class=\"\">discerning person</st>,<n id=\"2\" /> <p class=\"poetry\">but the one who <st data-num=\"02638\" class=\"\">lacks</st> <st data-num=\"03820\" class=\"\">sense</st><n id=\"3\" /> will be <st data-num=\"07626 01460\">disciplined</st>.<n id=\"4\" /> </p>",
+    "verse": "13"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">Those who are <st data-num=\"02450\" class=\"\">wise</st><n id=\"1\" /> <st data-num=\"06845\" class=\"\">store up</st><n id=\"2\" /> <st data-num=\"01847\" class=\"\">knowledge</st>,<p class=\"poetry\">but <st data-num=\"0191\" class=\"\">foolish</st> <st data-num=\"06310\" class=\"\">speech</st><n id=\"3\" /> <st data-num=\"07138\" class=\"\">leads to imminent</st><n id=\"4\" /> <st data-num=\"04288\" class=\"\">destruction</st>.</p>",
+    "verse": "14"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"01952\" class=\"\">wealth</st> of a <st data-num=\"06223\" class=\"\">rich person</st> is like<n id=\"1\" /> a <st data-num=\"05797\" class=\"\">fortified</st> <st data-num=\"07151\" class=\"\">city</st>,<n id=\"2\" /> <p class=\"poetry\">but the <st data-num=\"01800\" class=\"\">poor</st> are brought to <st data-num=\"04288\" class=\"\">ruin</st><n id=\"3\" /> by<n id=\"4\" /> their <st data-num=\"07389\" class=\"\">poverty</st>. </p>",
+    "verse": "15"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"06468\" class=\"\">reward</st><n id=\"1\" /> that the <st data-num=\"06662\" class=\"\">righteous</st> receive<n id=\"2\" /> is <st data-num=\"02416\" class=\"\">life</st>;<p class=\"poetry\">the <st data-num=\"08393\" class=\"\">recompense</st><n id=\"3\" /> that the <st data-num=\"07563\" class=\"\">wicked</st> receive<n id=\"4\" /> is <st data-num=\"02403\" class=\"\">judgment</st>.<n id=\"5\" /> </p>",
+    "verse": "16"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The one who <st data-num=\"08104\" class=\"\">heeds</st> <st data-num=\"04148\" class=\"\">instruction</st><n id=\"1\" /> is on the <st data-num=\"0734\" class=\"\">way</st> to<n id=\"2\" /> <st data-num=\"02416\" class=\"\">life</st>,<p class=\"poetry\">but the one who <st data-num=\"05800\" class=\"\">rejects</st><n id=\"3\" /> <st data-num=\"08433\" class=\"\">rebuke</st> <st data-num=\"08582\" class=\"\">goes astray</st>. </p>",
+    "verse": "17"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The one who <st data-num=\"03680\" class=\"\">conceals</st> <st data-num=\"08135\" class=\"\">hatred</st> <st data-num=\"08193\" class=\"\">utters</st> <st data-num=\"08267\" class=\"\">lies</st>,<n id=\"1\" /> <p class=\"poetry\">and the one who <st data-num=\"03318\" class=\"\">spreads</st><n id=\"2\" /> <st data-num=\"01681\" class=\"\">slander</st><n id=\"3\" /> is <st data-num=\"01931\" class=\"\">certainly</st><n id=\"4\" /> a <st data-num=\"03684\" class=\"\">fool</st>. </p>",
+    "verse": "18"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">When <st data-num=\"01697\" class=\"\">words</st> <st data-num=\"07230\" class=\"\">abound</st>, <st data-num=\"06588\" class=\"\">transgression</st> <st data-num=\"03808 02308\">is inevitable</st>,<n id=\"1\" /> <p class=\"poetry\">but the one who <st data-num=\"02820\" class=\"\">restrains</st><n id=\"2\" /> his <st data-num=\"08193\" class=\"\">words</st><n id=\"3\" /> is <st data-num=\"07919\" class=\"\">wise</st>. </p>",
+    "verse": "19"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"03956\" class=\"\">What</st> the <st data-num=\"06662\" class=\"\">righteous</st> <st data-num=\"03956\" class=\"\">say</st><n id=\"1\" /> is like<n id=\"2\" /> the <st data-num=\"0977\" class=\"\">best</st><n id=\"3\" /> <st data-num=\"03701\" class=\"\">silver</st>,<p class=\"poetry\">but <st data-num=\"03820\" class=\"\">what</st> the <st data-num=\"07563\" class=\"\">wicked</st> <st data-num=\"03820\" class=\"\">think</st><n id=\"4\" /> is <st data-num=\"04592\" class=\"\">of little value</st>.<n id=\"5\" /></p>",
+    "verse": "20"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"08193\" class=\"\">teaching</st><n id=\"1\" /> of the <st data-num=\"06662\" class=\"\">righteous</st> <st data-num=\"07462\" class=\"\">feeds</st><n id=\"2\" /> <st data-num=\"07227\" class=\"\">many</st>,<p class=\"poetry\">but <st data-num=\"0191\" class=\"\">fools</st> <st data-num=\"04191\" class=\"\">die</st><n id=\"3\" /> for <st data-num=\"02638\" class=\"\">lack</st> of <st data-num=\"03820\" class=\"\">sense</st>.<n id=\"4\" /></p>",
+    "verse": "21"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"01293\" class=\"\">blessing</st><n id=\"1\" /> from the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><n id=\"2\" /><st data-num=\"06238\" class=\"\"> makes</st> a person <st data-num=\"06238\" class=\"\">rich</st>,<n id=\"3\" /> <p class=\"poetry\">and he <st data-num=\"03254\" class=\"\">adds</st> <st data-num=\"03808\" class=\"\">no</st> <st data-num=\"06089\" class=\"\">sorrow</st><n id=\"4\" /> <st data-num=\"05973\" class=\"\">to</st><n id=\"5\" /> it.</p>",
+    "verse": "22"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"06213\" class=\"\">Carrying out</st> a <st data-num=\"02154\" class=\"\">wicked scheme</st><n id=\"1\" /> is <st data-num=\"07814\" class=\"\">enjoyable</st><n id=\"2\" /> to a <st data-num=\"03684\" class=\"\">fool</st>,<p class=\"poetry\">and so is <st data-num=\"02451\" class=\"\">wisdom</st> for the <st data-num=\"0376\" class=\"\">one</st> who has <st data-num=\"08394\" class=\"\">discernment</st>.<n id=\"3\" /> </p>",
+    "verse": "23"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"04034\" class=\"\">What</st> the <st data-num=\"07563\" class=\"\">wicked</st> <st data-num=\"04034\" class=\"\">fears</st><n id=\"1\" /> will <st data-num=\"0935\" class=\"\">come</st> on him;<p class=\"poetry\"><st data-num=\"08378\" class=\"\">what</st> the <st data-num=\"06662\" class=\"\">righteous</st> <st data-num=\"08378\" class=\"\">desire</st><n id=\"2\" /> will be <st data-num=\"05414\" class=\"\">granted</st>.<n id=\"3\" /> </p>",
+    "verse": "24"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">When the <st data-num=\"05492\" class=\"\">storm</st><n id=\"1\" /> <st data-num=\"05674\" class=\"\">passes through</st>, the <st data-num=\"07563\" class=\"\">wicked</st> are <st data-num=\"0369\" class=\"\">swept away</st>,<n id=\"2\" /> <p class=\"poetry\">but the <st data-num=\"06662\" class=\"\">righteous</st> are an <st data-num=\"05769\" class=\"\">everlasting</st> <st data-num=\"03247\" class=\"\">foundation</st>.<n id=\"3\" /> </p>",
+    "verse": "25"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">Like <st data-num=\"02558\" class=\"\">vinegar</st> to the <st data-num=\"08127\" class=\"\">teeth</st> and like <st data-num=\"06227\" class=\"\">smoke</st> to the <st data-num=\"05869\" class=\"\">eyes</st>,<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03651\" class=\"\">so</st> is the <st data-num=\"06102\" class=\"\">sluggard</st> to those<n id=\"2\" /> who <st data-num=\"07971\" class=\"\">send</st> him.</p>",
+    "verse": "26"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\"><st data-num=\"03374\" class=\"\">Fearing</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><n id=\"1\" /> <st data-num=\"03254\" class=\"\">prolongs</st> <st data-num=\"03117\" class=\"\">life</st>,<n id=\"2\" /> <p class=\"poetry\">but the <st data-num=\"08141\" class=\"\">life span</st><n id=\"3\" /> of the <st data-num=\"07563\" class=\"\">wicked</st> will be <st data-num=\"07114\" class=\"\">shortened</st>.<n id=\"4\" /> </p>",
+    "verse": "27"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"08431\" class=\"\">hope</st><n id=\"1\" /> of the <st data-num=\"06662\" class=\"\">righteous</st> is <st data-num=\"08057\" class=\"\">joy</st>,<p class=\"poetry\">but the <st data-num=\"08615\" class=\"\">expectation</st> of the <st data-num=\"07563\" class=\"\">wicked</st> <st data-num=\"06\" class=\"\">perishes</st>.</p>",
+    "verse": "28"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"01870\" class=\"\">way</st> of the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><n id=\"1\" /> is like<n id=\"2\" /> a <st data-num=\"04581\" class=\"\">stronghold</st> for the <st data-num=\"08537\" class=\"\">upright</st>,<n id=\"3\" /> <p class=\"poetry\">but it is <st data-num=\"04288\" class=\"\">destruction</st><n id=\"4\" /> to <st data-num=\"06466 0205\">evildoers</st>.<n id=\"5\" /> </p>",
+    "verse": "29"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"06662\" class=\"\">righteous</st> will <st data-num=\"05769 01077\">never</st> be <st data-num=\"04131\" class=\"\">moved</st>,<p class=\"poetry\">but the <st data-num=\"07563\" class=\"\">wicked</st> will <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"07931\" class=\"\">inhabit</st> the <st data-num=\"0776\" class=\"\">land</st>.<n id=\"1\" /> </p>",
+    "verse": "30"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"06310\" class=\"\">speech</st><n id=\"1\" /> of the <st data-num=\"06662\" class=\"\">righteous</st> <st data-num=\"05107\" class=\"\">bears</st> the <st data-num=\"05107\" class=\"\">fruit</st> of <st data-num=\"02451\" class=\"\">wisdom</st>,<n id=\"2\" /> <p class=\"poetry\">but the one who <st data-num=\"03956\" class=\"\">speaks</st> <st data-num=\"08419\" class=\"\">perversion</st><n id=\"3\" /> will be <st data-num=\"03772\" class=\"\">destroyed</st>.<n id=\"4\" /> </p>",
+    "verse": "31"
+  },
+  {
+    "bookname": "Proverbs",
+    "chapter": "10",
+    "text": "<p class=\"poetry\">The <st data-num=\"08193\" class=\"\">lips</st> of the <st data-num=\"06662\" class=\"\">righteous</st> <st data-num=\"03045\" class=\"\">know</st><n id=\"1\" /> <st data-num=\"07522\" class=\"\">what is pleasing</st>,<n id=\"2\" /> <p class=\"poetry\">but the <st data-num=\"06310\" class=\"\">speech</st><n id=\"3\" /> of the <st data-num=\"07563\" class=\"\">wicked</st> is <st data-num=\"08419\" class=\"\">perverse</st>. </p>",
+    "verse": "32"
+  }
+]

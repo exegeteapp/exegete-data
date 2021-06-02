@@ -1,0 +1,50 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>.<n id=\"1\" /> <p class=\"poetry\">From the <st data-num=\"04615\" class=\"\">deep water</st><n id=\"2\" /> I <st data-num=\"07121\" class=\"\">cry out</st> to you, O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>. </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"poetry\">O <st data-num=\"0136\" class=\"\">Lord</st>, <st data-num=\"08085\" class=\"\">listen</st> to <st data-num=\"06963\" class=\"\">me</st>.<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"01961 0241 07183\">Pay attention to</st><n id=\"2\" /> my <st data-num=\"06963 08469\">plea for mercy</st>.</p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"poetry\"><st data-num=\"0518\" class=\"\">If</st> you, O <span class=\"smcaps\"><st data-num=\"03050\" class=\"\">Lord</st></span>, were to <st data-num=\"08104\" class=\"\">keep track of</st><n id=\"1\" /> <st data-num=\"05771\" class=\"\">sins</st>,<p class=\"poetry\">O <st data-num=\"0136\" class=\"\">Lord</st>, <st data-num=\"04310\" class=\"\">who</st> could <st data-num=\"05975\" class=\"\">stand</st> before you?<n id=\"2\" /></p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"poetry\"><st data-num=\"03588\">But</st><n id=\"1\" /> you are <st data-num=\"05973\" class=\"\">willing</st> to <st data-num=\"05547\" class=\"\">forgive</st><n id=\"2\" /> <p class=\"poetry\"><st data-num=\"04616\" class=\"\">so that</st> you might<n id=\"3\" /> be <st data-num=\"03372\" class=\"\">honored</st>.<n id=\"4\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"poetry\">I <st data-num=\"06960\" class=\"\">rely on</st><n id=\"1\" /> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>.<p class=\"poetry\">I <st data-num=\"06960\" class=\"\">rely on</st> him with my <st data-num=\"05315\" class=\"\">whole being</st>;<n id=\"2\" /> <p class=\"poetry\">I <st data-num=\"03176\" class=\"\">wait</st> for his assuring <st data-num=\"01697\" class=\"\">word</st>.<n id=\"3\" /> </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"poetry\"><st data-num=\"05315\" class=\"\">I</st> yearn for the <st data-num=\"0136\" class=\"\">Lord</st>,<n id=\"1\" /> <p class=\"poetry\">more than <st data-num=\"08104\" class=\"\">watchmen</st> do for the <st data-num=\"01242\" class=\"\">morning</st>,<p class=\"poetry\">yes, more than <st data-num=\"08104\" class=\"\">watchmen</st> do for the <st data-num=\"01242\" class=\"\">morning</st>.<n id=\"2\" /> </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"poetry\">O <st data-num=\"03478\" class=\"\">Israel</st>, <st data-num=\"03176\" class=\"\">hope</st> <st data-num=\"0413\" class=\"\">in</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>,<p class=\"poetry\"><st data-num=\"03588\" class=\"\">for</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"05973\" class=\"\">exhibits</st> <st data-num=\"02617\" class=\"\">loyal love</st><n id=\"1\" /> <p class=\"poetry\">and is <st data-num=\"07235 05973\">more than willing</st> to <st data-num=\"06304\" class=\"\">deliver</st>.<n id=\"2\" /> </p>",
+    "verse": "7"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "130",
+    "text": "<p class=\"poetry\"><st data-num=\"01931\" class=\"\">He</st> will <st data-num=\"06299\" class=\"\">deliver</st><n id=\"1\" /> <st data-num=\"03478\" class=\"\">Israel</st><p class=\"poetry\">from <st data-num=\"03605\" class=\"\">all</st> their <st data-num=\"05771\" class=\"\">sins</st>.<n id=\"2\" /> </p>",
+    "verse": "8"
+  }
+]

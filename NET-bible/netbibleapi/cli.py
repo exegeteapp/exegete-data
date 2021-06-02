@@ -1,9 +1,11 @@
+import json
 import os
-from .bible import OT, NT
-from itertools import count
-import requests
-from lxml import etree
 from io import BytesIO
+from itertools import count
+
+import requests
+
+from .bible import NT, OT
 
 
 def mkdir_p(indir, d):
@@ -20,26 +22,26 @@ class Dumper:
         self.session = requests.session()
 
     def dumpbookchapter(self, indir, book, chapter):
-        outf = "{}/{:>03}.xml".format(indir, chapter)
+        outf = "{}/{:>03}.json".format(indir, chapter)
         if os.access(outf, os.R_OK):
             return True
         resp = self.session.get(
             "https://labs.bible.org/api/",
             params={
                 "passage": "{} {}".format(book, chapter),
-                "type": "xml",
+                "type": "json",
                 "formatting": "full",
             },
         )
         assert resp.status_code == 200
+        text = resp.json()
         # check that the chapter in the response matches what we asked for: bible.org API will
         # return chapter 1 if we overrun
-        et = etree.parse(BytesIO(resp.content))
-        if str(chapter) != et.xpath("/bible/item/chapter/text()")[0]:
+        if str(chapter) != text[0]["chapter"]:
             return False
         tmpf = outf + ".tmp"
         with open(tmpf, "w") as fd:
-            fd.write(resp.text)
+            json.dump(text, fd, indent=2, sort_keys=True)
         os.rename(tmpf, outf)
         return True
 
@@ -51,7 +53,7 @@ class Dumper:
                 break
 
     def dumptestament(self, testament, books):
-        indir = mkdir_p("xml/", "{}".format(testament))
+        indir = mkdir_p("json/", "{}".format(testament))
         for book_idx, book in enumerate(books, 1):
             self.dumpbook(indir, book_idx, book)
 

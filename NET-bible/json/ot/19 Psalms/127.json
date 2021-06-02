@@ -1,0 +1,32 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "127",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>;<n id=\"1\" /> by <st data-num=\"08010\" class=\"\">Solomon</st>.<p class=\"poetry\"><st data-num=\"0518\" class=\"\">If</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> does <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"01129\" class=\"\">build</st> a <st data-num=\"01004\" class=\"\">house</st>,<n id=\"2\" /> <p class=\"poetry\">then those who <st data-num=\"01129\" class=\"\">build</st> it <st data-num=\"05998\" class=\"\">work</st> <st data-num=\"07723\" class=\"\">in vain</st>.<p class=\"poetry\"><st data-num=\"0518\" class=\"\">If</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> does <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"08104\" class=\"\">guard</st> a <st data-num=\"05892\" class=\"\">city</st>,<n id=\"3\" /> <p class=\"poetry\">then the <st data-num=\"08245\" class=\"\">watchman</st> <st data-num=\"08104\" class=\"\">stands guard</st> <st data-num=\"07723\" class=\"\">in vain</st>. </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "127",
+    "text": "<p class=\"poetry\">It is <st data-num=\"07723\" class=\"\">vain</st> for you to <st data-num=\"06965\" class=\"\">rise</st> <st data-num=\"07925\" class=\"\">early</st>, <st data-num=\"03427\" class=\"\">come home</st> <st data-num=\"0309\" class=\"\">late</st>,<p class=\"poetry\">and <st data-num=\"0398\">work</st> <st data-num=\"06089\" class=\"\">so hard</st> for your <st data-num=\"03899\" class=\"\">food</st>.<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03651\" class=\"\">Yes</st>,<n id=\"2\" /> he <st data-num=\"05414\" class=\"\">provides</st> for those whom he <st data-num=\"03039\" class=\"\">loves</st> even when they <st data-num=\"08142\" class=\"\">sleep</st>.<n id=\"3\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "127",
+    "text": "<p class=\"poetry\"><st data-num=\"02009\" class=\"\">Yes</st>,<n id=\"1\" /> <st data-num=\"01121\" class=\"\">sons</st><n id=\"2\" /> are a <st data-num=\"05159\" class=\"\">gift</st> from the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>;<p class=\"poetry\">the <st data-num=\"06529\" class=\"\">fruit</st> of the <st data-num=\"0990\" class=\"\">womb</st> is a <st data-num=\"07939\" class=\"\">reward</st>. </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "127",
+    "text": "<p class=\"poetry\"><st data-num=\"01121\" class=\"\">Sons</st> born during one\u2019s <st data-num=\"05271\" class=\"\">youth</st><p class=\"poetry\">are <st data-num=\"03651\" class=\"\">like</st> <st data-num=\"02671\" class=\"\">arrows</st> in a <st data-num=\"01368\" class=\"\">warrior\u2019s</st> <st data-num=\"03027\" class=\"\">hand</st>.<n id=\"1\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "127",
+    "text": "<p class=\"poetry\">How <st data-num=\"0835\" class=\"\">blessed</st> is the <st data-num=\"01397\" class=\"\">man</st> <st data-num=\"0834\" class=\"\">who</st> <st data-num=\"04390\" class=\"\">fills</st> his <st data-num=\"0827\" class=\"\">quiver</st> with <st data-num=\"01992\" class=\"\">them</st>.<p class=\"poetry\">They will <st data-num=\"03808\" class=\"\">not</st> be <st data-num=\"0954\" class=\"\">put to shame</st><n id=\"1\" /> <st data-num=\"03588\" class=\"\">when</st> they <st data-num=\"01696 0854\">confront</st><n id=\"2\" /> <st data-num=\"0341\" class=\"\">enemies</st> at the <st data-num=\"08179\" class=\"\">city gate</st>. </p>",
+    "verse": "5"
+  }
+]

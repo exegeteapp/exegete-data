@@ -1,0 +1,20 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "133",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>;<n id=\"1\" /> by <st data-num=\"01732\" class=\"\">David</st>.<p class=\"poetry\"><st data-num=\"02009\" class=\"\">Look</st>! <st data-num=\"04100\" class=\"\">How</st> <st data-num=\"02896\" class=\"\">good</st> and <st data-num=\"04100\" class=\"\">how</st> <st data-num=\"05273\" class=\"\">pleasant</st> it is<p class=\"poetry\">when <st data-num=\"0251\" class=\"\">brothers</st> <st data-num=\"01571\" class=\"\">truly</st> <st data-num=\"03427\" class=\"\">live</st> <st data-num=\"03162\" class=\"\">in unity</st>.<n id=\"2\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "133",
+    "text": "<p class=\"poetry\">It is like <st data-num=\"02896\" class=\"\">fine</st> <st data-num=\"08081\" class=\"\">oil</st> poured <st data-num=\"05921\" class=\"\">on</st> the <st data-num=\"07218\" class=\"\">head</st>,<p class=\"poetry\">which <st data-num=\"03381 05921\">flows down</st> the <st data-num=\"02206\" class=\"\">beard</st><n id=\"1\" />\u2014<p class=\"poetry\"><st data-num=\"0175\" class=\"\">Aaron\u2019s</st> <st data-num=\"02206\" class=\"\">beard</st>,<p class=\"poetry\">and then <st data-num=\"03381 05921 06310\">flows down</st> his <st data-num=\"04060\" class=\"\">garments</st>.<n id=\"2\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "133",
+    "text": "<p class=\"poetry\">It is like the <st data-num=\"02919\" class=\"\">dew</st> of <st data-num=\"02768\" class=\"\">Hermon</st>,<n id=\"1\" /> <p class=\"poetry\">which <st data-num=\"03381\" class=\"\">flows down</st> <st data-num=\"05921\" class=\"\">upon</st> the <st data-num=\"02042\" class=\"\">hills</st> of <st data-num=\"06726\" class=\"\">Zion</st>.<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">Indeed</st>,<n id=\"3\" /> <st data-num=\"08033\">that is where</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> has <st data-num=\"06680\" class=\"\">decreed</st><p class=\"poetry\">a <st data-num=\"01293\" class=\"\">blessing</st> will be available\u2014<st data-num=\"05704 05769\">eternal</st> <st data-num=\"02416\" class=\"\">life</st>.<n id=\"4\" /> </p>",
+    "verse": "3"
+  }
+]

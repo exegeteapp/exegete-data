@@ -1,0 +1,38 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "150",
+    "text": "<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> the <span class=\"smcaps\"><st data-num=\"03050\" class=\"\">Lord</st></span>!<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> <st data-num=\"0410\" class=\"\">God</st> in his <st data-num=\"06944\" class=\"\">sanctuary</st>;<p class=\"poetry\"><st data-num=\"01984\" class=\"\">praise</st> him in the <st data-num=\"07549\" class=\"\">sky</st>, which testifies to his <st data-num=\"05797\" class=\"\">strength</st>!<n id=\"1\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "150",
+    "text": "<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> him for his <st data-num=\"01369\" class=\"\">mighty acts</st>;<p class=\"poetry\"><st data-num=\"01984\" class=\"\">praise</st> him for his <st data-num=\"07230\" class=\"\">surpassing</st> <st data-num=\"01433\" class=\"\">greatness</st>! </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "150",
+    "text": "<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> him with the <st data-num=\"08629\" class=\"\">blast</st> of the <st data-num=\"07782\" class=\"\">horn</st>;<p class=\"poetry\"><st data-num=\"01984\" class=\"\">praise</st> him with the <st data-num=\"05035\" class=\"\">lyre</st> and the <st data-num=\"03658\" class=\"\">harp</st>! </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "150",
+    "text": "<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> him with the <st data-num=\"08596\" class=\"\">tambourine</st> and with <st data-num=\"04234\" class=\"\">dancing</st>;<p class=\"poetry\"><st data-num=\"01984\" class=\"\">praise</st> him with <st data-num=\"04482\" class=\"\">stringed instruments</st> and the <st data-num=\"05748\" class=\"\">flute</st>! </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "150",
+    "text": "<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> him with <st data-num=\"08088\" class=\"\">loud</st> <st data-num=\"06767\" class=\"\">cymbals</st>;<p class=\"poetry\"><st data-num=\"01984\" class=\"\">praise</st> him with <st data-num=\"08643\" class=\"\">clanging</st> <st data-num=\"06767\" class=\"\">cymbals</st>! </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "150",
+    "text": "<p class=\"poetry\">Let <st data-num=\"03605\" class=\"\">everything</st> that has <st data-num=\"05397\" class=\"\">breath</st> <st data-num=\"01984\" class=\"\">praise</st> the <span class=\"smcaps\"><st data-num=\"03050\" class=\"\">Lord</st></span>!<p class=\"poetry\"><st data-num=\"01984\" class=\"\">Praise</st> the <st data-num=\"03050\" class=\"\"><span class=\"smcaps\">Lord</span></st>! </p>",
+    "verse": "6"
+  }
+]

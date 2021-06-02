@@ -1,0 +1,38 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">How <st data-num=\"0835\" class=\"\">blessed</st><n id=\"1\" /> is the <st data-num=\"0376\" class=\"\">one</st><n id=\"2\" /> <st data-num=\"0834\" class=\"\">who</st> does <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"01980\" class=\"\">follow</st><n id=\"3\" /> the <st data-num=\"06098\" class=\"\">advice</st><n id=\"4\" /> of the <st data-num=\"07563\" class=\"\">wicked</st>,<n id=\"5\" /> <p class=\"poetry\"><st data-num=\"03808\" class=\"\">or</st> <st data-num=\"05975\" class=\"\">stand</st> in the <st data-num=\"01870\" class=\"\">pathway</st><n id=\"6\" /> with <st data-num=\"02400\" class=\"\">sinners</st>,<p class=\"poetry\"><st data-num=\"03808\" class=\"\">or</st> <st data-num=\"03427\" class=\"\">sit</st> in the <st data-num=\"04186\" class=\"\">assembly</st><n id=\"7\" /> of <st data-num=\"03887\" class=\"\">scoffers</st>.<n id=\"8\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"03588 0518\">Instead</st><n id=\"1\" /> he finds <st data-num=\"02656\" class=\"\">pleasure</st> in obeying the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>\u2019s <st data-num=\"08451\" class=\"\">commands</st>;<n id=\"2\" /> <p class=\"poetry\">he <st data-num=\"01897\" class=\"\">meditates</st> on<n id=\"3\" /> his <st data-num=\"08451\" class=\"\">commands</st><n id=\"4\" /> <st data-num=\"03119\" class=\"\">day</st> and <st data-num=\"03915\" class=\"\">night</st>. </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "1",
+    "text": "<p class=\"poetry\">He <st data-num=\"01961\" class=\"\">is</st> like<n id=\"1\" /> a <st data-num=\"06086\" class=\"\">tree</st> <st data-num=\"08362\" class=\"\">planted</st> <st data-num=\"05921\" class=\"\">by</st> <st data-num=\"04325\" class=\"\">flowing</st> <st data-num=\"06388\" class=\"\">streams</st>;<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"0834\" class=\"\">it</st><n id=\"3\" /> <st data-num=\"05414\" class=\"\">yields</st><n id=\"4\" /> its <st data-num=\"06529\" class=\"\">fruit</st> at the <st data-num=\"06256\" class=\"\">proper time</st>,<n id=\"5\" /> <p class=\"poetry\">and its <st data-num=\"05929\" class=\"\">leaves</st> <st data-num=\"03808\" class=\"\">never</st> <st data-num=\"05034\" class=\"\">fall off</st>.<n id=\"6\" /> <p class=\"poetry\">He <st data-num=\"06743\" class=\"\">succeeds in</st> <st data-num=\"03605 0834\">everything</st> he <st data-num=\"06213\" class=\"\">attempts</st>.<n id=\"7\" /></p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"03808\" class=\"\">Not</st> <st data-num=\"03651\" class=\"\">so</st> with the <st data-num=\"07563\" class=\"\">wicked</st>!<p class=\"poetry\"><st data-num=\"03588 0518\">Instead</st><n id=\"1\" /> they are like <st data-num=\"0834 05086 07307\">wind-driven</st> <st data-num=\"04671\" class=\"\">chaff</st>.<n id=\"2\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"05921\" class=\"\">For</st> <st data-num=\"03651\" class=\"\">this reason</st><n id=\"1\" /> the <st data-num=\"07563\" class=\"\">wicked</st> <st data-num=\"03808\" class=\"\">cannot</st> <st data-num=\"06965\" class=\"\">withstand</st><n id=\"2\" /> <st data-num=\"04941\" class=\"\">judgment</st>,<n id=\"3\" /> <p class=\"poetry\">nor can <st data-num=\"02400\" class=\"\">sinners</st> join the <st data-num=\"05712\" class=\"\">assembly</st> of the <st data-num=\"06662\" class=\"\">godly</st>.<n id=\"4\" /> </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "1",
+    "text": "<p class=\"poetry\"><st data-num=\"03588\" class=\"\">Certainly</st><n id=\"1\" /> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"03045\" class=\"\">guards</st> the <st data-num=\"01870\" class=\"\">way</st> of the <st data-num=\"06662\" class=\"\">godly</st>,<n id=\"2\" /> <p class=\"poetry\">but the <st data-num=\"01870\" class=\"\">way</st> of the <st data-num=\"07563\" class=\"\">wicked</st> <st data-num=\"06\" class=\"\">ends in destruction</st>.<n id=\"3\" /> </p>",
+    "verse": "6"
+  }
+]

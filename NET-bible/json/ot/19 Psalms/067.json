@@ -1,0 +1,44 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "67",
+    "text": "<p class=\"psasuper\">For the <st data-num=\"05329\" class=\"\">music director</st>, to be accompanied by <st data-num=\"05068\" class=\"\">stringed instruments</st>; a <st data-num=\"04210\" class=\"\">psalm</st>, a <st data-num=\"07892\" class=\"\">song</st>.<p class=\"poetry\">May <st data-num=\"0430\" class=\"\">God</st> <st data-num=\"02603\" class=\"\">show</st> us his <st data-num=\"02603\" class=\"\">favor</st><n id=\"1\" /> and <st data-num=\"01288\" class=\"\">bless</st> us.<n id=\"2\" /> <p class=\"poetry\">May he <st data-num=\"0215 06440\">smile</st> <st data-num=\"0854\">on</st> us.<n id=\"3\" /> (<st data-num=\"05542\" class=\"\">Selah</st>)</p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "67",
+    "text": "<p class=\"poetry\">Then those living on <st data-num=\"0776\" class=\"\">earth</st> will <st data-num=\"03045\" class=\"\">know</st> <st data-num=\"01870\" class=\"\">what</st> you <st data-num=\"01870\" class=\"\">are like</st>;<p class=\"poetry\"><st data-num=\"03605\" class=\"\">all</st> <st data-num=\"01471\" class=\"\">nations</st> will know <st data-num=\"03444\" class=\"\">how</st> you <st data-num=\"03444\" class=\"\">deliver</st> your people.<n id=\"1\" /></p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "67",
+    "text": "<p class=\"poetry\">Let the <st data-num=\"05971\" class=\"\">nations</st> <st data-num=\"03034\" class=\"\">thank</st> you, O <st data-num=\"0430\" class=\"\">God</st>.<p class=\"poetry\">Let <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"05971\" class=\"\">nations</st> <st data-num=\"03034\" class=\"\">thank</st> you.<n id=\"1\" /></p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "67",
+    "text": "<p class=\"poetry\">Let <st data-num=\"03816\" class=\"\">foreigners</st><n id=\"1\" /> <st data-num=\"08055\" class=\"\">rejoice</st> and <st data-num=\"07442\" class=\"\">celebrate</st>.<p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> you <st data-num=\"08199\" class=\"\">execute</st> <st data-num=\"04334\" class=\"\">justice</st> among the <st data-num=\"05971\" class=\"\">nations</st><p class=\"poetry\">and <st data-num=\"05148\" class=\"\">govern</st> the <st data-num=\"03816\" class=\"\">people</st> living on <st data-num=\"0776\" class=\"\">earth</st>.<n id=\"2\" /> (<st data-num=\"05542\" class=\"\">Selah</st>)</p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "67",
+    "text": "<p class=\"poetry\">Let the <st data-num=\"05971\" class=\"\">nations</st> <st data-num=\"03034\" class=\"\">thank</st> you, O <st data-num=\"0430\" class=\"\">God</st>.<p class=\"poetry\">Let <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"05971\" class=\"\">nations</st> <st data-num=\"03034\" class=\"\">thank</st> you.<n id=\"1\" /></p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "67",
+    "text": "<p class=\"poetry\">The <st data-num=\"0776\" class=\"\">earth</st> <st data-num=\"05414\" class=\"\">yields</st> its <st data-num=\"02981\" class=\"\">crops</st>.<p class=\"poetry\">May <st data-num=\"0430\" class=\"\">God</st>, our <st data-num=\"0430\" class=\"\">God</st>, <st data-num=\"01288\" class=\"\">bless</st> us.</p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "67",
+    "text": "<p class=\"poetry\">May <st data-num=\"0430\" class=\"\">God</st> <st data-num=\"01288\" class=\"\">bless</st> us.<n id=\"1\" /> <p class=\"poetry\">Then <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"0657\" class=\"\">ends</st> of the <st data-num=\"0776\" class=\"\">earth</st> will <st data-num=\"03372\" class=\"\">give</st> him the <st data-num=\"03372\" class=\"\">honor</st> he deserves.<n id=\"2\" /> </p>",
+    "verse": "7"
+  }
+]

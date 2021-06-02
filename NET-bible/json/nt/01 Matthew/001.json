@@ -1,0 +1,152 @@
+[
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">This is the <st data-num=\"976\" class=\"\">record</st> of the <st data-num=\"1078\" class=\"\">genealogy</st><n id=\"1\" /> of <st data-num=\"2424\" class=\"\">Jesus</st> <st data-num=\"5547\" class=\"\">Christ</st>, the <st data-num=\"5207\" class=\"\">son</st> of <st data-num=\"1138\">David</st>, the <st data-num=\"5207\" class=\"\">son</st> of <st data-num=\"11\">Abraham</st>. </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"11\" class=\"\">Abraham</st> <st data-num=\"1080\" class=\"\">was the father</st><n id=\"1\" /> of <st data-num=\"2464\" class=\"\">Isaac</st>, <st data-num=\"2464\" class=\"\">Isaac</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2384\" class=\"\">Jacob</st>, <st data-num=\"2384\" class=\"\">Jacob</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2455\" class=\"\">Judah</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"846\" class=\"\">his</st> <st data-num=\"80\" class=\"\">brothers</st>, ",
+    "verse": "2"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"2455\" class=\"\">Judah</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"5329\" class=\"\">Perez</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2196\" class=\"\">Zerah</st> (<st data-num=\"1537\">by</st> <st data-num=\"2283\" class=\"\">Tamar)</st>, <st data-num=\"5329\" class=\"\">Perez</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2074\" class=\"\">Hezron</st>, <st data-num=\"2074\" class=\"\">Hezron</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"689\" class=\"\">Ram</st>, ",
+    "verse": "3"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"689\">Ram</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"284\" class=\"\">Amminadab</st>, <st data-num=\"284\" class=\"\">Amminadab</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"3476\" class=\"\">Nahshon</st>, <st data-num=\"3476\" class=\"\">Nahshon</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"4533\" class=\"\">Salmon</st>, ",
+    "verse": "4"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"4533\" class=\"\">Salmon</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"1003\" class=\"\">Boaz</st> (<st data-num=\"1537\">by</st> <st data-num=\"4477\" class=\"\">Rahab)</st>, <st data-num=\"1003\" class=\"\">Boaz</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"5601\" class=\"\">Obed</st> (<st data-num=\"1537\">by</st> <st data-num=\"4503\" class=\"\">Ruth)</st>, <st data-num=\"5601\" class=\"\">Obed</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2421\" class=\"\">Jesse</st>, ",
+    "verse": "5"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"1161\" class=\"\">and</st> <st data-num=\"2421\" class=\"\">Jesse</st> <st data-num=\"3588\" class=\"\">the</st> <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"1138\" class=\"\">David</st> <st data-num=\"3588\" class=\"\">the</st> <st data-num=\"935\">king</st>.<p class=\"bodytext\"><st data-num=\"1138\">David</st> <st data-num=\"1080\">was the father</st> of <st data-num=\"4672\">Solomon</st> (<st data-num=\"1537\">by</st> <st data-num=\"3588\" class=\"\">the</st> wife of <st data-num=\"3774\">Uriah</st><n id=\"1\" />),",
+    "verse": "6"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"4672\" class=\"\">Solomon</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"4497\" class=\"\">Rehoboam</st>, <st data-num=\"4497\" class=\"\">Rehoboam</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"7\" class=\"\">Abijah</st>, <st data-num=\"7\" class=\"\">Abijah</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"760\">Asa</st>,<n id=\"1\" /> ",
+    "verse": "7"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"760\">Asa</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2498\" class=\"\">Jehoshaphat</st>, <st data-num=\"2498\" class=\"\">Jehoshaphat</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2496\" class=\"\">Joram</st>, <st data-num=\"2496\" class=\"\">Joram</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"3604\" class=\"\">Uzziah</st>, ",
+    "verse": "8"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"3604\" class=\"\">Uzziah</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2488\" class=\"\">Jotham</st>, <st data-num=\"2488\" class=\"\">Jotham</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"881\" class=\"\">Ahaz</st>, <st data-num=\"881\" class=\"\">Ahaz</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"1478\" class=\"\">Hezekiah</st>, ",
+    "verse": "9"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"1478\" class=\"\">Hezekiah</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"3128\" class=\"\">Manasseh</st>, <st data-num=\"3128\" class=\"\">Manasseh</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"301\" class=\"\">Amon</st>,<n id=\"1\" /> <st data-num=\"301\" class=\"\">Amon</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2502\" class=\"\">Josiah</st>, ",
+    "verse": "10"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2502\" class=\"\">Josiah</st><n id=\"1\" /> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2423\" class=\"\">Jeconiah</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"846\" class=\"\">his</st> <st data-num=\"80\" class=\"\">brothers</st>, <st data-num=\"1909\" class=\"\">at</st> the time of the <st data-num=\"3350\" class=\"\">deportation</st> to <st data-num=\"897\" class=\"\">Babylon</st>. </p>",
+    "verse": "11"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"3326\" class=\"\">After</st><n id=\"1\" /> <st data-num=\"3588\">the</st> <st data-num=\"3350\" class=\"\">deportation</st> to <st data-num=\"897\" class=\"\">Babylon</st>, <st data-num=\"2423\" class=\"\">Jeconiah</st> <st data-num=\"1080\">became the father</st> of <st data-num=\"4528\" class=\"\">Shealtiel</st>,<n id=\"2\" /> <st data-num=\"4528\" class=\"\">Shealtiel</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2216\" class=\"\">Zerubbabel</st>, ",
+    "verse": "12"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"2216\">Zerubbabel</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"10\" class=\"\">Abiud</st>, <st data-num=\"10\" class=\"\">Abiud</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"1662\" class=\"\">Eliakim</st>, <st data-num=\"1662\" class=\"\">Eliakim</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"107\" class=\"\">Azor</st>, ",
+    "verse": "13"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"107\">Azor</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"4524\" class=\"\">Zadok</st>, <st data-num=\"4524\" class=\"\">Zadok</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"885\" class=\"\">Achim</st>, <st data-num=\"885\" class=\"\">Achim</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"1664\" class=\"\">Eliud</st>, ",
+    "verse": "14"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"1664\">Eliud</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"1648\" class=\"\">Eleazar</st>, <st data-num=\"1648\" class=\"\">Eleazar</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"3157\" class=\"\">Matthan</st>, <st data-num=\"3157\" class=\"\">Matthan</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2384\" class=\"\">Jacob</st>, ",
+    "verse": "15"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "and <st data-num=\"2384\" class=\"\">Jacob</st> the <st data-num=\"1080\" class=\"\">father</st> of <st data-num=\"2501\" class=\"\">Joseph</st>, <st data-num=\"3588\" class=\"\">the</st> <st data-num=\"435\" class=\"\">husband</st> of <st data-num=\"3137\" class=\"\">Mary</st>, <st data-num=\"1537\" class=\"\">by</st> <st data-num=\"3739\" class=\"\">whom</st><n id=\"1\" /> <st data-num=\"2424\" class=\"\">Jesus</st> was <st data-num=\"1080\">born</st>, <st data-num=\"3588\" class=\"\">who</st> is <st data-num=\"3004\">called</st> <st data-num=\"5547\" class=\"\">Christ</st>.<n id=\"2\" /> </p>",
+    "verse": "16"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"3767\" class=\"\">So</st> <st data-num=\"3956\" class=\"\">all</st> <st data-num=\"3588\">the</st> <st data-num=\"1074\" class=\"\">generations</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"11\" class=\"\">Abraham</st> <st data-num=\"2193\" class=\"\">to</st> <st data-num=\"1138\" class=\"\">David</st> are <st data-num=\"1180\" class=\"\">fourteen</st> <st data-num=\"1074\" class=\"\">generations</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"1138\" class=\"\">David</st> <st data-num=\"2193\" class=\"\">to</st> <st data-num=\"3588\">the</st> <st data-num=\"3350\" class=\"\">deportation</st> to <st data-num=\"897\" class=\"\">Babylon</st>, <st data-num=\"1180\" class=\"\">fourteen</st> <st data-num=\"1074\" class=\"\">generations</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"3588\">the</st> <st data-num=\"3350\" class=\"\">deportation</st> to <st data-num=\"897\" class=\"\">Babylon</st> <st data-num=\"2193\">to</st> <st data-num=\"5547\" class=\"\">Christ</st>,<n id=\"1\" /> <st data-num=\"1180\" class=\"\">fourteen</st> <st data-num=\"1074\" class=\"\">generations</st>. </p>",
+    "verse": "17"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"1161\" class=\"\">Now</st> <st data-num=\"3588\" class=\"\">the</st> <st data-num=\"1087\" class=\"\">birth</st> of <st data-num=\"2424\" class=\"\">Jesus</st> <st data-num=\"5547\" class=\"\">Christ</st> <st data-num=\"1510\" class=\"\">happened</st> <st data-num=\"3779\" class=\"\">this way</st>. While <st data-num=\"846\" class=\"\">his</st> <st data-num=\"3384\" class=\"\">mother</st> <st data-num=\"3137\" class=\"\">Mary</st> was <st data-num=\"3423\">engaged</st> to <st data-num=\"2501\" class=\"\">Joseph</st>, but <st data-num=\"4250\" class=\"\">before</st> they <st data-num=\"4905\" class=\"\">came together</st>,<n id=\"1\" /> she was <st data-num=\"2147\">found</st> to be <st data-num=\"1064\" class=\"\">pregnant</st> <st data-num=\"1537\" class=\"\">through</st> the <st data-num=\"40\" class=\"\">Holy</st> <st data-num=\"4151\" class=\"\">Spirit</st>. ",
+    "verse": "18"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "Because <st data-num=\"2501\" class=\"\">Joseph</st>, <st data-num=\"846\" class=\"\">her</st> <st data-num=\"435\" class=\"\">husband</st> to be,<n id=\"1\" /> <st data-num=\"1510\">was</st> a <st data-num=\"1342\" class=\"\">righteous</st> man, <st data-num=\"2532\" class=\"\">and</st> because he did <st data-num=\"3361\" class=\"\">not</st> <st data-num=\"2309\" class=\"\">want</st> to <st data-num=\"1165\" class=\"\">disgrace</st> <st data-num=\"846\" class=\"\">her</st>, he <st data-num=\"1014\" class=\"\">intended</st> to <st data-num=\"630\" class=\"\">divorce</st> <st data-num=\"846\" class=\"\">her</st><n id=\"2\" /> <st data-num=\"2977\" class=\"\">privately</st>. ",
+    "verse": "19"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "When <st data-num=\"846\" class=\"\">he</st> had <st data-num=\"1760\">contemplated</st> <st data-num=\"3778\" class=\"\">this</st>, an<n id=\"1\" /> <st data-num=\"32\" class=\"\">angel</st> of the <st data-num=\"2962\" class=\"\">Lord</st><n id=\"2\" /> <st data-num=\"5316\" class=\"\">appeared</st> to <st data-num=\"846\" class=\"\">him</st> in a <st data-num=\"3677\" class=\"\">dream</st> and <st data-num=\"3004\" class=\"\">said</st>, \u201c<st data-num=\"2501\" class=\"\">Joseph</st>, <st data-num=\"5207\" class=\"\">son</st> of <st data-num=\"1138\" class=\"\">David</st>, do <st data-num=\"3361\" class=\"\">not</st> be <st data-num=\"5399\" class=\"\">afraid</st> <st data-num=\"3880\">to take</st> <st data-num=\"3137\" class=\"\">Mary</st> as <st data-num=\"4771\">your</st> <st data-num=\"1135\" class=\"\">wife</st> <st data-num=\"1063\" class=\"\">because</st> <st data-num=\"3588\">the</st> child <st data-num=\"1080\" class=\"\">conceived</st> <st data-num=\"1722\" class=\"\">in</st> <st data-num=\"846\" class=\"\">her</st> <st data-num=\"1510\" class=\"\">is</st> <st data-num=\"1537\" class=\"\">from</st> the <st data-num=\"40\" class=\"\">Holy</st> <st data-num=\"4151\" class=\"\">Spirit</st>. ",
+    "verse": "20"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "She will <st data-num=\"5088\">give birth</st> to a <st data-num=\"5207\" class=\"\">son</st> <st data-num=\"2532\" class=\"\">and</st> you will <st data-num=\"3686\" class=\"\">name</st> <st data-num=\"846\" class=\"\">him</st><n id=\"1\" /> <st data-num=\"2424\" class=\"\">Jesus</st><n id=\"2\" /> <st data-num=\"1063\" class=\"\">because</st> <st data-num=\"846\" class=\"\">he</st> will <st data-num=\"1492\">save</st> <st data-num=\"846\" class=\"\">his</st> <st data-num=\"2992\" class=\"\">people</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"846\" class=\"\">their</st> <st data-num=\"266\" class=\"\">sins</st>.\u201d ",
+    "verse": "21"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"3778\">This</st> <st data-num=\"3650\" class=\"\">all</st> <st data-num=\"1096\" class=\"\">happened</st> <st data-num=\"2443\" class=\"\">so that</st> <st data-num=\"3588\" class=\"\">what</st> was <st data-num=\"3004\">spoken</st> <st data-num=\"5259\" class=\"\">by</st> the <st data-num=\"2962\" class=\"\">Lord</st> <st data-num=\"1223\" class=\"\">through</st> <st data-num=\"3588\" class=\"\">the</st> <st data-num=\"4396\" class=\"\">prophet</st> would be <st data-num=\"4137\" class=\"\">fulfilled</st>: ",
+    "verse": "22"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "\u201c<i><b><st data-num=\"2400\">Look</st>! <st data-num=\"3588\" class=\"\">The</st> <st data-num=\"3933\" class=\"\">virgin</st> will <st data-num=\"1064\" class=\"\">conceive</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"5088\" class=\"\">give birth</st> to a <st data-num=\"5207\" class=\"\">son</st>, <st data-num=\"2532\" class=\"\">and</st></b> they <b>will <st data-num=\"2564\" class=\"\">name</st> <st data-num=\"846\" class=\"\">him</st></b></i><n id=\"1\" /> <b><st data-num=\"1694\" class=\"\"><i>Emmanuel</i></st></b>,\u201d<n id=\"2\" /> <st data-num=\"3739\" class=\"\">which</st> <st data-num=\"3177\" class=\"\">means</st><n id=\"3\" /> \u201c<b><i><st data-num=\"2316\" class=\"\">God</st> <st data-num=\"3326\" class=\"\">with</st> <st data-num=\"1473\">us</st></i></b>.\u201d<n id=\"4\" /> ",
+    "verse": "23"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "When <st data-num=\"2501\" class=\"\">Joseph</st> <st data-num=\"1453\" class=\"\">awoke</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"5258\" class=\"\">sleep</st> he <st data-num=\"4160\" class=\"\">did</st> <st data-num=\"5613\" class=\"\">what</st> <st data-num=\"3588\">the</st> <st data-num=\"32\" class=\"\">angel</st> of the <st data-num=\"2962\" class=\"\">Lord</st><n id=\"1\" /> <st data-num=\"4367\" class=\"\">told</st> <st data-num=\"846\" class=\"\">him</st>. He <st data-num=\"3880\" class=\"\">took</st> <st data-num=\"846\" class=\"\">his</st> <st data-num=\"1135\" class=\"\">wife</st>, ",
+    "verse": "24"
+  },
+  {
+    "bookname": "Matthew",
+    "chapter": "1",
+    "text": "<st data-num=\"2532\" class=\"\">but</st> did <st data-num=\"3756\" class=\"\">not</st> have <st data-num=\"1097\">marital relations</st><n id=\"1\" /> with <st data-num=\"846\" class=\"\">her</st> <st data-num=\"2193\" class=\"\">until</st> she <st data-num=\"5088\" class=\"\">gave birth</st> to a <st data-num=\"5207\" class=\"\">son</st>, <st data-num=\"3739\" class=\"\">whom</st> he <st data-num=\"2564\" class=\"\">named</st><n id=\"2\" /> <st data-num=\"2424\" class=\"\">Jesus</st>. </p>",
+    "verse": "25"
+  }
+]

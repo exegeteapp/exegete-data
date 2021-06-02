@@ -1,0 +1,20 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "134",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>.<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"02009\" class=\"\">Attention</st>!<n id=\"2\" /> <st data-num=\"01288\" class=\"\">Praise</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>,<p class=\"poetry\"><st data-num=\"03605\" class=\"\">all</st> you <st data-num=\"05650\" class=\"\">servants</st> of the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><p class=\"poetry\">who <st data-num=\"05975\" class=\"\">serve</st><n id=\"3\" /> in the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>\u2019s <st data-num=\"01004\" class=\"\">temple</st> during the <st data-num=\"03915\" class=\"\">night</st>. </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "134",
+    "text": "<p class=\"poetry\"><st data-num=\"05375\" class=\"\">Lift</st> your <st data-num=\"03027\" class=\"\">hands</st> toward the <st data-num=\"06944\" class=\"\">sanctuary</st><p class=\"poetry\">and <st data-num=\"01288\" class=\"\">praise</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>. </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "134",
+    "text": "<p class=\"poetry\">May the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, the <st data-num=\"06213\" class=\"\">Creator</st> of <st data-num=\"08064\" class=\"\">heaven</st> and <st data-num=\"0776\" class=\"\">earth</st>,<p class=\"poetry\"><st data-num=\"01288\" class=\"\">bless</st> you<n id=\"1\" /> from <st data-num=\"06726\" class=\"\">Zion</st>.<n id=\"2\" /> </p>",
+    "verse": "3"
+  }
+]

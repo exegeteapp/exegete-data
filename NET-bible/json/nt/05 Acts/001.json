@@ -1,0 +1,158 @@
+[
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\">I <st data-num=\"4160\" class=\"\">wrote</st><n id=\"1\" /> the <st data-num=\"4413\" class=\"\">former</st><n id=\"2\" /> <st data-num=\"3056\" class=\"\">account</st>,<n id=\"3\" /> <st data-num=\"2321\" class=\"\">Theophilus</st>,<n id=\"4\" /> <st data-num=\"4012\" class=\"\">about</st> <st data-num=\"3956\" class=\"\">all</st> <st data-num=\"3739\" class=\"\">that</st> <st data-num=\"2424\" class=\"\">Jesus</st> <st data-num=\"757\">began</st> to <st data-num=\"4160\" class=\"\">do</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"1321\" class=\"\">teach</st> ",
+    "verse": "1"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"891\" class=\"\">until</st> the <st data-num=\"2250\" class=\"\">day</st> he was <st data-num=\"353\">taken up</st> to heaven,<n id=\"1\" /> after he had <st data-num=\"1781\" class=\"\">given orders</st><n id=\"2\" /> <st data-num=\"1223\" class=\"\">by</st><n id=\"3\" /> the <st data-num=\"40\" class=\"\">Holy</st> <st data-num=\"4151\" class=\"\">Spirit</st> to the <st data-num=\"652\" class=\"\">apostles</st> he had <st data-num=\"1586\" class=\"\">chosen</st>. ",
+    "verse": "2"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"3739\">To the same apostles</st><n id=\"1\" /> <st data-num=\"2532\" class=\"\">also</st>, <st data-num=\"3326\" class=\"\">after</st> <st data-num=\"846\" class=\"\">his</st> <st data-num=\"3958\" class=\"\">suffering</st>,<n id=\"2\" /> he <st data-num=\"3936\" class=\"\">presented</st> <st data-num=\"1438\" class=\"\">himself</st> <st data-num=\"2198\" class=\"\">alive</st> <st data-num=\"1722\" class=\"\">with</st> <st data-num=\"4183\" class=\"\">many</st> <st data-num=\"5039\" class=\"\">convincing proofs</st>. He was <st data-num=\"3700\" class=\"\">seen</st> by <st data-num=\"846\" class=\"\">them</st> over a <st data-num=\"5062\">forty</st>-<st data-num=\"2250\">day</st> period<n id=\"3\" /> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"3004\" class=\"\">spoke</st> about <st data-num=\"3588\">matters</st> <st data-num=\"4012\" class=\"\">concerning</st> the <st data-num=\"932\" class=\"\">kingdom</st> of <st data-num=\"2316\">God</st>.<n id=\"4\" />",
+    "verse": "3"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "While he <st data-num=\"4871\">was with</st> <st data-num=\"846\" class=\"\">them</st>,<n id=\"1\" /> he <st data-num=\"3853\" class=\"\">declared</st>,<n id=\"2\" /> \u201cDo <st data-num=\"3361\" class=\"\">not</st> <st data-num=\"5563\" class=\"\">leave</st> <st data-num=\"2414\" class=\"\">Jerusalem</st>,<n id=\"3\" /> <st data-num=\"235\" class=\"\">but</st> <st data-num=\"4037\" class=\"\">wait</st> there<n id=\"4\" /> for what my<n id=\"5\" /> <st data-num=\"3962\" class=\"\">Father</st> <st data-num=\"1860\" class=\"\">promised</st>,<n id=\"6\" /> <st data-num=\"3739\" class=\"\">which</st> you <st data-num=\"191\" class=\"\">heard</st> about from <st data-num=\"1473\" class=\"\">me</st>.<n id=\"7\" /> ",
+    "verse": "4"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"3754\" class=\"\">For</st><n id=\"1\" /> <st data-num=\"2491\" class=\"\">John</st> <st data-num=\"907\" class=\"\">baptized</st> with <st data-num=\"5204\" class=\"\">water</st>, <st data-num=\"1161\" class=\"\">but</st> <st data-num=\"4771\">you</st><n id=\"2\" /> will be <st data-num=\"907\" class=\"\">baptized</st> <st data-num=\"1722\" class=\"\">with</st> the <st data-num=\"40\" class=\"\">Holy</st> <st data-num=\"4151\" class=\"\">Spirit</st> <st data-num=\"3756\" class=\"\">not</st> <st data-num=\"4183\" class=\"\">many</st> <st data-num=\"2250\" class=\"\">days</st> <st data-num=\"3326\">from now</st>.\u201d</p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"3767\" class=\"\">So</st> when they had <st data-num=\"4905\">gathered together</st>, they began to <st data-num=\"2065\" class=\"\">ask</st> <st data-num=\"846\" class=\"\">him</st>,<n id=\"1\" /> \u201c<st data-num=\"2962\">Lord</st>, is <st data-num=\"3778\" class=\"\">this</st> the <st data-num=\"5550\" class=\"\">time</st> when you are <st data-num=\"600\" class=\"\">restoring</st> the <st data-num=\"932\" class=\"\">kingdom</st> to <st data-num=\"2474\" class=\"\">Israel</st>?\u201d ",
+    "verse": "6"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "He <st data-num=\"3004\">told</st> <st data-num=\"846\" class=\"\">them</st>, \u201c<st data-num=\"4771\">You</st> <st data-num=\"1510\" class=\"\">are</st> <st data-num=\"3756\" class=\"\">not</st> permitted to <st data-num=\"1097\" class=\"\">know</st><n id=\"1\" /> the <st data-num=\"5550\" class=\"\">times</st> <st data-num=\"2228\" class=\"\">or</st> <st data-num=\"2540\" class=\"\">periods</st> <st data-num=\"3739\" class=\"\">that</st> the <st data-num=\"3962\" class=\"\">Father</st> has <st data-num=\"5087\">set by</st> <st data-num=\"2398\">his own</st> <st data-num=\"1849\" class=\"\">authority</st>. ",
+    "verse": "7"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"235\" class=\"\">But</st> you will <st data-num=\"2983\" class=\"\">receive</st> <st data-num=\"1411\" class=\"\">power</st> when the <st data-num=\"40\" class=\"\">Holy</st> <st data-num=\"4151\" class=\"\">Spirit</st> has <st data-num=\"1904\" class=\"\">come</st> <st data-num=\"1909\" class=\"\">upon</st> <st data-num=\"4771\" class=\"\">you</st>, <st data-num=\"2532\" class=\"\">and</st> you will <st data-num=\"1510\" class=\"\">be</st> <st data-num=\"1473\" class=\"\">my</st> <st data-num=\"3144\" class=\"\">witnesses</st> <st data-num=\"1722\" class=\"\">in</st> <st data-num=\"2419\" class=\"\">Jerusalem</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"1722\" class=\"\">in</st> <st data-num=\"3956\" class=\"\">all</st> <st data-num=\"2449\" class=\"\">Judea</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"4540\" class=\"\">Samaria</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2193\" class=\"\">to</st> the <st data-num=\"2078\">farthest parts</st><n id=\"1\" /> of the <st data-num=\"1093\" class=\"\">earth</st>.\u201d ",
+    "verse": "8"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "After<n id=\"1\" /> he had <st data-num=\"3004\">said</st> <st data-num=\"3778\" class=\"\">this</st>, while <st data-num=\"846\" class=\"\">they</st> were <st data-num=\"991\" class=\"\">watching</st>, he was <st data-num=\"1869\">lifted up</st> <st data-num=\"2532\" class=\"\">and</st> a <st data-num=\"3507\" class=\"\">cloud</st> <st data-num=\"5274\" class=\"\">hid</st> <st data-num=\"846\" class=\"\">him</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"846\" class=\"\">their</st> <st data-num=\"3788\" class=\"\">sight</st>. ",
+    "verse": "9"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"5613\" class=\"\">As</st><n id=\"1\" /> they <st data-num=\"1510\" class=\"\">were</st> still <st data-num=\"816\" class=\"\">staring</st> <st data-num=\"1519\" class=\"\">into</st> the <st data-num=\"3772\" class=\"\">sky</st> while <st data-num=\"846\" class=\"\">he</st> was <st data-num=\"4198\" class=\"\">going</st>, <st data-num=\"2400\" class=\"\">suddenly</st><n id=\"2\" /> <st data-num=\"1417\" class=\"\">two</st> <st data-num=\"435\" class=\"\">men</st> <st data-num=\"1722\" class=\"\">in</st> <st data-num=\"3022\" class=\"\">white</st> <st data-num=\"2066\" class=\"\">clothing</st> <st data-num=\"3936\">stood near</st> <st data-num=\"846\" class=\"\">them</st> ",
+    "verse": "10"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"2532\" class=\"\">and</st> <st data-num=\"3004\" class=\"\">said</st>, \u201c<st data-num=\"435\">Men</st> of <st data-num=\"1057\" class=\"\">Galilee</st>, <st data-num=\"5101\" class=\"\">why</st> do you <st data-num=\"2476\" class=\"\">stand</st> here<n id=\"1\" /> <st data-num=\"435\">looking up</st> <st data-num=\"1519\" class=\"\">into</st> the <st data-num=\"3772\" class=\"\">sky</st>? <st data-num=\"3778\" class=\"\">This</st> same <st data-num=\"2424\" class=\"\">Jesus</st> who has been <st data-num=\"353\">taken up</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"4771\" class=\"\">you</st> <st data-num=\"1519\" class=\"\">into</st> <st data-num=\"3772\" class=\"\">heaven</st><n id=\"2\" /> will <st data-num=\"2064\">come back</st> in the <st data-num=\"5158\">same way</st> you <st data-num=\"2300\" class=\"\">saw</st> <st data-num=\"846\" class=\"\">him</st> <st data-num=\"4198\" class=\"\">go</st> <st data-num=\"1519\" class=\"\">into</st> <st data-num=\"3772\" class=\"\">heaven</st>.\u201d </p>",
+    "verse": "11"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<p class=\"bodytext\"><st data-num=\"5119\" class=\"\">Then</st> they <st data-num=\"5290\" class=\"\">returned</st> <st data-num=\"1519\" class=\"\">to</st> <st data-num=\"2419\" class=\"\">Jerusalem</st><n id=\"1\" /> <st data-num=\"575\" class=\"\">from</st> the <st data-num=\"3735\" class=\"\">mountain</st><n id=\"2\" /> <st data-num=\"2564\" class=\"\">called</st> the <st data-num=\"3735\" class=\"\">Mount</st> of <st data-num=\"1638\" class=\"\">Olives</st><n id=\"3\" /> (<st data-num=\"3739\">which</st> <st data-num=\"1510\" class=\"\">is</st> <st data-num=\"1451\" class=\"\">near</st> <st data-num=\"2419\" class=\"\">Jerusalem</st>, a <st data-num=\"4521\">Sabbath</st> day\u2019s <st data-num=\"3598\">journey</st><n id=\"4\" /> away). ",
+    "verse": "12"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"3753\" class=\"\">When</st><n id=\"1\" /> they had <st data-num=\"1525\" class=\"\">entered</st> Jerusalem,<n id=\"2\" /> they <st data-num=\"305\" class=\"\">went</st> to the <st data-num=\"5253\">upstairs room</st> <st data-num=\"3757\" class=\"\">where</st> they <st data-num=\"1510\" class=\"\">were</st> <st data-num=\"2650\" class=\"\">staying</st>. <st data-num=\"4074\" class=\"\">Peter</st><n id=\"3\" /> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2491\" class=\"\">John</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2385\" class=\"\">James</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"406\" class=\"\">Andrew</st>, <st data-num=\"5376\" class=\"\">Philip</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2381\" class=\"\">Thomas</st>, <st data-num=\"918\" class=\"\">Bartholomew</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"3156\" class=\"\">Matthew</st>, <st data-num=\"2385\" class=\"\">James</st> son of <st data-num=\"256\" class=\"\">Alphaeus</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"4613\" class=\"\">Simon</st> the <st data-num=\"2207\" class=\"\">Zealot</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2455\" class=\"\">Judas</st> son of <st data-num=\"2385\" class=\"\">James</st> were there.<n id=\"4\" />",
+    "verse": "13"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"3956\" class=\"\">All</st> <st data-num=\"3778\" class=\"\">these</st> <st data-num=\"4342\">continued</st> <st data-num=\"3661\" class=\"\">together</st> in <st data-num=\"4335\" class=\"\">prayer</st> <st data-num=\"3661\">with one mind</st>, <st data-num=\"3661\" class=\"\">together</st> <st data-num=\"4862\" class=\"\">with</st> the <st data-num=\"1135\" class=\"\">women</st>, <st data-num=\"2532\" class=\"\">along</st> <st data-num=\"4862\" class=\"\">with</st> <st data-num=\"3137\" class=\"\">Mary</st> the <st data-num=\"3384\" class=\"\">mother</st> of <st data-num=\"2424\" class=\"\">Jesus</st>, <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"846\">his</st> <st data-num=\"80\">brothers</st>.<n id=\"1\" /> ",
+    "verse": "14"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"1722\" class=\"\">In</st> <st data-num=\"3778\" class=\"\">those</st> <st data-num=\"2250\" class=\"\">days</st><n id=\"1\" /> <st data-num=\"4074\" class=\"\">Peter</st> <st data-num=\"450\">stood up</st> <st data-num=\"1722\" class=\"\">among</st> the <st data-num=\"80\" class=\"\">believers</st><n id=\"2\" /> (a <st data-num=\"3793\" class=\"\">gathering</st> of <st data-num=\"5616\">about</st> <st data-num=\"1540 1501\" class=\"\">120</st> <st data-num=\"3686\">people</st>) and <st data-num=\"3004\">said</st>,",
+    "verse": "15"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "\u201c<st data-num=\"80\" class=\"\">Brothers</st>,<n id=\"1\" /> the <st data-num=\"1124\" class=\"\">scripture</st> <st data-num=\"1163\">had to be</st> <st data-num=\"4137\" class=\"\">fulfilled</st> that the <st data-num=\"40\" class=\"\">Holy</st> <st data-num=\"4151\" class=\"\">Spirit</st> <st data-num=\"4275\">foretold</st> <st data-num=\"1223\" class=\"\">through</st><n id=\"2\" /> <st data-num=\"1138\" class=\"\">David</st> <st data-num=\"4012\" class=\"\">concerning</st> <st data-num=\"2455\" class=\"\">Judas</st>\u2014who <st data-num=\"1096\" class=\"\">became</st> the <st data-num=\"3595\" class=\"\">guide</st> for those who <st data-num=\"4815\" class=\"\">arrested</st> <st data-num=\"2424\" class=\"\">Jesus</st>\u2014",
+    "verse": "16"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"3754\" class=\"\">for</st> he <st data-num=\"1510\" class=\"\">was</st> <st data-num=\"2674\" class=\"\">counted</st> as one of <st data-num=\"1473\" class=\"\">us</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"2975\" class=\"\">received</st> a <st data-num=\"2819\" class=\"\">share</st> in <st data-num=\"3778\" class=\"\">this</st> <st data-num=\"1248\" class=\"\">ministry</st>.\u201d<n id=\"1\" /> ",
+    "verse": "17"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "(<st data-num=\"3767\">Now</st> <st data-num=\"3778\">this man</st> Judas<n id=\"1\" /> <st data-num=\"2932\" class=\"\">acquired</st> a <st data-num=\"5564\" class=\"\">field</st> <st data-num=\"1537\" class=\"\">with</st> the <st data-num=\"3408\" class=\"\">reward</st> of his <st data-num=\"93\">unjust deed</st>,<n id=\"2\" /> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"1096\" class=\"\">falling</st> <st data-num=\"4248\" class=\"\">headfirst</st><n id=\"3\" /> he <st data-num=\"2997\">burst open</st> in the <st data-num=\"3319\" class=\"\">middle</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"3956\" class=\"\">all</st> <st data-num=\"846\" class=\"\">his</st> <st data-num=\"4698\" class=\"\">intestines</st><n id=\"4\" /> <st data-num=\"1632\">gushed out</st>. ",
+    "verse": "18"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "This<n id=\"1\" /> <st data-num=\"1096\" class=\"\">became</st> <st data-num=\"1110\" class=\"\">known</st> to <st data-num=\"3956\" class=\"\">all</st> who <st data-num=\"2730\" class=\"\">lived</st> in <st data-num=\"2419\" class=\"\">Jerusalem</st>, <st data-num=\"5620\" class=\"\">so that</st> in <st data-num=\"846\" class=\"\">their</st> <st data-num=\"2398\" class=\"\">own</st> <st data-num=\"1258\" class=\"\">language</st><n id=\"2\" /> they <st data-num=\"2564\" class=\"\">called</st> <st data-num=\"3778\" class=\"\">that</st> <st data-num=\"5564\" class=\"\">field</st><n id=\"3\" /> <st data-num=\"184\" class=\"\"><i>Hakeldama</i></st>, <st data-num=\"3778\" class=\"\">that</st> <st data-num=\"1510\" class=\"\">is</st>, \u201c<st data-num=\"5564\" class=\"\">Field</st> of <st data-num=\"129\">Blood</st>.\u201d) ",
+    "verse": "19"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "\u201c<st data-num=\"1063\">For</st> it is <st data-num=\"1125\" class=\"\">written</st> <st data-num=\"1722\" class=\"\">in</st> the <st data-num=\"976\" class=\"\">book</st> of <st data-num=\"5568\" class=\"\">Psalms</st>, \u2018<b><i>Let <st data-num=\"846\" class=\"\">his</st> <st data-num=\"1886\" class=\"\">house</st> <st data-num=\"1096\" class=\"\">become</st> <st data-num=\"2048\" class=\"\">deserted,</st></i></b><n id=\"1\" /> <st data-num=\"2532\" class=\"\"><b><i>and</i></b></st> <b><i>let there <st data-num=\"1510\" class=\"\">be</st> <st data-num=\"3361\" class=\"\">no</st> one to <st data-num=\"2730\" class=\"\">live</st> <st data-num=\"1722\" class=\"\">in</st> <st data-num=\"846\" class=\"\">it</st></i></b>,\u2019<n id=\"2\" /> <st data-num=\"2532\" class=\"\">and</st> \u2018<b><i>Let <st data-num=\"2087\" class=\"\">another</st> <st data-num=\"2983\" class=\"\">take</st> <st data-num=\"846\" class=\"\">his</st> <st data-num=\"1984\">position of responsibility</st></i></b>.\u2019<n id=\"3\" /> ",
+    "verse": "20"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"3767\" class=\"\">Thus</st> one of the <st data-num=\"435\" class=\"\">men</st><n id=\"1\" /> who have <st data-num=\"4905\" class=\"\">accompanied</st> <st data-num=\"1473\" class=\"\">us</st> <st data-num=\"1722\" class=\"\">during</st> <st data-num=\"3956\" class=\"\">all</st> the <st data-num=\"5550\" class=\"\">time</st> the <st data-num=\"2962\" class=\"\">Lord</st> <st data-num=\"2424\" class=\"\">Jesus</st> <st data-num=\"1525 1831\">associated</st> <st data-num=\"1909\" class=\"\">with</st><n id=\"2\" /> <st data-num=\"1473\" class=\"\">us</st>, ",
+    "verse": "21"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"757\">beginning</st> <st data-num=\"575\" class=\"\">from</st> his <st data-num=\"908\" class=\"\">baptism</st> by <st data-num=\"2491\" class=\"\">John</st> <st data-num=\"2193\" class=\"\">until</st> the <st data-num=\"2250\" class=\"\">day</st> he<n id=\"1\" /> was <st data-num=\"353\">taken up</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"1473\" class=\"\">us</st>\u2014<st data-num=\"1520\" class=\"\">one</st> of <st data-num=\"3778\" class=\"\">these</st> must <st data-num=\"1096\" class=\"\">become</st> a <st data-num=\"3144\" class=\"\">witness</st> of <st data-num=\"846\" class=\"\">his</st> <st data-num=\"386\" class=\"\">resurrection</st> <st data-num=\"4862\">together with</st> <st data-num=\"1473\" class=\"\">us</st>.\u201d ",
+    "verse": "22"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"2532\" class=\"\">So</st> they<n id=\"1\" /> <st data-num=\"2476\" class=\"\">proposed</st> <st data-num=\"1417\" class=\"\">two</st> candidates:<n id=\"2\" /> <st data-num=\"2501\" class=\"\">Joseph</st> <st data-num=\"2564\">called</st> <st data-num=\"923\" class=\"\">Barsabbas</st> (also <st data-num=\"1941\" class=\"\">called</st> <st data-num=\"2459\" class=\"\">Justus)</st> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"3159\" class=\"\">Matthias</st>. ",
+    "verse": "23"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"2532\" class=\"\">Then</st> they <st data-num=\"4336\" class=\"\">prayed</st>,<n id=\"1\" /> \u201c<st data-num=\"2962\">Lord</st>, <st data-num=\"4771\" class=\"\">you</st> <st data-num=\"2589\">know the hearts</st> of <st data-num=\"3956\" class=\"\">all</st>. <st data-num=\"322\" class=\"\">Show</st> us <st data-num=\"3739\" class=\"\">which</st> <st data-num=\"1520\" class=\"\">one</st> <st data-num=\"1537\" class=\"\">of</st> <st data-num=\"3778\" class=\"\">these</st> <st data-num=\"1417\" class=\"\">two</st> you have <st data-num=\"1586\" class=\"\">chosen</st> ",
+    "verse": "24"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "to <st data-num=\"2983\" class=\"\">assume</st> the <st data-num=\"5117\" class=\"\">task</st><n id=\"1\" /> of <st data-num=\"3778\" class=\"\">this</st> <st data-num=\"1248\" class=\"\">service</st><n id=\"2\" /> <st data-num=\"2532\" class=\"\">and</st> <st data-num=\"651\" class=\"\">apostleship</st> <st data-num=\"575\" class=\"\">from</st> <st data-num=\"3739\" class=\"\">which</st> <st data-num=\"2455\" class=\"\">Judas</st> <st data-num=\"3845\">turned aside</st><n id=\"3\" /> to <st data-num=\"4198\" class=\"\">go</st> <st data-num=\"1519\" class=\"\">to</st> <st data-num=\"2398\">his own</st> <st data-num=\"5117\" class=\"\">place</st>.\u201d<n id=\"4\" /> ",
+    "verse": "25"
+  },
+  {
+    "bookname": "Acts",
+    "chapter": "1",
+    "text": "<st data-num=\"2532\" class=\"\">Then</st><n id=\"1\" /> they <st data-num=\"1325\" class=\"\">cast</st> <st data-num=\"2819\" class=\"\">lots</st> for <st data-num=\"846\" class=\"\">them</st>, <st data-num=\"2532\" class=\"\">and</st> the one <st data-num=\"4098 2819\">chosen</st> was <st data-num=\"3159\" class=\"\">Matthias;</st><n id=\"2\" /> <st data-num=\"2532\" class=\"\">so</st> he was <st data-num=\"4785\" class=\"\">counted</st> <st data-num=\"3326\" class=\"\">with</st> the <st data-num=\"1733\" class=\"\">eleven</st> <st data-num=\"652\" class=\"\">apostles</st>.<n id=\"3\" /> </p>",
+    "verse": "26"
+  }
+]

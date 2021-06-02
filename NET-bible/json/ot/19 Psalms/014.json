@@ -1,0 +1,44 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "14",
+    "text": "<p class=\"psasuper\">For the <st data-num=\"05329\" class=\"\">music director</st>, by <st data-num=\"01732\" class=\"\">David</st>.<p class=\"poetry\"><st data-num=\"05036\" class=\"\">Fools</st> <st data-num=\"0559\" class=\"\">say</st> to <st data-num=\"03820\" class=\"\">themselves</st>,<n id=\"1\" /> \u201c<st data-num=\"0369\" class=\"\">There is no</st> <st data-num=\"0430\" class=\"\">God</st>.\u201d<n id=\"2\" /> <p class=\"poetry\">They <st data-num=\"07843\" class=\"\">sin</st> and <st data-num=\"08581\" class=\"\">commit evil</st> <st data-num=\"05949\" class=\"\">deeds</st>;<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"0369\" class=\"\">none</st> of them <st data-num=\"06213\" class=\"\">does</st> <st data-num=\"02896\" class=\"\">what is right</st>.<n id=\"4\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "14",
+    "text": "<p class=\"poetry\">The <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"08259\" class=\"\">looks down</st> from <st data-num=\"08064\" class=\"\">heaven</st><n id=\"1\" /> <st data-num=\"05921\" class=\"\">at</st> the <st data-num=\"01121 0120\">human race</st>,<n id=\"2\" /> <p class=\"poetry\">to <st data-num=\"07200\" class=\"\">see</st> if <st data-num=\"03426\" class=\"\">there is</st> anyone who <st data-num=\"07919\" class=\"\">is wise</st><n id=\"3\" /> and <st data-num=\"01875\" class=\"\">seeks</st> <st data-num=\"0430\" class=\"\">God</st>.<n id=\"4\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "14",
+    "text": "<p class=\"poetry\"><st data-num=\"03605\" class=\"\">Everyone</st> <st data-num=\"05493\" class=\"\">rejects</st> God;<n id=\"1\" /> <p class=\"poetry\">they <st data-num=\"0444\" class=\"\">are</st> <st data-num=\"03162\" class=\"\">all</st> <st data-num=\"0444\" class=\"\">morally corrupt</st>.<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"0369\" class=\"\">None</st> of them <st data-num=\"06213\" class=\"\">does</st> <st data-num=\"02896\" class=\"\">what is right</st>,<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"0369\" class=\"\">not</st> <st data-num=\"01571\" class=\"\">even</st> <st data-num=\"0259\" class=\"\">one</st>. </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "14",
+    "text": "<p class=\"poetry\"><st data-num=\"03605\" class=\"\">All</st> those who <st data-num=\"06466\" class=\"\">behave</st> <st data-num=\"0205\" class=\"\">wickedly</st><n id=\"1\" /> do <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"03045\" class=\"\">understand</st>\u2014<n id=\"2\" /> <p class=\"poetry\">those who <st data-num=\"0398\" class=\"\">devour</st> my <st data-num=\"05971\" class=\"\">people</st> as if they were <st data-num=\"0398\" class=\"\">eating</st> <st data-num=\"03899\" class=\"\">bread</st><p class=\"poetry\">and do <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"07121\" class=\"\">call out</st> to the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>. </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "14",
+    "text": "<p class=\"poetry\">They are <st data-num=\"06343\" class=\"\">absolutely</st> <st data-num=\"08033 06342\">terrified</st>,<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">for</st> <st data-num=\"0430\" class=\"\">God</st> defends the <st data-num=\"01755 06662\">godly</st>.<n id=\"2\" /> </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "14",
+    "text": "<p class=\"poetry\">You want to <st data-num=\"0954\" class=\"\">humiliate</st> the <st data-num=\"06098 06041\">oppressed</st>,<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">even though</st><n id=\"2\" /> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> is their<n id=\"3\" /> <st data-num=\"04268\" class=\"\">shelter</st>. </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "14",
+    "text": "<p class=\"poetry\"><st data-num=\"04310\" class=\"\">I</st> <st data-num=\"05414\" class=\"\">wish</st> the <st data-num=\"03444\" class=\"\">deliverance</st><n id=\"1\" /> of <st data-num=\"03478\" class=\"\">Israel</st> would come from <st data-num=\"06726\" class=\"\">Zion</st>!<p class=\"poetry\">When the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"07725\" class=\"\">restores</st> the <st data-num=\"07622\" class=\"\">well-being</st> of his <st data-num=\"05971\" class=\"\">people</st>,<n id=\"2\" /> <p class=\"poetry\">may <st data-num=\"03290\" class=\"\">Jacob</st> <st data-num=\"01523\" class=\"\">rejoice</st>,<n id=\"3\" /> <p class=\"poetry\">may <st data-num=\"03478\" class=\"\">Israel</st> <st data-num=\"08055\" class=\"\">be happy</st>!<n id=\"4\" /> </p>",
+    "verse": "7"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "120",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>.<n id=\"1\" /> <p class=\"poetry\">In my <st data-num=\"06869\" class=\"\">distress</st> I <st data-num=\"07121\" class=\"\">cried out</st><p class=\"poetry\"><st data-num=\"0413\" class=\"\">to</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> and he <st data-num=\"06030\" class=\"\">answered</st> me.</p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "120",
+    "text": "<p class=\"poetry\">I said,<n id=\"1\" /> \u201cO <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"05337\" class=\"\">rescue</st> <st data-num=\"05315\" class=\"\">me</st><n id=\"2\" /> <p class=\"poetry\">from those who <st data-num=\"08267\" class=\"\">lie</st> with their <st data-num=\"08193\" class=\"\">lips</st><n id=\"3\" /> <p class=\"poetry\">and those who <st data-num=\"07423\" class=\"\">deceive</st> with their <st data-num=\"03956\" class=\"\">tongues</st>.\u201d<n id=\"4\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "120",
+    "text": "<p class=\"poetry\"><st data-num=\"04100\" class=\"\">How</st> will he <st data-num=\"04100 03254\">severely</st> <st data-num=\"05414\" class=\"\">punish</st> you,<p class=\"poetry\">you <st data-num=\"07423\" class=\"\">deceptive</st> <st data-num=\"03956\" class=\"\">talker</st>?<n id=\"1\" /> </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "120",
+    "text": "<p class=\"poetry\">Here\u2019s how!<n id=\"1\" /> With the <st data-num=\"08150\" class=\"\">sharp</st> <st data-num=\"02671\" class=\"\">arrows</st> of <st data-num=\"01368\" class=\"\">warriors</st>,<p class=\"poetry\"><st data-num=\"05973\" class=\"\">with</st> arrowheads forged over the <st data-num=\"01513 07574\">hot coals</st>.<n id=\"2\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "120",
+    "text": "<p class=\"poetry\"><st data-num=\"0190\" class=\"\">How miserable</st> I am.<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> I have <st data-num=\"01481\" class=\"\">lived temporarily</st><n id=\"2\" /> in <st data-num=\"04902\" class=\"\">Meshech</st>;<p class=\"poetry\">I have <st data-num=\"07931\" class=\"\">resided</st> <st data-num=\"05973\" class=\"\">among</st> the <st data-num=\"0168\" class=\"\">tents</st> of <st data-num=\"06938\" class=\"\">Kedar</st>.<n id=\"3\" /> </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "120",
+    "text": "<p class=\"poetry\">For too <st data-num=\"07227\" class=\"\">long</st> <st data-num=\"05315\" class=\"\">I</st> have had to <st data-num=\"07931\" class=\"\">reside</st><p class=\"poetry\"><st data-num=\"05973\" class=\"\">with</st> those who <st data-num=\"08130\" class=\"\">hate</st><n id=\"1\" /> <st data-num=\"07965\" class=\"\">peace</st>. </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "120",
+    "text": "<p class=\"poetry\"><st data-num=\"0589\" class=\"\">I</st> am committed to <st data-num=\"07965\" class=\"\">peace</st>,<n id=\"1\" /> <p class=\"poetry\">but <st data-num=\"03588\" class=\"\">when</st> I <st data-num=\"01696\" class=\"\">speak</st>, <st data-num=\"01992\" class=\"\">they</st> want to make <st data-num=\"04421\" class=\"\">war</st>.<n id=\"2\" /> </p>",
+    "verse": "7"
+  }
+]

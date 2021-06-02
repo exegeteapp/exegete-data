@@ -1,0 +1,44 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "54",
+    "text": "<p class=\"psasuper\">For the <st data-num=\"05329\" class=\"\">music director</st>, to be accompanied by <st data-num=\"05058\" class=\"\">stringed instruments</st>; a <st data-num=\"04905\" class=\"\">well-written song</st><n id=\"1\" /> by <st data-num=\"01732\" class=\"\">David</st>. It was written when the <st data-num=\"02130\" class=\"\">Ziphites</st> <st data-num=\"0935\" class=\"\">came</st> and <st data-num=\"0559\" class=\"\">informed</st> <st data-num=\"07586\" class=\"\">Saul</st>: \u201c<st data-num=\"01732\" class=\"\">David</st> <st data-num=\"03808\" class=\"\">is</st> <st data-num=\"05641\" class=\"\">hiding</st> <st data-num=\"05973\" class=\"\">with</st> us.\u201d<n id=\"2\" /> <p class=\"poetry\">O <st data-num=\"0430\" class=\"\">God</st>, <st data-num=\"03467\" class=\"\">deliver</st> me by your <st data-num=\"08034\" class=\"\">name</st>.<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"01777\" class=\"\">Vindicate</st> me<n id=\"4\" /> by your <st data-num=\"01369\" class=\"\">power</st>. </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "54",
+    "text": "<p class=\"poetry\">O <st data-num=\"0430\" class=\"\">God</st>, <st data-num=\"08085\" class=\"\">listen</st> to my <st data-num=\"08605\" class=\"\">prayer</st>.<p class=\"poetry\"><st data-num=\"0238\" class=\"\">Pay attention</st> to <st data-num=\"0561\" class=\"\">what</st> I <st data-num=\"06310\" class=\"\">say</st>.<n id=\"1\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "54",
+    "text": "<p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> <st data-num=\"02114\" class=\"\">foreigners</st><n id=\"1\" /> <st data-num=\"06965 05921\">attack</st> me;<n id=\"2\" /> <p class=\"poetry\"><st data-num=\"06184\" class=\"\">ruthless men</st>, who do <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"07760 05048\">respect</st> <st data-num=\"0430\" class=\"\">God</st>, <st data-num=\"01245\" class=\"\">seek</st> my <st data-num=\"05315\" class=\"\">life</st>.<n id=\"3\" /> (<st data-num=\"05542\" class=\"\">Selah</st>)</p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "54",
+    "text": "<p class=\"poetry\"><st data-num=\"02009\" class=\"\">Look</st>, <st data-num=\"0430\" class=\"\">God</st> is my <st data-num=\"05826\" class=\"\">deliverer</st>.<n id=\"1\" /> <p class=\"poetry\">The <st data-num=\"0136\" class=\"\">Lord</st> is among those who <st data-num=\"05564\" class=\"\">support</st> <st data-num=\"05315\" class=\"\">me</st>.<n id=\"2\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "54",
+    "text": "<p class=\"poetry\">May those who <st data-num=\"08324\" class=\"\">wait to ambush</st> me<n id=\"1\" /> be <st data-num=\"07725\" class=\"\">repaid</st> for their <st data-num=\"07451\" class=\"\">evil</st>.<n id=\"2\" /> <p class=\"poetry\">As a demonstration of your <st data-num=\"0571\" class=\"\">faithfulness</st>,<n id=\"3\" /> <st data-num=\"06789\" class=\"\">destroy</st> them.</p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "54",
+    "text": "<p class=\"poetry\">With a <st data-num=\"05071\" class=\"\">freewill offering</st> I will <st data-num=\"02076\" class=\"\">sacrifice</st><n id=\"1\" /> to you.<p class=\"poetry\">I will <st data-num=\"03034\" class=\"\">give thanks to</st> your <st data-num=\"08034\" class=\"\">name</st>, O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"03588\" class=\"\">for</st> it is <st data-num=\"02896\" class=\"\">good</st>. </p>",
+    "verse": "6"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "54",
+    "text": "<p class=\"poetry\"><st data-num=\"03588\" class=\"\">Surely</st><n id=\"1\" /> he <st data-num=\"05337\" class=\"\">rescues</st> me from <st data-num=\"03605\" class=\"\">all</st> <st data-num=\"06869\" class=\"\">trouble</st>,<n id=\"2\" /> <p class=\"poetry\">and <st data-num=\"05869\" class=\"\">I</st> <st data-num=\"07200\" class=\"\">triumph</st> over my <st data-num=\"0341\" class=\"\">enemies</st>.<n id=\"3\" /> </p>",
+    "verse": "7"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "123",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>.<n id=\"1\" /> <p class=\"poetry\">I <st data-num=\"05869\" class=\"\">look</st> <st data-num=\"05375\" class=\"\">up</st><n id=\"2\" /> <st data-num=\"0413\" class=\"\">toward</st> you,<p class=\"poetry\">the one <st data-num=\"03427\" class=\"\">enthroned</st><n id=\"3\" /> in <st data-num=\"08064\" class=\"\">heaven</st>. </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "123",
+    "text": "<p class=\"poetry\"><st data-num=\"02009\" class=\"\">Look</st>, as the <st data-num=\"05869\" class=\"\">eyes</st> of <st data-num=\"05650\" class=\"\">servants</st> look <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"03027\" class=\"\">hand</st> of their <st data-num=\"0113\" class=\"\">master</st>,<p class=\"poetry\">as the <st data-num=\"05869\" class=\"\">eyes</st> of a <st data-num=\"08198\" class=\"\">female servant</st> look <st data-num=\"0413\" class=\"\">to</st> the <st data-num=\"03027\" class=\"\">hand</st> of her <st data-num=\"01404\" class=\"\">mistress</st>,<n id=\"1\" /> <p class=\"poetry\"><st data-num=\"03651\" class=\"\">so</st> our <st data-num=\"05869\" class=\"\">eyes</st> will look <st data-num=\"0413\" class=\"\">to</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, our <st data-num=\"0430\" class=\"\">God</st>, <st data-num=\"05704\" class=\"\">until</st> he <st data-num=\"02603\" class=\"\">shows</st> us <st data-num=\"02603\" class=\"\">favor</st>.</p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "123",
+    "text": "<p class=\"poetry\"><st data-num=\"02603\" class=\"\">Show</st> us <st data-num=\"02603\" class=\"\">favor</st>, O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"02603\" class=\"\">show</st> us <st data-num=\"02603\" class=\"\">favor</st>!<p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> we have <st data-num=\"07646\">had</st> our <st data-num=\"07646\" class=\"\">fill</st> of <st data-num=\"0937\" class=\"\">humiliation</st>, and <st data-num=\"07227\" class=\"\">then some</st>.<n id=\"1\" /> </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "123",
+    "text": "<p class=\"poetry\"><st data-num=\"05315\" class=\"\">We</st> have <st data-num=\"07227 07646\">had</st> our <st data-num=\"07227 07646\">fill</st><n id=\"1\" /> <p class=\"poetry\">of the <st data-num=\"03933\" class=\"\">taunts</st> of the <st data-num=\"07600\" class=\"\">self-assured</st>,<p class=\"poetry\">of the <st data-num=\"0937\" class=\"\">contempt</st> of the <st data-num=\"01349\" class=\"\">proud</st>. </p>",
+    "verse": "4"
+  }
+]

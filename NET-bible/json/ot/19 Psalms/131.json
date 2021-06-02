@@ -1,0 +1,20 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "131",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>,<n id=\"1\" /> by <st data-num=\"01732\" class=\"\">David</st>.<p class=\"poetry\">O <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, my <st data-num=\"03820\" class=\"\">heart</st> is <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"01361\" class=\"\">proud</st>,<p class=\"poetry\"><st data-num=\"03808\" class=\"\">nor</st> do I have a <st data-num=\"07311\" class=\"\">haughty</st> <st data-num=\"05869\" class=\"\">look</st>.<n id=\"2\" /> <p class=\"poetry\">I do <st data-num=\"03808\" class=\"\">not</st> <st data-num=\"01980\" class=\"\">have</st> <st data-num=\"01419\" class=\"\">great aspirations</st>,<p class=\"poetry\">or concern myself with <st data-num=\"06381 04480\">things that are beyond</st> me.<n id=\"3\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "131",
+    "text": "<p class=\"poetry\"><st data-num=\"0518 03808\">Indeed</st>,<n id=\"1\" /> I have <st data-num=\"07737\" class=\"\">calmed</st> and <st data-num=\"01826\" class=\"\">quieted</st> <st data-num=\"05315\" class=\"\">myself</st><n id=\"2\" /> <p class=\"poetry\">like a <st data-num=\"01580\" class=\"\">weaned child</st> <st data-num=\"05921\" class=\"\">with</st> its <st data-num=\"0517\" class=\"\">mother</st>;<n id=\"3\" /> <p class=\"poetry\"><st data-num=\"05315\" class=\"\">I</st> am <st data-num=\"05921\" class=\"\">content</st> like a <st data-num=\"01580\" class=\"\">young child</st>.<n id=\"4\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "131",
+    "text": "<p class=\"poetry\">O <st data-num=\"03478\" class=\"\">Israel</st>, <st data-num=\"03176\" class=\"\">hope</st> <st data-num=\"0413\" class=\"\">in</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><p class=\"poetry\"><st data-num=\"06258\" class=\"\">now</st> <st data-num=\"05704\" class=\"\">and</st> <st data-num=\"05769\" class=\"\">forevermore</st>! </p>",
+    "verse": "3"
+  }
+]

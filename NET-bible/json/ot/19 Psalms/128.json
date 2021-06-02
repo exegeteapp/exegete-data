@@ -1,0 +1,38 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "128",
+    "text": "<p class=\"psasuper\">A <st data-num=\"07892\" class=\"\">song</st> of <st data-num=\"04609\" class=\"\">ascents</st>.<n id=\"1\" /> <p class=\"poetry\">How <st data-num=\"0835\" class=\"\">blessed</st> is <st data-num=\"03605\" class=\"\">every one</st> of the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>\u2019s <st data-num=\"03373\" class=\"\">loyal followers</st>,<n id=\"2\" /> <p class=\"poetry\">each one who <st data-num=\"01980\" class=\"\">keeps</st> his <st data-num=\"01870\" class=\"\">commands</st>.<n id=\"3\" /> </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "128",
+    "text": "<p class=\"poetry\">You<n id=\"1\" /> will <st data-num=\"03588 0398\">eat</st> <st data-num=\"03018\" class=\"\">what</st> you <st data-num=\"03018\" class=\"\">worked</st> <st data-num=\"03709\" class=\"\">so hard</st> to grow.<n id=\"2\" /> <p class=\"poetry\">You will be <st data-num=\"0835\" class=\"\">blessed</st> and <st data-num=\"02896\" class=\"\">secure</st>.<n id=\"3\" /> </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "128",
+    "text": "<p class=\"poetry\">Your <st data-num=\"0802\" class=\"\">wife</st> will be like a <st data-num=\"06509\" class=\"\">fruitful</st> <st data-num=\"01612\" class=\"\">vine</st><n id=\"1\" /> <p class=\"poetry\">in the <st data-num=\"03411\" class=\"\">inner rooms</st> of your <st data-num=\"01004\" class=\"\">house</st>;<p class=\"poetry\">your <st data-num=\"01121\" class=\"\">children</st><n id=\"2\" /> will be like <st data-num=\"02132\" class=\"\">olive</st> <st data-num=\"08363\" class=\"\">branches</st>,<p class=\"poetry\">as they sit <st data-num=\"05439\" class=\"\">all around</st> your <st data-num=\"07979\" class=\"\">table</st>. </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "128",
+    "text": "<p class=\"poetry\"><st data-num=\"02009\" class=\"\">Yes</st> <st data-num=\"03588\" class=\"\">indeed</st>, the <st data-num=\"01397\" class=\"\">man</st> who <st data-num=\"03373\" class=\"\">fears</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span><p class=\"poetry\">will be <st data-num=\"01288\" class=\"\">blessed</st> <st data-num=\"03651\" class=\"\">in this way</st>.<n id=\"1\" /> </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "128",
+    "text": "<p class=\"poetry\">May the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"01288\" class=\"\">bless</st> you<n id=\"1\" /> from <st data-num=\"06726\" class=\"\">Zion</st><p class=\"poetry\">that you might <st data-num=\"07200\" class=\"\">see</st><n id=\"2\" /> <st data-num=\"03389\" class=\"\">Jerusalem</st><n id=\"3\" /> <st data-num=\"02898\" class=\"\">prosper</st><p class=\"poetry\"><st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"03117\" class=\"\">days</st> of your <st data-num=\"02416\" class=\"\">life</st>, </p>",
+    "verse": "5"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "128",
+    "text": "<p class=\"poetry\">and that you might <st data-num=\"07200\" class=\"\">see</st><n id=\"1\" /> your <st data-num=\"01121 01121\">grandchildren</st>.<n id=\"2\" /> <p class=\"poetry\">May <st data-num=\"03478\" class=\"\">Israel</st> <st data-num=\"05921\" class=\"\">experience</st> <st data-num=\"07965\" class=\"\">peace</st>.<n id=\"3\" /> </p>",
+    "verse": "6"
+  }
+]

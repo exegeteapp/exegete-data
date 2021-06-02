@@ -1,0 +1,32 @@
+[
+  {
+    "bookname": "Psalms",
+    "chapter": "100",
+    "text": "<p class=\"psasuper\">A <st data-num=\"08426\" class=\"\">thanksgiving</st> <st data-num=\"04210\" class=\"\">psalm</st>.<p class=\"poetry\"><st data-num=\"07321\" class=\"\">Shout out praises</st> to the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span>, <st data-num=\"03605\" class=\"\">all</st> the <st data-num=\"0776\" class=\"\">earth</st>! </p>",
+    "verse": "1"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "100",
+    "text": "<p class=\"poetry\"><st data-num=\"05647\" class=\"\">Worship</st><n id=\"1\" /> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> with <st data-num=\"08057\" class=\"\">joy</st>.<p class=\"poetry\"><st data-num=\"0935\" class=\"\">Enter</st> his <st data-num=\"06440\" class=\"\">presence</st> with <st data-num=\"07445\" class=\"\">joyful singing</st>. </p>",
+    "verse": "2"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "100",
+    "text": "<p class=\"poetry\"><st data-num=\"03045\" class=\"\">Acknowledge</st> <st data-num=\"03588\" class=\"\">that</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> <st data-num=\"01931\" class=\"\">is</st> <st data-num=\"0430\" class=\"\">God</st>.<p class=\"poetry\"><st data-num=\"01931\" class=\"\">He</st> <st data-num=\"06213\" class=\"\">made</st> us and <st data-num=\"0587\" class=\"\">we</st> belong to him,<n id=\"1\" /> <p class=\"poetry\">we are his <st data-num=\"05971\" class=\"\">people</st>, the <st data-num=\"06629\" class=\"\">sheep</st> of his <st data-num=\"04830\" class=\"\">pasture</st>. </p>",
+    "verse": "3"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "100",
+    "text": "<p class=\"poetry\"><st data-num=\"0935\" class=\"\">Enter</st> his <st data-num=\"08179\" class=\"\">gates</st> with <st data-num=\"08426\" class=\"\">thanksgiving</st><p class=\"poetry\">and his <st data-num=\"02691\" class=\"\">courts</st> with <st data-num=\"08416\" class=\"\">praise</st>.<p class=\"poetry\"><st data-num=\"03034\" class=\"\">Give</st> him <st data-num=\"03034\" class=\"\">thanks</st>.<p class=\"poetry\"><st data-num=\"01288\" class=\"\">Praise</st> his <st data-num=\"08034\" class=\"\">name</st>. </p>",
+    "verse": "4"
+  },
+  {
+    "bookname": "Psalms",
+    "chapter": "100",
+    "text": "<p class=\"poetry\"><st data-num=\"03588\" class=\"\">For</st> the <span class=\"smcaps\"><st data-num=\"03068\" class=\"\">Lord</st></span> is <st data-num=\"02896\" class=\"\">good</st>.<p class=\"poetry\">His <st data-num=\"02617\" class=\"\">loyal love</st> <st data-num=\"05769\" class=\"\">endures</st>,<n id=\"1\" /> <p class=\"poetry\">and he is <st data-num=\"0530\" class=\"\">faithful</st> <st data-num=\"05704\" class=\"\">through</st> <st data-num=\"01755\" class=\"\">all</st> <st data-num=\"01755\" class=\"\">generations</st>.<n id=\"2\" /> </p>",
+    "verse": "5"
+  }
+]
